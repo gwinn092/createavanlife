@@ -1,0 +1,60 @@
+baseURL = "https://gwinn092.github.io/van.affiliation/"
+languageCode = "en-us"
+title = "Budget Van Life Affiliate Guide"
+theme = "blowfish"
+summaryLength = 30
+defaultContentLanguage = "en"
+
+[params]
+description = "Budget-friendly van life gear, setup guides, and affiliate recommendations for building a reliable home on wheels."
+keywords = ["budget van life", "van life gear", "affiliate", "solar", "power stations", "remote work"]
+enableNewsletter = true
+
+[params.newsletter]
+enabled = true
+heading = "Get Weekly Budget Van Life Deals"
+text = "Newsletter placeholder: add your email provider form here."
+buttonText = "Subscribe"
+
+[params.social]
+  [params.social.instagram]
+  name = "Instagram"
+  url = "https://instagram.com/yourprofile"
+  [params.social.youtube]
+  name = "YouTube"
+  url = "https://youtube.com/@yourchannel"
+  [params.social.tiktok]
+  name = "TikTok"
+  url = "https://tiktok.com/@yourprofile"
+  [params.social.pinterest]
+  name = "Pinterest"
+  url = "https://pinterest.com/yourprofile"
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+[[menus.main]]
+name = "Home"
+pageRef = "/"
+weight = 10
+
+[[menus.main]]
+name = "Gear"
+pageRef = "/gear"
+weight = 20
+
+[[menus.main]]
+name = "Blog"
+pageRef = "/blog"
+weight = 30
+
+[[menus.main]]
+name = "Affiliates"
+pageRef = "/affiliates"
+weight = 40
+
+[[menus.main]]
+name = "About"
+pageRef = "/about"
+weight = 50
