@@ -20,6 +20,10 @@ blog = "/blog/:contentbasename/"
 gear = "/gear/:contentbasename/"
 best-of = "/best-of/:contentbasename/"
 
+[taxonomies]
+tag = "tags"
+category = "categories"
+
 [sitemap]
 changefreq = "weekly"
 priority = 0.7

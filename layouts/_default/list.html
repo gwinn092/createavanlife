@@ -1,7 +1,10 @@
 {{ define "main" }}
-  {{ $pages := .Pages }}
-  {{ if .IsSection }}
-    {{ $pages = .RegularPages }}
+  {{ $pages := .RegularPages }}
+  {{ if and (eq (len $pages) 0) .Section }}
+    {{ $pages = where site.RegularPages "Section" .Section }}
+  {{ end }}
+  {{ if eq (len $pages) 0 }}
+    {{ $pages = .Pages }}
   {{ end }}
 
   <section class="vf-list-wrap mx-auto w-full max-w-7xl space-y-8 py-6">
