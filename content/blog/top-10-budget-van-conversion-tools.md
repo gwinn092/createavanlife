@@ -18,7 +18,7 @@ A focused list reduces wasted money, bad cuts, and rework. For anyone comparing 
 
 ### 1. Budget Cordless Drill/Driver
 - Best use: pilot holes, screw driving, cabinet installs.
-- Affiliate placeholder: [See Budget Drill Options]([AFFILIATE_LINK]).
+- See our current picks: [Best Budget Build Tools](/best-of/budget-build-tools/).
 
 ### 2. Circular Saw
 - Best use: straight cuts in plywood framing and countertops.

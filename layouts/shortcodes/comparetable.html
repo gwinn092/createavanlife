@@ -1,0 +1,113 @@
+{{- $rows := slice -}}
+{{- $lines := split .Inner "\n" -}}
+{{- range $line := $lines -}}
+  {{- $trimmed := trim $line " \t\r" -}}
+  {{- if $trimmed -}}
+    {{- $partsRaw := split $trimmed "|" -}}
+    {{- $parts := slice -}}
+    {{- range $p := $partsRaw -}}
+      {{- $parts = $parts | append (trim $p " \t\r") -}}
+    {{- end -}}
+    {{- if ge (len $parts) 6 -}}
+      {{- $productKey := index $parts 0 -}}
+      {{- if ne (lower $productKey) "product_key" -}}
+        {{- $rows = $rows | append (dict
+          "product_key" $productKey
+          "best_for" (index $parts 1)
+          "price" (index $parts 2)
+          "pros" (index $parts 3)
+          "cons" (index $parts 4)
+          "merchant" (index $parts 5)
+        ) -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if gt (len $rows) 0 -}}
+<div class="comparetable-wrap my-6">
+  <div class="overflow-x-auto hidden md:block">
+    <table class="min-w-full border-collapse text-sm">
+      <thead>
+        <tr>
+          <th class="border-b p-3 text-left">Product</th>
+          <th class="border-b p-3 text-left">Best For</th>
+          <th class="border-b p-3 text-left">Price</th>
+          <th class="border-b p-3 text-left">Pros</th>
+          <th class="border-b p-3 text-left">Cons</th>
+          <th class="border-b p-3 text-left">CTA</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{- range $row := $rows -}}
+          {{- $product := index site.Data.affiliates.products $row.product_key -}}
+          {{- $productName := $row.product_key -}}
+          {{- $merchant := $row.merchant -}}
+          {{- if $product -}}
+            {{- $productName = $product.name -}}
+            {{- if not $merchant }}{{ $merchant = $product.defaultMerchant }}{{ end -}}
+          {{- end -}}
+          {{- $cta := "Shop" -}}
+          {{- $url := "" -}}
+          {{- if and $product $merchant -}}
+            {{- $link := index $product.links $merchant -}}
+            {{- if $link -}}
+              {{- $cta = $link.cta | default $cta -}}
+              {{- $url = $link.url -}}
+            {{- end -}}
+          {{- end -}}
+          <tr>
+            <td class="border-b p-3 font-semibold">{{ $productName }}</td>
+            <td class="border-b p-3">{{ $row.best_for }}</td>
+            <td class="border-b p-3">{{ $row.price }}</td>
+            <td class="border-b p-3">{{ $row.pros }}</td>
+            <td class="border-b p-3">{{ $row.cons }}</td>
+            <td class="border-b p-3">
+              {{- if or (not $url) (eq $url "REPLACE_ME") -}}
+                <span class="inline-flex items-center justify-center rounded-md px-4 py-2 font-semibold shadow-sm border border-neutral-300 bg-transparent text-neutral-500 opacity-70 cursor-not-allowed" aria-disabled="true">Link coming soon</span>
+              {{- else -}}
+                <a href="{{ $url }}" class="inline-flex items-center justify-center rounded-md px-4 py-2 font-semibold shadow-sm border border-transparent bg-neutral-900 text-white hover:bg-neutral-700" target="_blank" rel="nofollow sponsored noopener noreferrer">{{ $cta }}</a>
+              {{- end -}}
+            </td>
+          </tr>
+        {{- end -}}
+      </tbody>
+    </table>
+  </div>
+
+  <div class="space-y-3 md:hidden">
+    {{- range $row := $rows -}}
+      {{- $product := index site.Data.affiliates.products $row.product_key -}}
+      {{- $productName := $row.product_key -}}
+      {{- $merchant := $row.merchant -}}
+      {{- if $product -}}
+        {{- $productName = $product.name -}}
+        {{- if not $merchant }}{{ $merchant = $product.defaultMerchant }}{{ end -}}
+      {{- end -}}
+      {{- $cta := "Shop" -}}
+      {{- $url := "" -}}
+      {{- if and $product $merchant -}}
+        {{- $link := index $product.links $merchant -}}
+        {{- if $link -}}
+          {{- $cta = $link.cta | default $cta -}}
+          {{- $url = $link.url -}}
+        {{- end -}}
+      {{- end -}}
+      <article class="rounded-lg border p-4">
+        <h3 class="text-base font-semibold">{{ $productName }}</h3>
+        <p class="mt-2 text-sm"><strong>Best For:</strong> {{ $row.best_for }}</p>
+        <p class="mt-1 text-sm"><strong>Price:</strong> {{ $row.price }}</p>
+        <p class="mt-1 text-sm"><strong>Pros:</strong> {{ $row.pros }}</p>
+        <p class="mt-1 text-sm"><strong>Cons:</strong> {{ $row.cons }}</p>
+        <div class="mt-3">
+          {{- if or (not $url) (eq $url "REPLACE_ME") -}}
+            <span class="inline-flex items-center justify-center rounded-md px-4 py-2 font-semibold shadow-sm border border-neutral-300 bg-transparent text-neutral-500 opacity-70 cursor-not-allowed" aria-disabled="true">Link coming soon</span>
+          {{- else -}}
+            <a href="{{ $url }}" class="inline-flex items-center justify-center rounded-md px-4 py-2 font-semibold shadow-sm border border-transparent bg-neutral-900 text-white hover:bg-neutral-700" target="_blank" rel="nofollow sponsored noopener noreferrer">{{ $cta }}</a>
+          {{- end -}}
+        </div>
+      </article>
+    {{- end -}}
+  </div>
+</div>
+{{- end -}}

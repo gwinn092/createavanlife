@@ -1,117 +1,40 @@
-baseURL = "https://gwinn092.github.io/van.affiliation/"
+baseURL = "https://example.com/"
 languageCode = "en-us"
-title = "Budget Van Life Affiliate Guide"
+title = "Create A Van Life"
 theme = "blowfish"
-summaryLength = 30
+enableRobotsTXT = true
+enableEmoji = false
+summaryLength = 40
+paginate = 9
 defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
 
-[params]
-description = "Budget-friendly van life gear, setup guides, and affiliate recommendations for building a reliable home on wheels."
-keywords = ["budget van life", "van life gear", "affiliate", "solar", "power stations", "remote work"]
-enableNewsletter = true
-colorScheme = "ocean"
-defaultAppearance = "light"
-autoSwitchAppearance = false
-mainSections = ["gear", "blog"]
-hotlinkFeatureImage = true
-defaultSocialImage = "img/placeholders/social-card.svg"
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+section = ["HTML", "RSS"]
+taxonomy = ["HTML", "RSS"]
+term = ["HTML", "RSS"]
 
-[params.newsletter]
-enabled = true
-heading = "Get Weekly Budget Van Life Deals"
-text = "Newsletter placeholder: add your email provider form here."
-buttonText = "Subscribe"
+[permalinks]
+blog = "/blog/:contentbasename/"
+gear = "/gear/:contentbasename/"
+best-of = "/best-of/:contentbasename/"
 
-[params.author]
-name = "Budget Van Life Affiliate Guide"
-headline = "Practical gear recommendations for affordable van living."
-links = [
-  { instagram = "https://instagram.com/yourprofile" },
-  { youtube = "https://youtube.com/@yourchannel" },
-  { tiktok = "https://tiktok.com/@yourprofile" },
-  { pinterest = "https://pinterest.com/yourprofile" },
-]
+[sitemap]
+changefreq = "weekly"
+priority = 0.7
+filename = "sitemap.xml"
 
-[params.social]
-  [params.social.instagram]
-  name = "Instagram"
-  url = "https://instagram.com/yourprofile"
-  [params.social.youtube]
-  name = "YouTube"
-  url = "https://youtube.com/@yourchannel"
-  [params.social.tiktok]
-  name = "TikTok"
-  url = "https://tiktok.com/@yourprofile"
-  [params.social.pinterest]
-  name = "Pinterest"
-  url = "https://pinterest.com/yourprofile"
-
-[params.header]
-layout = "fixed-fill-blur"
-
-[params.footer]
-showMenu = true
-showCopyright = true
-showThemeAttribution = false
-showAppearanceSwitcher = false
-showScrollToTop = true
-
-[params.homepage]
-layout = "page"
-showRecent = true
-showRecentItems = 4
-showMoreLink = true
-showMoreLinkDest = "/blog/"
-
-[params.article]
-showAuthor = false
-showTaxonomies = true
-showTableOfContents = false
-showReadingTime = true
-showWordCount = false
-sharingLinks = ["x-twitter", "facebook", "pinterest", "reddit", "whatsapp", "email"]
-
-[params.list]
-showSummary = false
-showCards = true
-groupByYear = false
-cardView = true
-cardViewScreenWidth = true
-
-[params.taxonomy]
-cardView = true
-
-[params.term]
-cardView = true
-
-[taxonomies]
-category = "categories"
-tag = "tags"
-
-[[menus.main]]
-name = "Home"
-pageRef = "/"
-weight = 10
-
-[[menus.main]]
-name = "Gear"
-pageRef = "/gear"
-weight = 20
-
-[[menus.main]]
-name = "Blog"
-pageRef = "/blog"
-weight = 30
-
-[[menus.main]]
-name = "Affiliates"
-pageRef = "/affiliates"
+[related]
+threshold = 0
+includeNewer = true
+toLower = true
+[[related.indices]]
+name = "tags"
+weight = 90
+[[related.indices]]
+name = "categories"
+weight = 70
+[[related.indices]]
+name = "keywords"
 weight = 40
-
-[[menus.main]]
-name = "About"
-pageRef = "/about"
-weight = 50
-
-[markup.goldmark.renderer]
-unsafe = true

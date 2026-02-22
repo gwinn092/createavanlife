@@ -1,31 +1,18 @@
 ---
 title: "Terms"
-date: 2026-02-20
-description: "Terms of use for Budget Van Life Affiliate Guide."
-keywords: ["terms", "affiliate site terms", "van life website terms"]
-featureimage: "/img/gear/van-promaster-window.jpg"
+description: "Terms of use for Create A Van Life."
+featureimage: "/images/featured/van-kitchen.svg"
 ---
 
-# Terms
+{{< disclosure >}}
 
-By using this website, you agree to use the information for general educational purposes only and at your own risk.
+By using this site, you agree to these terms:
 
-## No Professional Advice
+- Content is informational and does not replace professional mechanical, electrical, or legal advice.
+- You are responsible for verifying fitment, safety, and compatibility before purchasing or installing products.
+- Product prices, availability, and model names may change.
+- We are not liable for damages, losses, or outcomes resulting from use of site content.
 
-Content on this site does not constitute legal, financial, tax, or professional advice.
+All content is copyrighted unless otherwise stated.
 
-## Affiliate Relationships
-
-Some links on this site are affiliate links. If you buy through those links, we may earn a commission at no extra cost to you.
-
-## Product Information
-
-Prices, availability, specs, and model details can change over time. Always verify key details directly with the manufacturer or seller before purchasing.
-
-## Image Attribution
-
-Image attributions and license details are listed at [Image Credits](/legal/image-credits/).
-
-## Contact
-
-Questions about these terms can be directed through the contact details provided on this site.
+If you do not agree with these terms, discontinue use of the site.

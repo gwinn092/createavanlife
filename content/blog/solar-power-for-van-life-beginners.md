@@ -23,7 +23,7 @@ Solar reduces dependence on paid hookups and gives you more flexibility for off-
 Most beginners should begin with a starter setup, then expand.
 
 - Use [Best Budget Solar Power Kits](/gear/best-budget-solar-power-kits/) for easy package options.
-- Affiliate placeholder: [Check Solar Kit Deals]([AFFILIATE_LINK]).
+- See our current picks: [Best Budget Solar for Van Life](/best-of/van-solar/).
 
 ### What to Size First
 

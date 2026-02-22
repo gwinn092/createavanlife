@@ -1,7 +1,10 @@
 ---
-title: "Van Life Gear"
-description: "Budget van life gear roundups for solar, power, cooking, internet, and remote work."
-keywords: ["van life gear", "budget van products", "affiliate gear guides"]
+title: "Gear Reviews"
+description: "Real-world van gear reviews with honest tradeoffs, still-worth-it checks, and practical alternatives."
+url: "/gear/"
+featureimage: "/images/featured/build-tools.svg"
+featured_image: "/images/featured/build-tools.svg"
+keywords: ["van gear reviews", "budget van products"]
 ---
 
-Browse all budget-first gear guides and affiliate recommendations.
+Read long-form reviews with practical guidance on who each product is for, where it fails, and what to buy instead.

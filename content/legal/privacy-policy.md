@@ -1,27 +1,33 @@
 ---
 title: "Privacy Policy"
-date: 2026-02-20
-description: "Privacy policy for Budget Van Life Affiliate Guide."
-keywords: ["privacy policy", "affiliate privacy", "van life site privacy"]
-featureimage: "/img/gear/van-remote-work-1.jpg"
+description: "Privacy policy for Create A Van Life."
+featureimage: "/images/featured/van-internet.svg"
 ---
 
-# Privacy Policy
+{{< disclosure >}}
 
-This site may collect limited technical data (such as browser and device information) through standard hosting logs and analytics tools.
+Create A Van Life may collect basic analytics and referral data to understand site usage and improve content.
 
-## Email Newsletter
+## Information We Collect
 
-If you subscribe to the newsletter, your email address is used only for newsletter delivery and related updates. You can unsubscribe at any time.
+- Anonymous analytics (page views, device type, referral source)
+- Email address if you choose to subscribe to a newsletter
+- Affiliate click data passed through partner tracking links
 
-## Third-Party Links
+## How We Use Data
 
-This site links to third-party retailers and services. Their privacy practices are governed by their own policies.
+- Improve guides and navigation
+- Send optional newsletter updates if you opt in
+- Understand which gear categories are most useful
 
-## Cookies and Tracking
+We do not sell personal data.
 
-Third-party services may use cookies or similar technologies for analytics and affiliate attribution.
+## Third-Party Services
 
-## Updates
+Affiliate networks and analytics providers may use cookies according to their own policies.
 
-This policy may be updated over time. The latest version on this page is the current policy.
+## Your Choices
+
+You can disable cookies in your browser and unsubscribe from newsletter emails at any time.
+
+For privacy requests, contact the site owner through the contact link in navigation.

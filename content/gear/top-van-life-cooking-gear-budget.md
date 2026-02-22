@@ -1,33 +1,17 @@
 ---
-title: "Top Budget Van Life Cooking Gear"
-date: 2026-01-12
-description: "Affordable van life cooking gear picks with quick pros and cons so you can build a compact kitchen on budget."
-keywords: ["van life cooking gear", "budget camp stove", "van kitchen essentials"]
+title: "Top Budget Van Life Cooking Gear (Quick Picks)"
+date: 2026-02-21
+description: "Simple budget kitchen shortlist for van life meal prep and daily road use."
+featureimage: "/images/featured/van-kitchen.svg"
 categories: ["gear"]
-tags: ["budget", "cooking"]
-featureimage: "/img/gear/van-cook-stove.jpg"
+tags: ["cooking", "budget", "kitchen"]
 ---
 
-A simple cooking setup keeps food costs low and gives you more control on long trips.
+A compact, low-friction cooking setup saves money faster than almost any other van upgrade.
 
-## Best Budget Cooking Gear
+{{< disclosure >}}
 
-### Gas One Dual Fuel Stove
-- Pros: works with propane and butane, easy to refuel.
-- Cons: open-flame use requires good ventilation.
-- CTA: [Check Stove Price](#)
+- Stove picks: {{< affbtn product="two_burner_stove" merchant="amazon" text="Check Stove Deals" >}}
+- Cookware picks: {{< affbtn product="compact_cookware_kit" merchant="amazon" text="See Cookware" >}}
 
-### Stanley Adventure Cook Set
-- Pros: compact nesting design, durable for daily use.
-- Cons: limited capacity for two-plus people.
-- CTA: [View Stanley Set](#)
-
-### Lodge 10.25" Cast Iron Skillet
-- Pros: versatile and nearly indestructible.
-- Cons: heavier than non-stick alternatives.
-- CTA: [Shop Lodge Skillet](#)
-
-### BougeRV 12V Fridge (small models)
-- Pros: reduces grocery waste, efficient on DC power.
-- Cons: entry models have tighter storage space.
-- CTA: [See BougeRV Options](#)
+Read the complete buying guide: [Best Budget Van Kitchen Gear](/best-of/van-kitchen/).

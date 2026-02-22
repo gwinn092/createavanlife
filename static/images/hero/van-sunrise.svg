@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-label="Van at sunrise">
+  <defs>
+    <linearGradient id="sky" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="55%" stop-color="#1d4ed8"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#sky)"/>
+  <circle cx="1230" cy="240" r="120" fill="#fde68a" opacity="0.85"/>
+  <rect x="0" y="620" width="1600" height="280" fill="#1e293b"/>
+  <rect x="420" y="520" width="760" height="180" rx="26" fill="#f8fafc"/>
+  <rect x="500" y="560" width="250" height="90" rx="14" fill="#cbd5e1"/>
+  <rect x="790" y="560" width="300" height="90" rx="14" fill="#e2e8f0"/>
+  <circle cx="590" cy="730" r="54" fill="#0f172a"/>
+  <circle cx="1030" cy="730" r="54" fill="#0f172a"/>
+</svg>

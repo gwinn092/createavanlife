@@ -1,33 +1,17 @@
 ---
-title: "Remote Work Gear for Vans"
-date: 2026-01-18
-description: "Essential low-cost remote work gear for van life, including productivity upgrades, power accessories, and connectivity tools."
-keywords: ["remote work van life", "digital nomad van gear", "budget remote office"]
+title: "Remote Work Gear for Vans (Quick Picks)"
+date: 2026-02-21
+description: "Shortlist of practical remote work gear for van life: monitor, keyboard, power, and connectivity."
+featureimage: "/images/featured/van-internet.svg"
 categories: ["gear"]
 tags: ["remote-work", "wifi", "budget"]
-featureimage: "/img/gear/van-remote-work-1.jpg"
 ---
 
-You do not need a luxury build to work online from your van. Focus on power stability, internet uptime, and ergonomic basics.
+A reliable work setup is mostly about power and internet uptime.
 
-## Best Budget Remote Work Picks
+{{< disclosure >}}
 
-### Portable 15.6" USB-C Monitor
-- Pros: dual-screen productivity at low cost.
-- Cons: fragile panels need padded storage.
-- CTA: [See Portable Monitor Deals](#)
+- Work essentials: {{< affbtn product="amazon_storefront" merchant="amazon" text="Shop Work Gear" >}}
+- Power pairings: {{< affbtn product="bluetti_store" merchant="bluetti" text="Check Power Options" >}}
 
-### Logitech MX Anywhere 3S
-- Pros: compact, reliable on many surfaces.
-- Cons: premium price versus entry mice.
-- CTA: [Shop Logitech MX Anywhere](#)
-
-### Anker 7-in-1 USB-C Hub
-- Pros: adds ports fast for laptops/tablets.
-- Cons: heat build-up under heavy use.
-- CTA: [Check Hub Pricing](#)
-
-### Noise-Isolating USB Headset
-- Pros: cleaner call audio in noisy camp spots.
-- Cons: wired models can clutter a small desk.
-- CTA: [View Budget Headsets](#)
+Also read: [Van Internet: What Actually Works Off-Grid](/blog/van-internet-what-actually-works-off-grid/).

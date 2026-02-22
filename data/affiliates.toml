@@ -1,0 +1,288 @@
+[global]
+disclosure = "Disclosure: Some links may be affiliate links. If you buy, we may earn a commission at no extra cost to you."
+
+[merchants]
+  [merchants.amazon]
+  name = "Amazon"
+  [merchants.bluetti]
+  name = "BLUETTI"
+  [merchants.renogy]
+  name = "Renogy"
+  [merchants.etrailer]
+  name = "etrailer"
+  [merchants.crutchfield]
+  name = "Crutchfield"
+  [merchants.direct]
+  name = "Direct"
+
+[products.bluetti_elite_200_v2]
+name = "BLUETTI Elite 200 V2"
+defaultMerchant = "bluetti"
+  [products.bluetti_elite_200_v2.links.bluetti]
+  url = "REPLACE_ME"
+  cta = "Shop at BLUETTI"
+  price_note = "$$$"
+  [products.bluetti_elite_200_v2.links.amazon]
+  url = "REPLACE_ME"
+  cta = "Check Amazon Price"
+  price_note = "$$$"
+
+[products.bluetti_charger_1]
+name = "BLUETTI Charger 1"
+defaultMerchant = "bluetti"
+  [products.bluetti_charger_1.links.bluetti]
+  url = "REPLACE_ME"
+  cta = "Shop Charger 1"
+  price_note = "$$$"
+  [products.bluetti_charger_1.links.amazon]
+  url = "REPLACE_ME"
+  cta = "Check Amazon Price"
+  price_note = "$$$"
+
+[products.renogy_100w_slim_panel]
+name = "Renogy 100W Slim Panel"
+defaultMerchant = "renogy"
+  [products.renogy_100w_slim_panel.links.renogy]
+  url = "REPLACE_ME"
+  cta = "Shop at Renogy"
+  price_note = "$$"
+  [products.renogy_100w_slim_panel.links.amazon]
+  url = "REPLACE_ME"
+  cta = "Check Amazon Price"
+  price_note = "$$"
+
+[products.maxxair_7500]
+name = "MaxxAir MaxxFan Deluxe 7500"
+defaultMerchant = "etrailer"
+  [products.maxxair_7500.links.etrailer]
+  url = "REPLACE_ME"
+  cta = "Shop at etrailer"
+  price_note = "$$"
+  [products.maxxair_7500.links.amazon]
+  url = "REPLACE_ME"
+  cta = "Check Amazon Price"
+  price_note = "$$"
+
+[products.maxxair_4500]
+name = "MaxxAir 4500"
+defaultMerchant = "etrailer"
+  [products.maxxair_4500.links.etrailer]
+  url = "REPLACE_ME"
+  cta = "Shop at etrailer"
+  price_note = "$$"
+  [products.maxxair_4500.links.amazon]
+  url = "REPLACE_ME"
+  cta = "Check Amazon Price"
+  price_note = "$$"
+
+[products.crl_tvent_promaster]
+name = "CRL T-Vent Window (ProMaster)"
+defaultMerchant = "etrailer"
+  [products.crl_tvent_promaster.links.etrailer]
+  url = "REPLACE_ME"
+  cta = "Shop CRL T-Vent"
+  price_note = "$$$"
+  [products.crl_tvent_promaster.links.amazon]
+  url = "REPLACE_ME"
+  cta = "Check Amazon Price"
+  price_note = "$$$"
+
+[products.compustar_cs6900]
+name = "Compustar CS6900"
+defaultMerchant = "amazon"
+  [products.compustar_cs6900.links.amazon]
+  url = "REPLACE_ME"
+  cta = "Check Amazon Price"
+  price_note = "$$"
+  [products.compustar_cs6900.links.crutchfield]
+  url = "REPLACE_ME"
+  cta = "Compare at Crutchfield"
+  price_note = "$$"
+
+[products.kenwood_dnx574s]
+name = "Kenwood DNX574S"
+defaultMerchant = "crutchfield"
+  [products.kenwood_dnx574s.links.crutchfield]
+  url = "REPLACE_ME"
+  cta = "Shop at Crutchfield"
+  price_note = "$$$"
+  [products.kenwood_dnx574s.links.amazon]
+  url = "REPLACE_ME"
+  cta = "Check Amazon Price"
+  price_note = "$$$"
+
+[products.radiant_insulation]
+name = "Radiant Composite Insulation + Polyiso"
+defaultMerchant = "amazon"
+  [products.radiant_insulation.links.amazon]
+  url = "REPLACE_ME"
+  cta = "Shop Materials"
+  price_note = "$$"
+  [products.radiant_insulation.links.etrailer]
+  url = "REPLACE_ME"
+  cta = "See Build Accessories"
+  price_note = "$$"
+
+[products.dometic_portable_toilet]
+name = "Dometic Portable Toilet"
+defaultMerchant = "amazon"
+  [products.dometic_portable_toilet.links.amazon]
+  url = "REPLACE_ME"
+  cta = "Check Amazon Price"
+  price_note = "$$"
+  [products.dometic_portable_toilet.links.etrailer]
+  url = "REPLACE_ME"
+  cta = "Shop at etrailer"
+  price_note = "$$"
+
+[products.ecoflow_river_2_pro]
+name = "EcoFlow River 2 Pro"
+defaultMerchant = "amazon"
+  [products.ecoflow_river_2_pro.links.amazon]
+  url = "REPLACE_ME"
+  cta = "Check Amazon Price"
+  price_note = "$$$"
+
+[products.jackery_1000_v2]
+name = "Jackery 1000 v2"
+defaultMerchant = "amazon"
+  [products.jackery_1000_v2.links.amazon]
+  url = "REPLACE_ME"
+  cta = "Check Amazon Price"
+  price_note = "$$$"
+
+[products.anker_solix_c1000]
+name = "Anker SOLIX C1000"
+defaultMerchant = "amazon"
+  [products.anker_solix_c1000.links.amazon]
+  url = "REPLACE_ME"
+  cta = "Check Amazon Price"
+  price_note = "$$$"
+
+[products.amazon_storefront]
+name = "Amazon Van Gear Storefront"
+defaultMerchant = "amazon"
+  [products.amazon_storefront.links.amazon]
+  url = "REPLACE_ME"
+  cta = "Shop Amazon Picks"
+  price_note = "$$"
+
+[products.renogy_store]
+name = "Renogy Store"
+defaultMerchant = "renogy"
+  [products.renogy_store.links.renogy]
+  url = "REPLACE_ME"
+  cta = "Shop Renogy"
+  price_note = "$$"
+
+[products.bluetti_store]
+name = "BLUETTI Store"
+defaultMerchant = "bluetti"
+  [products.bluetti_store.links.bluetti]
+  url = "REPLACE_ME"
+  cta = "Shop BLUETTI"
+  price_note = "$$"
+
+[products.etrailer_store]
+name = "etrailer Store"
+defaultMerchant = "etrailer"
+  [products.etrailer_store.links.etrailer]
+  url = "REPLACE_ME"
+  cta = "Shop etrailer"
+  price_note = "$$"
+
+[products.crutchfield_store]
+name = "Crutchfield Store"
+defaultMerchant = "crutchfield"
+  [products.crutchfield_store.links.crutchfield]
+  url = "REPLACE_ME"
+  cta = "Shop Crutchfield"
+  price_note = "$$"
+
+[products.hqst_200w_kit]
+name = "HQST 200W Solar Kit"
+defaultMerchant = "amazon"
+  [products.hqst_200w_kit.links.amazon]
+  url = "REPLACE_ME"
+  cta = "Check Amazon Price"
+  price_note = "$$"
+
+[products.portable_suitcase_solar]
+name = "Portable Suitcase Solar Kit"
+defaultMerchant = "amazon"
+  [products.portable_suitcase_solar.links.amazon]
+  url = "REPLACE_ME"
+  cta = "See Portable Options"
+  price_note = "$$"
+
+[products.internet_hotspot_router]
+name = "Van Hotspot Router Setup"
+defaultMerchant = "amazon"
+  [products.internet_hotspot_router.links.amazon]
+  url = "REPLACE_ME"
+  cta = "Check Router Picks"
+  price_note = "$$"
+
+[products.signal_booster_kit]
+name = "Signal Booster Kit"
+defaultMerchant = "amazon"
+  [products.signal_booster_kit.links.amazon]
+  url = "REPLACE_ME"
+  cta = "See Booster Deals"
+  price_note = "$$$"
+
+[products.phone_tether_backup]
+name = "Phone Tether Backup Setup"
+defaultMerchant = "direct"
+  [products.phone_tether_backup.links.direct]
+  url = "REPLACE_ME"
+  cta = "Setup Guide"
+  price_note = "$"
+
+[products.two_burner_stove]
+name = "Two-Burner Camp Stove"
+defaultMerchant = "amazon"
+  [products.two_burner_stove.links.amazon]
+  url = "REPLACE_ME"
+  cta = "Check Stove Price"
+  price_note = "$$"
+
+[products.compact_cookware_kit]
+name = "Compact Cookware Kit"
+defaultMerchant = "amazon"
+  [products.compact_cookware_kit.links.amazon]
+  url = "REPLACE_ME"
+  cta = "View Cookware Deals"
+  price_note = "$$"
+
+[products.van_fridge_combo]
+name = "Van Fridge + Pantry Combo"
+defaultMerchant = "amazon"
+  [products.van_fridge_combo.links.amazon]
+  url = "REPLACE_ME"
+  cta = "Compare Fridge Options"
+  price_note = "$$$"
+
+[products.drill_driver_combo]
+name = "Drill/Driver Combo Kit"
+defaultMerchant = "amazon"
+  [products.drill_driver_combo.links.amazon]
+  url = "REPLACE_ME"
+  cta = "See Combo Deals"
+  price_note = "$$"
+
+[products.rivnut_tool]
+name = "Rivnut Installation Tool"
+defaultMerchant = "amazon"
+  [products.rivnut_tool.links.amazon]
+  url = "REPLACE_ME"
+  cta = "Check Tool Price"
+  price_note = "$$"
+
+[products.electrical_crimper_set]
+name = "Electrical Crimper Set"
+defaultMerchant = "amazon"
+  [products.electrical_crimper_set.links.amazon]
+  url = "REPLACE_ME"
+  cta = "View Crimper Picks"
+  price_note = "$$"

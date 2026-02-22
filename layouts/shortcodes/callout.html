@@ -1,0 +1,5 @@
+{{ $title := .Get "title" | default "Quick Take" }}
+<div class="callout-shortcode">
+  <p class="callout-title">{{ $title }}</p>
+  <div class="callout-body">{{ .Inner | markdownify }}</div>
+</div>

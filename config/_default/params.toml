@@ -1,0 +1,63 @@
+colorScheme = "ocean"
+defaultAppearance = "light"
+autoSwitchAppearance = false
+defaultBackgroundImage = ""
+disableImageOptimization = false
+disableTextInHeader = false
+defaultSocialImage = "/images/featured/van-solar.svg"
+
+description = "Budget van life gear guides, real-world reviews, and beginner-friendly build advice."
+keywords = ["budget van life", "van life gear", "van conversion", "affiliate gear guide", "off-grid van build"]
+mainSections = ["best-of", "gear", "blog", "start-here"]
+
+[header]
+layout = "fixed-fill-blur"
+
+[footer]
+showMenu = true
+showCopyright = true
+showThemeAttribution = false
+showAppearanceSwitcher = false
+showScrollToTop = true
+
+[article]
+showDate = true
+showDateUpdated = true
+showAuthor = false
+showTaxonomies = true
+showReadingTime = true
+showWordCount = false
+showTableOfContents = true
+showComments = false
+sharingLinks = ["x-twitter", "facebook", "pinterest", "reddit", "email"]
+
+[list]
+showSummary = true
+showCards = true
+cardView = true
+cardViewScreenWidth = true
+
+affiliateDisclosure = "Disclosure: Some links may be affiliate links. If you buy, we may earn a commission at no extra cost to you."
+
+[homepage]
+layout = "custom"
+showRecent = false
+
+[author]
+name = "Moments in the Miles"
+headline = "7 years full-time van life. Budget-first gear testing and honest recommendations."
+image = "/images/hero/van-sunrise.svg"
+
+[seo]
+canonical = true
+twitterCard = "summary_large_image"
+openGraph = true
+schema = true
+
+[params.social]
+  [params.social.instagram]
+  name = "Instagram"
+  url = "https://instagram.com/createavanlife"
+  [params.social.youtube]
+  name = "YouTube"
+  url = "https://youtube.com/@createavanlife"

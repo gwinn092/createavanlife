@@ -1,0 +1,30 @@
+{{- $productKey := .Get "product" -}}
+{{- $merchantArg := .Get "merchant" -}}
+{{- $style := .Get "style" | default "primary" -}}
+{{- $products := site.Data.affiliates.products -}}
+{{- $product := index $products $productKey -}}
+{{- $base := "inline-flex items-center justify-center rounded-md px-4 py-2 font-semibold shadow-sm" -}}
+{{- $variant := "border border-transparent bg-neutral-900 text-white hover:bg-neutral-700" -}}
+{{- if eq $style "secondary" -}}
+  {{- $variant = "border border-transparent bg-neutral-200 text-neutral-900 hover:bg-neutral-300" -}}
+{{- else if eq $style "outline" -}}
+  {{- $variant = "border border-neutral-300 bg-transparent text-neutral-900 hover:bg-neutral-100" -}}
+{{- end -}}
+{{- $class := printf "%s %s" $base $variant -}}
+
+{{- if not $product -}}
+  <span class="{{ $class }} opacity-60 cursor-not-allowed" aria-disabled="true">Link coming soon</span>
+{{- else -}}
+  {{- $merchant := $merchantArg | default $product.defaultMerchant -}}
+  {{- $link := index $product.links $merchant -}}
+  {{- $url := "" -}}
+  {{- if $link }}{{ $url = $link.url }}{{ end -}}
+  {{- $fallbackText := "Check price" -}}
+  {{- if $link }}{{ $fallbackText = $link.cta | default $fallbackText }}{{ end -}}
+  {{- $text := .Get "text" | default $fallbackText -}}
+  {{- if or (not $url) (eq $url "REPLACE_ME") -}}
+    <span class="{{ $class }} opacity-60 cursor-not-allowed" aria-disabled="true">Link coming soon</span>
+  {{- else -}}
+    <a href="{{ $url }}" class="{{ $class }}" target="_blank" rel="nofollow sponsored noopener noreferrer">{{ $text }}</a>
+  {{- end -}}
+{{- end -}}

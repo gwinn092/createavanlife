@@ -1,177 +1,21 @@
 {{ define "main" }}
-  {{ $blogPosts := first 3 (where site.RegularPages "Section" "blog") }}
+  <section class="home-shell mx-auto w-full max-w-7xl space-y-10 py-6 md:py-10">
+    {{ partial "home/hero.html" . }}
+    {{ partial "home/trust-strip.html" . }}
+    {{ partial "home/top-picks.html" . }}
+    {{ partial "home/featured-guides.html" . }}
+    {{ partial "home/latest-posts.html" . }}
+    {{ partial "home/newsletter.html" . }}
 
-  <section class="mx-auto w-full max-w-7xl space-y-14 py-8">
-    <section class="overflow-hidden rounded-2xl border border-neutral-200 bg-gradient-to-r from-slate-900 via-slate-800 to-cyan-900 text-white shadow-2xl">
-      <div class="grid gap-8 p-8 md:grid-cols-2 md:p-12">
-        <div class="space-y-5">
-          <p class="inline-block rounded-full border border-white/30 px-3 py-1 text-xs font-semibold uppercase tracking-wider text-cyan-200">Budget Van Life Affiliate Guide</p>
-          <h1 class="text-4xl font-extrabold leading-tight md:text-5xl">Budget Van Life Made Simple</h1>
-          <p class="max-w-xl text-base font-medium text-white md:text-lg">Simple budget gear picks and step-by-step guides to get on the road faster.</p>
-          <div class="flex flex-wrap gap-3 pt-2">
-            <a href="{{ "/gear/" | relLangURL }}" class="rounded-full bg-cyan-400 px-6 py-3 text-sm font-bold text-slate-900 transition hover:bg-cyan-300" role="button">Explore Gear</a>
-            <a href="{{ "/blog/" | relLangURL }}" class="rounded-full border border-white/40 bg-white/10 px-6 py-3 text-sm font-bold text-white transition hover:bg-white/20" role="button">Read Guides</a>
-          </div>
-        </div>
-        <div class="grid grid-cols-2 gap-3 md:gap-4">
-          <img src="/img/gear/van-hero-camper.jpg" alt="Budget van conversion setup" class="h-36 w-full rounded-xl object-cover md:h-44">
-          <img src="/img/gear/van-solar-roof.webp" alt="Solar setup on van roof" class="h-36 w-full rounded-xl object-cover md:h-44">
-          <img src="/img/gear/van-cook-stove.jpg" alt="Compact van kitchen" class="h-36 w-full rounded-xl object-cover md:h-44">
-          <img src="/img/gear/van-workstation.jpg" alt="Remote work station in van" class="h-36 w-full rounded-xl object-cover md:h-44">
-        </div>
+    <section class="rounded-2xl border border-neutral-200 bg-white p-5 shadow-sm md:p-7">
+      <h2 class="text-xl font-extrabold text-neutral-900 md:text-2xl">Before You Buy Any Gear</h2>
+      <p class="mt-2 text-sm text-neutral-700 md:text-base">Read the legal pages and our review policy so you understand how we test, compare, and monetize recommendations.</p>
+      <div class="mt-4 flex flex-wrap gap-2">
+        <a href="{{ "/legal/affiliate-disclosure/" | relLangURL }}" class="rounded-full bg-neutral-900 px-4 py-2 text-xs font-bold text-white hover:bg-neutral-700" role="button">Disclosure</a>
+        <a href="{{ "/legal/privacy-policy/" | relLangURL }}" class="rounded-full border border-neutral-300 bg-white px-4 py-2 text-xs font-bold text-neutral-700 hover:bg-neutral-100" role="button">Privacy</a>
+        <a href="{{ "/legal/terms/" | relLangURL }}" class="rounded-full border border-neutral-300 bg-white px-4 py-2 text-xs font-bold text-neutral-700 hover:bg-neutral-100" role="button">Terms</a>
       </div>
-    </section>
-
-    <section aria-labelledby="featured-guides" class="space-y-4">
-      <div class="flex items-end justify-between">
-        <h2 id="featured-guides" class="text-2xl font-extrabold text-neutral-900">Featured Guides</h2>
-        <a href="{{ "/blog/" | relLangURL }}" class="text-sm font-semibold text-primary-600 hover:underline">View all guides</a>
-      </div>
-      <div class="grid gap-5 md:grid-cols-2 xl:grid-cols-4">
-        <article class="home-feature-card overflow-hidden rounded-xl border border-neutral-200 bg-white shadow-sm h-full flex flex-col">
-          <img src="/img/gear/van-hero-camper.jpg" alt="How to start van life on a budget" class="h-44 w-full object-cover">
-          <div class="card-body space-y-3 p-4 flex h-full flex-col">
-            <h3 class="text-lg font-bold text-neutral-900">How to Start Van Life on a Budget</h3>
-            <p class="text-sm text-neutral-600">A practical budget van life starter roadmap for choosing your van, building essentials, and avoiding costly mistakes.</p>
-            <a href="{{ "/blog/how-to-start-van-life-on-a-budget/" | relLangURL }}" class="inline-block rounded-full bg-neutral-900 px-4 py-2 text-xs font-bold text-white hover:bg-neutral-700 mt-auto" role="button">View Guide</a>
-          </div>
-        </article>
-        <article class="home-feature-card overflow-hidden rounded-xl border border-neutral-200 bg-white shadow-sm h-full flex flex-col">
-          <img src="/img/gear/van-solar-roof.webp" alt="Solar basics for van life" class="h-44 w-full object-cover">
-          <div class="card-body space-y-3 p-4 flex h-full flex-col">
-            <h3 class="text-lg font-bold text-neutral-900">Solar Power Basics for Beginners</h3>
-            <p class="text-sm text-neutral-600">Understand panel sizing, battery basics, and affordable setup paths without overbuilding your first system.</p>
-            <a href="{{ "/blog/solar-power-for-van-life-beginners/" | relLangURL }}" class="inline-block rounded-full bg-neutral-900 px-4 py-2 text-xs font-bold text-white hover:bg-neutral-700 mt-auto" role="button">View Guide</a>
-          </div>
-        </article>
-        <article class="home-feature-card overflow-hidden rounded-xl border border-neutral-200 bg-white shadow-sm h-full flex flex-col">
-          <img src="/img/gear/van-remote-work-2.jpg" alt="Remote work setup inside van" class="h-44 w-full object-cover">
-          <div class="card-body space-y-3 p-4 flex h-full flex-col">
-            <h3 class="text-lg font-bold text-neutral-900">Remote Work Setup for Vans</h3>
-            <p class="text-sm text-neutral-600">Build a reliable mobile office with stable internet, budget-friendly power, and practical ergonomic gear.</p>
-            <a href="{{ "/blog/remote-work-from-your-van-inexpensive-setup/" | relLangURL }}" class="inline-block rounded-full bg-neutral-900 px-4 py-2 text-xs font-bold text-white hover:bg-neutral-700 mt-auto" role="button">View Guide</a>
-          </div>
-        </article>
-        <article class="home-feature-card overflow-hidden rounded-xl border border-neutral-200 bg-white shadow-sm h-full flex flex-col">
-          <img src="/img/gear/van-camper-interior.jpg" alt="Budget van conversion tools" class="h-44 w-full object-cover">
-          <div class="card-body space-y-3 p-4 flex h-full flex-col">
-            <h3 class="text-lg font-bold text-neutral-900">Top Budget Conversion Tools</h3>
-            <p class="text-sm text-neutral-600">The cheap van conversion tools that actually matter when you want to build cleanly on a tight budget.</p>
-            <a href="{{ "/blog/top-10-budget-van-conversion-tools/" | relLangURL }}" class="inline-block rounded-full bg-neutral-900 px-4 py-2 text-xs font-bold text-white hover:bg-neutral-700 mt-auto" role="button">View Guide</a>
-          </div>
-        </article>
-      </div>
-    </section>
-
-    <section aria-labelledby="top-gear-picks" class="space-y-4">
-      <h2 id="top-gear-picks" class="text-2xl font-extrabold text-neutral-900">Top Gear Picks</h2>
-      <div class="grid gap-5 md:grid-cols-2 xl:grid-cols-4">
-        <article class="home-pick-card rounded-xl border border-neutral-200 bg-white p-4 shadow-sm h-full flex flex-col">
-          <img src="/img/gear/van-solar-roof.webp" alt="Best budget solar kits" class="mb-4 h-40 w-full rounded-lg object-cover">
-          <h3 class="text-lg font-bold text-neutral-900">Best Budget Solar Kits</h3>
-          <p class="mt-2 text-sm text-neutral-600">Best for: first-time solar setup and expandable off-grid power.</p>
-          <p class="mt-1 text-sm font-semibold text-neutral-700">Price range: $200-$650</p>
-          <a href="[AFFILIATE_LINK]" class="mt-auto inline-block rounded-full bg-primary-600 px-4 py-2 text-xs font-bold text-white hover:bg-primary-500" role="button">Shop Best Solar Kits</a>
-        </article>
-        <article class="home-pick-card rounded-xl border border-neutral-200 bg-white p-4 shadow-sm h-full flex flex-col">
-          <img src="/img/gear/van-power-station-alt.jpg" alt="Portable power stations under 500" class="mb-4 h-40 w-full rounded-lg object-cover">
-          <h3 class="text-lg font-bold text-neutral-900">Portable Power Stations Under $500</h3>
-          <p class="mt-2 text-sm text-neutral-600">Best for: plug-and-play power for laptops, lights, and weekend trips.</p>
-          <p class="mt-1 text-sm font-semibold text-neutral-700">Price range: $199-$499</p>
-          <a href="[AFFILIATE_LINK]" class="mt-auto inline-block rounded-full bg-primary-600 px-4 py-2 text-xs font-bold text-white hover:bg-primary-500" role="button">Shop Power Stations</a>
-        </article>
-        <article class="home-pick-card rounded-xl border border-neutral-200 bg-white p-4 shadow-sm h-full flex flex-col">
-          <img src="/img/gear/van-cook-stove.jpg" alt="Cooking gear for van life" class="mb-4 h-40 w-full rounded-lg object-cover">
-          <h3 class="text-lg font-bold text-neutral-900">Cooking Gear for Van Life</h3>
-          <p class="mt-2 text-sm text-neutral-600">Best for: compact meal prep, lower food costs, and daily cooking.</p>
-          <p class="mt-1 text-sm font-semibold text-neutral-700">Best for: daily road meals</p>
-          <a href="[AFFILIATE_LINK]" class="mt-auto inline-block rounded-full bg-primary-600 px-4 py-2 text-xs font-bold text-white hover:bg-primary-500" role="button">Shop Cooking Gear</a>
-        </article>
-        <article class="home-pick-card rounded-xl border border-neutral-200 bg-white p-4 shadow-sm h-full flex flex-col">
-          <img src="/img/gear/van-workstation.jpg" alt="Internet and Wi-Fi boosters" class="mb-4 h-40 w-full rounded-lg object-cover">
-          <h3 class="text-lg font-bold text-neutral-900">Internet &amp; Wi-Fi Boosters</h3>
-          <p class="mt-2 text-sm text-neutral-600">Best for: remote work uptime, better campground signal, and hotspot stability.</p>
-          <p class="mt-1 text-sm font-semibold text-neutral-700">Price range: $80-$650</p>
-          <a href="[AFFILIATE_LINK]" class="mt-auto inline-block rounded-full bg-primary-600 px-4 py-2 text-xs font-bold text-white hover:bg-primary-500" role="button">Shop Wi-Fi Boosters</a>
-        </article>
-      </div>
-    </section>
-
-    <section aria-labelledby="latest-posts" class="space-y-4">
-      <div class="flex items-end justify-between">
-        <h2 id="latest-posts" class="text-2xl font-extrabold text-neutral-900">Latest Blog Posts</h2>
-        <a href="{{ "/blog/" | relLangURL }}" class="text-sm font-semibold text-primary-600 hover:underline">See all posts</a>
-      </div>
-      <div class="grid gap-5 md:grid-cols-3">
-        {{ range $blogPosts }}
-          {{ $img := .Params.featureimage | default "/img/placeholders/blog-placeholder.svg" }}
-          <article class="home-post-card overflow-hidden rounded-xl border border-neutral-200 bg-white shadow-sm h-full flex flex-col">
-            <img src="{{ $img | relURL }}" alt="{{ .Title }}" class="h-44 w-full object-cover">
-            <div class="card-body space-y-3 p-4 flex h-full flex-col">
-              <p class="text-xs font-semibold uppercase tracking-wide text-neutral-500">{{ .Date | time.Format "January 2, 2006" }}</p>
-              <h3 class="text-lg font-bold text-neutral-900">{{ .Title }}</h3>
-              <a href="{{ .RelPermalink }}" class="inline-block rounded-full bg-neutral-900 px-4 py-2 text-xs font-bold text-white hover:bg-neutral-700 mt-auto" role="button">Read More</a>
-            </div>
-          </article>
-        {{ end }}
-      </div>
-    </section>
-
-    <section aria-labelledby="newsletter" class="newsletter-pro rounded-2xl border border-neutral-200 p-0 shadow-sm overflow-hidden">
-      <div class="grid md:grid-cols-2">
-        <div class="newsletter-pro-copy p-7 md:p-9">
-          <p class="newsletter-pro-kicker">Weekly Van Budget Brief</p>
-          <h2 id="newsletter" class="text-2xl font-extrabold text-white md:text-3xl">Get Budget Tips &amp; Gear Deals</h2>
-          <p class="mt-3 text-sm text-slate-100 md:text-base">One practical email each week with tested picks, current deal alerts, and what is actually worth buying now.</p>
-          <ul class="mt-4 space-y-2 text-sm text-cyan-100">
-            <li>Real price-to-value picks</li>
-            <li>No spam, unsubscribe anytime</li>
-            <li>Built for budget-first van life</li>
-          </ul>
-        </div>
-        <div class="newsletter-pro-form-wrap p-7 md:p-9">
-          <form action="#" method="post" class="newsletter-pro-form" aria-label="Newsletter signup">
-            <label for="email" class="sr-only">Email address</label>
-            <input id="email" name="email" type="email" required placeholder="you@example.com" class="w-full rounded-xl border border-slate-300 bg-white px-4 py-3 text-sm text-slate-900 outline-none ring-2 ring-transparent focus:border-sky-500 focus:ring-sky-200">
-            <button type="submit" class="w-full rounded-full bg-slate-900 px-6 py-3 text-sm font-bold text-white transition hover:bg-slate-800">Send Me Weekly Deals</button>
-            <p class="text-xs text-slate-500">Newsletter placeholder: connect your email provider embed later.</p>
-          </form>
-        </div>
-      </div>
-    </section>
-
-    <section aria-labelledby="home-footer" class="rounded-2xl border border-neutral-200 bg-white p-5 shadow-sm md:p-6">
-      <h2 id="home-footer" class="sr-only">Homepage Footer Links</h2>
-      <div class="grid gap-5 md:grid-cols-3">
-        <div>
-          <h3 class="text-xs font-extrabold uppercase tracking-wide text-neutral-500">Menu</h3>
-          <div class="mt-2 flex flex-wrap gap-x-3 gap-y-1 text-sm">
-            <a href="{{ "/" | relLangURL }}" class="text-neutral-700 hover:text-primary-600">Home</a>
-            <a href="{{ "/gear/" | relLangURL }}" class="text-neutral-700 hover:text-primary-600">Gear</a>
-            <a href="{{ "/blog/" | relLangURL }}" class="text-neutral-700 hover:text-primary-600">Guides</a>
-            <a href="{{ "/about/" | relLangURL }}" class="text-neutral-700 hover:text-primary-600">About</a>
-            <a href="{{ "/affiliates/" | relLangURL }}" class="text-neutral-700 hover:text-primary-600">Affiliates</a>
-          </div>
-        </div>
-        <div>
-          <h3 class="text-xs font-extrabold uppercase tracking-wide text-neutral-500">Legal</h3>
-          <div class="mt-2 flex flex-wrap gap-x-3 gap-y-1 text-sm">
-            <a href="{{ "/legal/affiliate-disclosure/" | relLangURL }}" class="text-neutral-700 hover:text-primary-600">Disclosure</a>
-            <a href="{{ "/legal/privacy-policy/" | relLangURL }}" class="text-neutral-700 hover:text-primary-600">Privacy</a>
-            <a href="{{ "/legal/terms/" | relLangURL }}" class="text-neutral-700 hover:text-primary-600">Terms</a>
-            <a href="{{ "/legal/image-credits/" | relLangURL }}" class="text-neutral-700 hover:text-primary-600">Image Credits</a>
-          </div>
-        </div>
-        <div>
-          <h3 class="text-xs font-extrabold uppercase tracking-wide text-neutral-500">Social</h3>
-          <div class="mt-2 flex flex-wrap gap-2">
-            <a href="https://instagram.com/yourprofile" aria-label="Instagram" class="rounded-full border border-neutral-300 p-2 text-neutral-700 hover:text-primary-600">{{ partial "icon.html" "instagram" }}</a>
-            <a href="#" aria-label="Facebook" class="rounded-full border border-neutral-300 p-2 text-neutral-700 hover:text-primary-600">{{ partial "icon.html" "facebook" }}</a>
-            <a href="https://pinterest.com/yourprofile" aria-label="Pinterest" class="rounded-full border border-neutral-300 p-2 text-neutral-700 hover:text-primary-600">{{ partial "icon.html" "pinterest" }}</a>
-          </div>
-        </div>
-      </div>
-      <p class="mt-4 border-t border-neutral-200 pt-3 text-xs text-neutral-500">This site contains affiliate links. We may earn a commission when you purchase through these links, at no extra cost to you.</p>
+      <p class="mt-4 rounded-lg border border-amber-200 bg-amber-50 p-3 text-xs text-amber-900">{{ site.Data.affiliates.global.disclosure }}</p>
     </section>
   </section>
 {{ end }}

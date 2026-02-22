@@ -27,7 +27,7 @@ Dropped calls and unstable uploads are usually bigger problems than raw speed.
 - Use a hotspot/router combo plus antenna.
 - Keep at least one backup carrier when possible.
 - Gear options: [Internet and Wi-Fi Boosters for Van Life](/gear/internet-wifi-boosters-for-van-life/).
-- Affiliate placeholder: [Shop Connectivity Gear]([AFFILIATE_LINK]).
+- See our current picks: [Best Internet Setup for Van Life](/best-of/van-internet/).
 
 ## Power Your Workday Without Stress
 

@@ -1,33 +1,17 @@
 ---
-title: "Internet and Wi-Fi Boosters for Van Life"
-date: 2026-01-15
-description: "Budget-friendly connectivity gear for van life, from signal boosters to mobile routers with affiliate-ready CTAs."
-keywords: ["van life wifi", "cell booster", "mobile internet van"]
+title: "Internet and Wi-Fi Boosters for Van Life (Quick Picks)"
+date: 2026-02-21
+description: "Quick-buy options for van internet reliability: hotspots, routers, boosters, and antennas."
+featureimage: "/images/featured/van-internet.svg"
 categories: ["gear"]
-tags: ["wifi", "remote-work", "budget"]
-featureimage: "/img/gear/van-workstation.jpg"
+tags: ["wifi", "internet", "remote-work", "budget"]
 ---
 
-Reliable internet is critical if you work remotely or stream on the road. These options balance cost and reliability.
+Use this page as a fast shortlist, then read the full setup strategy.
 
-## Recommended Connectivity Gear
+{{< disclosure >}}
 
-### weBoost Drive Reach
-- Pros: stronger fringe-area signal, durable hardware.
-- Cons: higher upfront cost than passive options.
-- CTA: [Check weBoost Pricing](#)
+- Hotspot/router picks: {{< affbtn product="internet_hotspot_router" merchant="amazon" text="See Router Picks" >}}
+- Signal booster picks: {{< affbtn product="signal_booster_kit" merchant="amazon" text="Check Booster Deals" >}}
 
-### GL.iNet Spitz AX Router
-- Pros: multi-carrier flexibility, advanced controls.
-- Cons: steeper setup for non-technical users.
-- CTA: [View GL.iNet Router](#)
-
-### NETGEAR Nighthawk M6 (used/refurb deals)
-- Pros: excellent speeds where coverage is strong.
-- Cons: can exceed budget new.
-- CTA: [Find Nighthawk Deals](#)
-
-### Poynting Omni Antenna
-- Pros: better rooftop reception for LTE/5G routers.
-- Cons: requires proper mounting and cable routing.
-- CTA: [Shop Poynting Antenna](#)
+Deep dive: [Best Internet Setup for Van Life](/best-of/van-internet/).

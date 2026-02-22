@@ -1,33 +1,17 @@
 ---
-title: "Portable Power Stations Under $500"
-date: 2026-01-08
-description: "Best-value power stations for van life under $500, including strengths, tradeoffs, and affiliate CTA placeholders."
-keywords: ["power station under 500", "van life battery", "budget power station"]
+title: "Portable Power Stations Under $500 (Quick Picks)"
+date: 2026-02-21
+description: "Fast shortlist of portable power stations under $500 for budget van life."
+featureimage: "/images/featured/power-stations.svg"
 categories: ["gear"]
-tags: ["budget", "solar", "remote-work"]
-featureimage: "/img/gear/van-power-station-alt.jpg"
+tags: ["power", "battery", "budget", "remote-work"]
 ---
 
-If you want plug-and-play power without a full electrical build, these units offer the best value for everyday van life.
+Quick shortlist for buyers who want simple power without a full electrical install.
 
-## Top Budget Power Stations
+{{< disclosure >}}
 
-### EcoFlow RIVER 2 Pro
-- Pros: fast recharge, lightweight, reliable app.
-- Cons: premium pricing during non-sale periods.
-- CTA: [Check EcoFlow Price](#)
+- Bluetti deal track: {{< affbtn product="bluetti_elite_200_v2" merchant="bluetti" text="Check Bluetti" >}}
+- Amazon alternatives: {{< affbtn product="amazon_storefront" merchant="amazon" text="Compare on Amazon" >}}
 
-### BLUETTI EB55
-- Pros: good port variety, solid battery life.
-- Cons: heavier than similar-capacity models.
-- CTA: [View BLUETTI Deals](#)
-
-### Jackery Explorer 300 Plus
-- Pros: compact and beginner-friendly.
-- Cons: lower output for power-hungry appliances.
-- CTA: [Shop Jackery 300 Plus](#)
-
-### Anker SOLIX C800 (sale-dependent under $500)
-- Pros: high output for cost, good brand support.
-- Cons: often near the top of the budget cap.
-- CTA: [See Latest Anker Offer](#)
+For deeper comparisons and scenarios read [Portable Power Stations Under $500 for Van Life](/best-of/power-stations-under-500/).

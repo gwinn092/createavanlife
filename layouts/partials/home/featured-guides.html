@@ -1,0 +1,23 @@
+<section class="space-y-4" aria-labelledby="featured-guides-heading">
+  <h2 id="featured-guides-heading" class="text-2xl font-extrabold text-neutral-900">Featured Best Of Guides</h2>
+  <div class="grid gap-5 md:grid-cols-3">
+    {{ $guides := slice
+      (site.GetPage "/best-of/van-solar")
+      (site.GetPage "/best-of/power-stations-under-500")
+      (site.GetPage "/best-of/van-internet")
+    }}
+    {{ range $guides }}
+      {{ if . }}
+        {{ $img := .Params.featureimage | default "/images/featured/van-solar.svg" }}
+        <article class="overflow-hidden rounded-2xl border border-neutral-200 bg-white shadow-sm">
+          <a href="{{ .RelPermalink }}"><img src="{{ $img | relURL }}" alt="{{ .Title }}" class="h-44 w-full object-cover" loading="lazy"></a>
+          <div class="space-y-3 p-5">
+            <h3 class="text-xl font-extrabold text-neutral-900"><a href="{{ .RelPermalink }}" class="hover:text-primary-600">{{ .Title }}</a></h3>
+            <p class="text-sm text-neutral-600">{{ .Params.description | default .Summary | plainify | truncate 130 }}</p>
+            <a href="{{ .RelPermalink }}" class="inline-block rounded-full bg-primary-600 px-4 py-2 text-xs font-bold text-white hover:bg-primary-500" role="button">Read Guide</a>
+          </div>
+        </article>
+      {{ end }}
+    {{ end }}
+  </div>
+</section>

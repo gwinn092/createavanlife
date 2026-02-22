@@ -1,7 +1,9 @@
 ---
 title: "Van Life Blog"
-description: "Actionable van life budget guides, conversion tips, and remote-work setup articles."
-keywords: ["van life blog", "budget van guides", "solar and wifi van life"]
+description: "Evergreen van life advice for budget builds, electrical choices, remote work, and daily living."
+url: "/blog/"
+featureimage: "/images/featured/build-tools.svg"
+keywords: ["van life blog", "van conversion advice"]
 ---
 
-Read practical tutorials and budget setup guides for van life.
+Actionable tutorials and realistic planning posts for first-time van builders.

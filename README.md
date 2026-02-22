@@ -2,6 +2,16 @@
 
 This repository contains a complete static affiliate site for budget van life content, built with [Hugo](https://gohugo.io/) and the [Blowfish theme](https://github.com/nunocoracao/blowfish).
 
+## Pinned Build Versions
+
+- Hugo is pinned to `0.155.3` for deterministic local/CI output.
+- CI uses `.github/workflows/hugo.yml` with:
+  - `hugo-version: '0.155.3'`
+  - `extended: true`
+- Local version hint is in `.tool-versions`:
+  - `hugo 0.155.3`
+- Blowfish is tracked as a git submodule at `themes/blowfish` and should be updated intentionally via submodule commit updates.
+
 ## Run Locally
 
 1. Clone the repository:
@@ -13,12 +23,18 @@ This repository contains a complete static affiliate site for budget van life co
    ```bash
    git submodule update --init --recursive
    ```
-3. Start Hugo server with drafts:
+3. Use Hugo `0.155.3` (recommended):
+   - If you use `asdf`:
+     ```bash
+     asdf install
+     asdf local hugo 0.155.3
+     ```
+4. Start Hugo server with drafts:
    ```bash
    hugo server -D
    ```
    This repo includes `config/development/hugo.toml`, so local preview serves correctly at `http://localhost:1313/`.
-4. Open the local URL shown by Hugo (usually `http://localhost:1313`).
+5. Open the local URL shown by Hugo (usually `http://localhost:1313`).
 
 ## Install Blowfish as a Submodule (Recommended)
 

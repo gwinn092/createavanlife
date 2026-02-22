@@ -1,0 +1,54 @@
+[[main]]
+name = "Home"
+pageRef = "/"
+weight = 10
+
+[[main]]
+name = "Start Here"
+pageRef = "/start-here"
+weight = 20
+
+[[main]]
+name = "Gear"
+pageRef = "/gear"
+weight = 30
+
+[[main]]
+name = "Best Of"
+pageRef = "/best-of"
+weight = 40
+
+[[main]]
+name = "Blog"
+pageRef = "/blog"
+weight = 50
+
+[[main]]
+name = "Deals"
+pageRef = "/deals"
+weight = 60
+
+[[main]]
+name = "About"
+pageRef = "/about"
+weight = 70
+
+[[main]]
+name = "Disclosure"
+pageRef = "/legal/affiliate-disclosure"
+weight = 80
+
+[[footer]]
+name = "Affiliate Disclosure"
+pageRef = "/legal/affiliate-disclosure"
+weight = 10
+
+[[footer]]
+name = "Privacy"
+pageRef = "/legal/privacy-policy"
+weight = 20
+
+[[footer]]
+name = "Terms"
+pageRef = "/legal/terms"
+weight = 30

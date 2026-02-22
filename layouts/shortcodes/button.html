@@ -1,0 +1,14 @@
+{{ $href := .Get "href" }}
+{{ $text := .Get "text" | default "Learn More" }}
+{{ $style := .Get "style" | default "primary" }}
+{{ $outbound := .Get "outbound" | default "false" }}
+{{ $class := cond (eq $style "secondary") "btn-shortcode btn-secondary" "btn-shortcode btn-primary" }}
+{{ $rel := "" }}
+{{ if or (eq $outbound "true") (hasPrefix $href "http") }}
+  {{ $rel = "nofollow sponsored" }}
+{{ end }}
+{{ if and $rel (not (.Page.Scratch.Get "inline_disclosure_shown")) }}
+  <div class="disclosure-shortcode">{{ site.Data.affiliates.global.disclosure }}</div>
+  {{ .Page.Scratch.Set "inline_disclosure_shown" true }}
+{{ end }}
+<a href="{{ $href }}" class="{{ $class }}" {{ with $rel }}rel="{{ . }}"{{ end }}>{{ $text }}</a>

@@ -1,33 +1,18 @@
 ---
-title: "Best Budget Solar Power Kits for Van Life"
-date: 2026-01-05
-description: "Compare affordable solar power kits for van life with practical pros, cons, and affiliate-ready recommendations."
-keywords: ["budget solar kit", "van life solar", "portable solar", "affiliate solar gear"]
+title: "Best Budget Solar Power Kits (Quick Picks)"
+date: 2026-02-21
+description: "Quick-pick roundup of budget-friendly solar kits for van life with practical tradeoffs."
+featureimage: "/images/featured/van-solar.svg"
 categories: ["gear"]
-tags: ["budget", "solar"]
-featureimage: "/img/gear/van-solar-roof.webp"
+tags: ["solar", "budget", "power"]
 ---
 
-Starting solar can feel expensive, but a few well-priced kits can cover lights, charging, and small appliances without overbuilding.
+Need the fast version? Start with a 200W modular kit and expand only after 30 days of real usage.
 
-## Recommended Budget Solar Kits
+{{< disclosure >}}
 
-### Renogy 200W Starter Kit
-- Pros: dependable brand, clear install docs, expandable later.
-- Cons: pricier than no-name options.
-- CTA: [Check Price on Renogy](#)
+- Renogy Starter Path: {{< affbtn product="renogy_100w_slim_panel" merchant="renogy" text="Check Renogy" >}}
+- HQST Budget Path: {{< affbtn product="hqst_200w_kit" merchant="amazon" text="Check HQST" >}}
+- Portable Bundle Path: {{< affbtn product="portable_suitcase_solar" merchant="amazon" text="See Portable Options" >}}
 
-### HQST 200W Monocrystalline Kit
-- Pros: strong value per watt, easy to source replacement parts.
-- Cons: controller quality varies by bundle.
-- CTA: [View Current Deal](#)
-
-### ECO-WORTHY 240W Kit
-- Pros: low entry cost, includes core wiring components.
-- Cons: mixed long-term durability feedback.
-- CTA: [Shop ECO-WORTHY Kit](#)
-
-### Jackery SolarSaga + Portable Bundle
-- Pros: no complex install, highly portable setup.
-- Cons: higher cost per watt.
-- CTA: [See Jackery Bundle](#)
+For full buying guidance read [Best Budget Solar for Van Life](/best-of/van-solar/).

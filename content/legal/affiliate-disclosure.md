@@ -1,15 +1,18 @@
 ---
 title: "Affiliate Disclosure"
-date: 2026-02-20
-description: "Affiliate disclosure for Budget Van Life Affiliate Guide."
-keywords: ["affiliate disclosure", "commission disclosure", "van life affiliate"]
-featureimage: "/img/gear/van-hero-camper.jpg"
+description: "How affiliate links work on Create A Van Life."
+featureimage: "/images/featured/build-tools.svg"
 ---
 
-# Affiliate Disclosure
+{{< disclosure >}}
 
-Budget Van Life Affiliate Guide participates in affiliate programs. This means we may earn a commission when you click certain links and make a purchase.
+Create A Van Life participates in affiliate programs. This means we may earn a commission when you click qualifying links and complete a purchase.
 
-There is no extra cost to you. Our goal is to recommend practical, budget-focused gear and explain real-world tradeoffs from lived van life experience.
+You do not pay extra for using affiliate links.
 
-We aim to keep reviews honest, clearly mark affiliate opportunities, and update content when product availability or relevance changes.
+Our editorial policy:
+- We prioritize practical value and budget fit.
+- We include drawbacks and alternatives, even if they convert less.
+- We do not sell paid placement inside editorial reviews.
+
+If a product is discontinued or no longer competitive, we update the page with better current alternatives.
