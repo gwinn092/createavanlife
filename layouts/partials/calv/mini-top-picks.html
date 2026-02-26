@@ -20,7 +20,7 @@
           <a class="calv-btn calv-mini-pick-cta" href="{{ $pick.url }}">{{ $pick.cta }}</a>
           {{- with $pick.urlSecondary -}}
             <a class="calv-btn calv-btn-ghost calv-mini-pick-cta" href="{{ . }}" target="_blank" rel="nofollow sponsored noopener noreferrer">
-              {{ $pick.ctaSecondary | default "Check availability" }}
+              {{ $pick.ctaSecondary | default "See availability" }}
             </a>
           {{- end -}}
         </div>

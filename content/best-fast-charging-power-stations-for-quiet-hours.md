@@ -9,26 +9,42 @@ tags: ["van life", "quiet hours", "fast charging", "power stations", "recovery"]
 featuredImage: "/img/hero/quiet-hours-hero.jpg"
 featuredImageAlt: "Quiet camper van interior for low-friction refill routines"
 miniTopPicks:
-  - label: "Top Pick - Short Windows"
-    title: "Fast refill when your quiet-hours window is tight"
+  - label: "Fastest Recovery Window"
+    title: "EcoFlow DELTA 2 (1024Wh)"
     bestFor: "short outlet sessions where you still need dependable recovery"
     points:
-      - "Prioritizes quick AC refill over headline capacity"
+      - "Prioritizes fast AC refill over headline capacity"
       - "Fits repeatable quiet-hours recovery routines"
-    cta: "Jump to Bucket A picks"
+    cta: "See Bucket A fit"
     url: "/best-fast-charging-power-stations-for-quiet-hours/#bucket-a--short-repeatable-refill-windows"
+    ctaSecondary: "See availability"
+    urlSecondary: "https://us.ecoflow.com/products/delta-2-portable-power-station"
     image: "/img/picks/under-1000-fastest-recovery.jpg"
     imageAlt: "Camper van parked near mountains at sunset"
-  - label: "Runner-Up - Predictable Routine"
-    title: "Lower-friction recovery for rule-heavy campgrounds"
+  - label: "Quiet-Hours Workflow Pick"
+    title: "BLUETTI AC180 (1152Wh)"
     bestFor: "quiet-hour constraints where predictable windows matter most"
     points:
       - "Built around stable refill rhythm, not peak claims"
       - "Works well when access timing is inconsistent"
-    cta: "Jump to Bucket B picks"
+    cta: "See Bucket B fit"
     url: "/best-fast-charging-power-stations-for-quiet-hours/#bucket-b--rule-heavy--inconsistent-access-predictability-first"
+    ctaSecondary: "See availability"
+    urlSecondary: "https://www.bluettipower.com/pages/ac180"
     image: "/img/picks/under-1000-quiet-hours.jpg"
     imageAlt: "Inside of a clean camper van living area"
+  - label: "Best Value Quiet-Hours Route"
+    title: "Anker SOLIX C1000 (1056Wh)"
+    bestFor: "buyers who want stable recovery and lower weekly friction"
+    points:
+      - "Balanced recovery speed with usable everyday margin"
+      - "Strong value route when windows are limited"
+    cta: "See Bucket C fit"
+    url: "/best-fast-charging-power-stations-for-quiet-hours/#bucket-c--if-youre-already-close-to-stable-add-margin-without-panic"
+    ctaSecondary: "See availability"
+    urlSecondary: "https://www.anker.com/products/a1761"
+    image: "/img/picks/under-1000-fastest-recovery.jpg"
+    imageAlt: "Camper van parked near mountains at sunset"
 ---
 
 If you’re shopping right now, start with the **[Buyer Checklist](/fast-charging-power-station-buyer-checklist/)**, then use the **[Buyer Guides hub](/fast-charging-buyer-guides/)** to pick your tier.
@@ -39,7 +55,81 @@ Quiet hours don’t just limit noise — they limit **when you can recover**. Th
 
 We recommend **700Wh+ minimum** and prioritize **time-to-recover** over raw capacity. If your week goes sideways, the goal is to recover quickly and get back to stable mode without panic upgrades. For the big picture, see **[Generator-Free Van Power Recovery](/generator-free-van-power-recovery/)** and **[Recovery Moves Index](/recovery-moves-index/)**.
 
+**Last reviewed:** February 26, 2026.  
+**Best for quiet hours:** 700Wh+ floor, recharge-speed-first, and routines you can repeat under timing rules.  
+**Claim labels:** Spec / Reported / Measured / Estimate so buying decisions stay calm and transparent.  
+**Boundary:** this page stays troubleshooting and buying-focused; we do not publish wiring procedures.
+
 ---
+
+## Pick your constraint first (quiet-hours quick chooser)
+
+- **Shortest refill window:** **[Go to Bucket A](/best-fast-charging-power-stations-for-quiet-hours/#bucket-a--short-repeatable-refill-windows)**
+- **Rule-heavy access:** **[Go to Bucket B](/best-fast-charging-power-stations-for-quiet-hours/#bucket-b--rule-heavy--inconsistent-access-predictability-first)**
+- **Mostly stable, add margin:** **[Go to Bucket C](/best-fast-charging-power-stations-for-quiet-hours/#bucket-c--if-youre-already-close-to-stable-add-margin-without-panic)**
+- **Budget-first route:** **[Open Under-$1000 picks](/best-fast-charging-power-stations-under-1000/)**
+- **Still not keeping up:** **[Open fix-first troubleshooting](/fast-charging-not-keeping-up-what-to-fix-first/)**
+
+## Quiet-hours shortlist table (quick scan)
+
+<div class="comparetable-wrap">
+  <table>
+    <thead>
+      <tr>
+        <th>Product</th>
+        <th>Best For</th>
+        <th>Price Range</th>
+        <th>Pros</th>
+        <th>Cons</th>
+        <th>CTA</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>EcoFlow DELTA 2 (1024Wh)</td>
+        <td>Short, repeatable refill windows</td>
+        <td>Under-now to watch-list range</td>
+        <td>Fast AC recovery class for constrained windows (Spec/Reported)</td>
+        <td>Can drift above target pricing depending on timing</td>
+        <td><a href="/best-fast-charging-power-stations-for-quiet-hours/#bucket-a--short-repeatable-refill-windows">See Bucket A</a></td>
+      </tr>
+      <tr>
+        <td>Jackery Explorer 1000 Plus (1264Wh)</td>
+        <td>Predictable rule-heavy routines</td>
+        <td>Watch-list</td>
+        <td>Routine-friendly refill class when access is consistent (Spec/Reported)</td>
+        <td>Often better as a timing/value purchase</td>
+        <td><a href="/best-fast-charging-power-stations-for-quiet-hours/#bucket-a--short-repeatable-refill-windows">See Bucket A</a></td>
+      </tr>
+      <tr>
+        <td>BLUETTI AC180 (1152Wh)</td>
+        <td>Quiet-hours predictability</td>
+        <td>Under-now</td>
+        <td>Strong refill rhythm for rule-constrained windows (Spec/Reported)</td>
+        <td>Heavier than ultra-compact options</td>
+        <td><a href="/best-fast-charging-power-stations-for-quiet-hours/#bucket-b--rule-heavy--inconsistent-access-predictability-first">See Bucket B</a></td>
+      </tr>
+      <tr>
+        <td>Anker SOLIX F2000 / 767 (2048Wh)</td>
+        <td>Rule-heavy recovery with extra headroom</td>
+        <td>Watch-list</td>
+        <td>High recovery class when access windows are available (Spec/Reported)</td>
+        <td>Large form factor for tight layouts</td>
+        <td><a href="/best-fast-charging-power-stations-for-quiet-hours/#bucket-b--rule-heavy--inconsistent-access-predictability-first">See Bucket B</a></td>
+      </tr>
+      <tr>
+        <td>EcoFlow DELTA 2 Max (2048Wh)</td>
+        <td>Mostly stable users adding margin</td>
+        <td>Watch-list</td>
+        <td>Bigger margin and strong refill behavior (Spec/Reported)</td>
+        <td>Can sit above quiet-hours budget target</td>
+        <td><a href="/best-fast-charging-power-stations-for-quiet-hours/#bucket-c--if-youre-already-close-to-stable-add-margin-without-panic">See Bucket C</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+Need routing help before buying? Use **[Buyer Checklist](/fast-charging-power-station-buyer-checklist/)**, **[Glossary](/fast-charging-power-station-glossary/)**, and **[Fix-first troubleshooting](/fast-charging-not-keeping-up-what-to-fix-first/)**.
 
 {{< calvimg
   src="/img/sections/under-1000-rhythm-2.jpg"
