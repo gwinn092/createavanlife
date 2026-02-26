@@ -5,6 +5,7 @@ theme = "blowfish"
 enableRobotsTXT = true
 enableEmoji = false
 summaryLength = 40
+canonifyURLs = true
 [pagination]
 pagerSize = 9
 defaultContentLanguage = "en"
