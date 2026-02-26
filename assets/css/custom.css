@@ -804,14 +804,8 @@ a[role="button"]:hover,
     position: relative;
   }
 
-  .comparetable-wrap td:nth-child(1)::before { content: "Product"; }
-  .comparetable-wrap td:nth-child(2)::before { content: "Best For"; }
-  .comparetable-wrap td:nth-child(3)::before { content: "Price Range"; }
-  .comparetable-wrap td:nth-child(4)::before { content: "Pros"; }
-  .comparetable-wrap td:nth-child(5)::before { content: "Cons"; }
-  .comparetable-wrap td:nth-child(6)::before { content: "CTA"; }
-
   .comparetable-wrap td::before {
+    content: attr(data-label);
     position: absolute;
     left: 0.35rem;
     top: 0.35rem;
