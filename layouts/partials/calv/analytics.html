@@ -1,10 +1,28 @@
 {{- $provider := lower (default "" site.Params.analytics_provider) -}}
 {{- $siteID := default "" site.Params.analytics_site_id -}}
+{{- $scriptSrc := default "" site.Params.analytics_script_src -}}
+{{- $localLangParams := dict -}}
+{{- range site.Languages -}}
+  {{- if eq (lower .Lang) "local" -}}
+    {{- with .Params -}}
+      {{- $localLangParams = . -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- if not $provider -}}
+  {{- $provider = lower (default "" (index $localLangParams "analytics_provider")) -}}
+{{- end -}}
+{{- if not $siteID -}}
+  {{- $siteID = default "" (index $localLangParams "analytics_site_id") -}}
+{{- end -}}
+{{- if not $scriptSrc -}}
+  {{- $scriptSrc = default "" (index $localLangParams "analytics_script_src") -}}
+{{- end -}}
 {{- if and $provider $siteID -}}
   {{- if eq $provider "plausible" -}}
     <script defer data-domain="{{ $siteID }}" src="https://plausible.io/js/script.js"></script>
   {{- else if eq $provider "umami" -}}
-    <script defer src="https://cloud.umami.is/script.js" data-website-id="{{ $siteID }}"></script>
+    <script defer src="{{ $scriptSrc | default "https://cloud.umami.is/script.js" }}" data-website-id="{{ $siteID }}"></script>
   {{- else if eq $provider "ga4" -}}
     <script async src="https://www.googletagmanager.com/gtag/js?id={{ $siteID }}"></script>
     <script>

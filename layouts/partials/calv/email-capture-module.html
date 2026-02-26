@@ -1,5 +1,19 @@
 {{- $provider := default "" .Site.Params.email_provider -}}
 {{- $action := default "" .Site.Params.email_form_action_or_embed -}}
+{{- $localLangParams := dict -}}
+{{- range site.Languages -}}
+  {{- if eq (lower .Lang) "local" -}}
+    {{- with .Params -}}
+      {{- $localLangParams = . -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- if not $provider -}}
+  {{- $provider = default "" (index $localLangParams "email_provider") -}}
+{{- end -}}
+{{- if not $action -}}
+  {{- $action = default "" (index $localLangParams "email_form_action_or_embed") -}}
+{{- end -}}
 {{- if and $provider $action -}}
   <section class="calv-rail-card calv-email-capture">
     <div class="calv-rail-eyebrow">RECOVERY CHECKLIST</div>
