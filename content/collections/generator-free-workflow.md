@@ -30,6 +30,13 @@ This collection is for van lifers running without a generator who still need a d
 - **Need quiet-hours-compatible rhythm:** **<a href="/best-fast-charging-power-stations-for-generator-free-van-life/#bucket-b--quiet-hours-friendly-recovery" data-calv-event="collection_cta_click" data-calv-collection="generator-free-workflow">Generator-Free Bucket B</a>**
 - **Already stable, add margin:** **<a href="/best-fast-charging-power-stations-for-generator-free-van-life/#bucket-c--if-youre-already-close-to-stable" data-calv-event="collection_cta_click" data-calv-collection="generator-free-workflow">Generator-Free Bucket C</a>**
 - **Need budget-first fallback:** **<a href="/best-fast-charging-power-stations-under-1000/" data-calv-event="collection_cta_click" data-calv-collection="generator-free-workflow">Open Under-$1000 buyer page</a>**
+- **Weather-heavy recovery weeks:** **<a href="/best-fast-charging-power-stations-for-cloudy-weeks/" data-calv-event="collection_cta_click" data-calv-collection="generator-free-workflow">Open Cloudy Weeks buyer page</a>**
+
+## Newest additions
+
+- **[Generator-Free Weekend Recovery Plan](/generator-free-weekend-recovery-plan/)**
+- **[Wall vs Car vs Solar Recharge: What Matters](/wall-vs-car-vs-solar-recharge-what-matters/)**
+- **[Time to Recover Explained](/time-to-recover-explained/)**
 
 ## If you're stuck
 

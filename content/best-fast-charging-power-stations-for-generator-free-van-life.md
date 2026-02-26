@@ -59,6 +59,8 @@ If your week goes sideways, the goal is simple: **recover quickly and get back t
 **Boundary:** this page stays troubleshooting and buying-focused; we do not publish wiring procedures.
 **Trust strip:** **[How we test + how we label claims](/how-we-test-and-label-claims/)**.
 
+**Scenario routes:** **[Generator-Free Weekend Recovery Plan](/generator-free-weekend-recovery-plan/)**, **[Best Fast-Charging Power Stations for Cloudy Weeks](/best-fast-charging-power-stations-for-cloudy-weeks/)**, **[Wall vs Car vs Solar Recharge: What Matters](/wall-vs-car-vs-solar-recharge-what-matters/)**.
+
 ---
 
 ## Pick your constraint first (generator-free quick chooser)

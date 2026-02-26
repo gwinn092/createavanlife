@@ -30,6 +30,13 @@ This collection is for campers and stealth setups where timing rules shape every
 - **Rule-heavy access:** **<a href="/best-fast-charging-power-stations-for-quiet-hours/#bucket-b--rule-heavy--inconsistent-access-predictability-first" data-calv-event="collection_cta_click" data-calv-collection="quiet-hours-survival-kit">Quiet Hours Bucket B</a>**
 - **Mostly stable, adding margin:** **<a href="/best-fast-charging-power-stations-for-quiet-hours/#bucket-c--if-youre-already-close-to-stable-add-margin-without-panic" data-calv-event="collection_cta_click" data-calv-collection="quiet-hours-survival-kit">Quiet Hours Bucket C</a>**
 - **Need budget-first alternatives:** **<a href="/best-fast-charging-power-stations-under-1000/" data-calv-event="collection_cta_click" data-calv-collection="quiet-hours-survival-kit">Open Under-$1000 buyer page</a>**
+- **Heat-heavy overnight routine:** **<a href="/best-fast-charging-power-stations-for-hot-nights/" data-calv-event="collection_cta_click" data-calv-collection="quiet-hours-survival-kit">Open Hot Nights buyer page</a>**
+
+## Newest additions
+
+- **[Quiet Hours Playbook](/quiet-hours-playbook/)**
+- **[Time to Recover Explained](/time-to-recover-explained/)**
+- **[Wall vs Car vs Solar Recharge: What Matters](/wall-vs-car-vs-solar-recharge-what-matters/)**
 
 ## If you're stuck
 

@@ -57,6 +57,8 @@ We recommend **700Wh+ minimum** and prioritize **time-to-recover** over raw capa
 **Boundary:** this page stays troubleshooting and buying-focused; we do not publish wiring procedures.
 **Trust strip:** **[How we test + how we label claims](/how-we-test-and-label-claims/)**.
 
+**Scenario routes:** **[Time to Recover Explained](/time-to-recover-explained/)**, **[Under-$1000 Starter Kits](/under-1000-starter-kits/)**, **[Deal-Safe Buying Timing](/deal-safe-buying-timing/)**.
+
 ---
 
 ## What “Under-$1000” really means here

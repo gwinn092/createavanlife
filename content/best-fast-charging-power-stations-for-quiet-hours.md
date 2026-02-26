@@ -61,6 +61,8 @@ We recommend **700Wh+ minimum** and prioritize **time-to-recover** over raw capa
 **Boundary:** this page stays troubleshooting and buying-focused; we do not publish wiring procedures.
 **Trust strip:** **[How we test + how we label claims](/how-we-test-and-label-claims/)**.
 
+**Scenario routes:** **[Quiet Hours Playbook](/quiet-hours-playbook/)**, **[Best Fast-Charging Power Stations for Hot Nights](/best-fast-charging-power-stations-for-hot-nights/)**, **[Time to Recover Explained](/time-to-recover-explained/)**.
+
 ---
 
 ## Pick your constraint first (quiet-hours quick chooser)

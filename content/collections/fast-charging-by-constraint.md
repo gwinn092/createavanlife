@@ -29,8 +29,17 @@ If you want a fast route without overthinking, this collection is for you. Pick 
 - **Budget-first recovery:** **<a href="/collections/under-1000-recovery-setups/" data-calv-event="collection_cta_click" data-calv-collection="fast-charging-by-constraint">Under-$1000 Recovery Setups</a>**
 - **Quiet-hours limits:** **<a href="/collections/quiet-hours-survival-kit/" data-calv-event="collection_cta_click" data-calv-collection="fast-charging-by-constraint">Quiet Hours Survival Kit</a>**
 - **Generator-free routine:** **<a href="/collections/generator-free-workflow/" data-calv-event="collection_cta_click" data-calv-collection="fast-charging-by-constraint">Generator-Free Workflow</a>**
+- **Hot nights recovery pressure:** **<a href="/best-fast-charging-power-stations-for-hot-nights/" data-calv-event="collection_cta_click" data-calv-collection="fast-charging-by-constraint">Best Fast-Charging Power Stations for Hot Nights</a>**
+- **Cloudy-week recovery pressure:** **<a href="/best-fast-charging-power-stations-for-cloudy-weeks/" data-calv-event="collection_cta_click" data-calv-collection="fast-charging-by-constraint">Best Fast-Charging Power Stations for Cloudy Weeks</a>**
 - **Need the core generator-free buyer page now:** **<a href="/best-fast-charging-power-stations-for-generator-free-van-life/" data-calv-event="collection_cta_click" data-calv-collection="fast-charging-by-constraint">Open Generator-Free buyer page</a>**
 - **Need a watch-first path:** **<a href="/under-1000-fast-charging-watch-list/" data-calv-event="collection_cta_click" data-calv-collection="fast-charging-by-constraint">Under-$1000 Fast-Charging Watch List</a>**
+
+## Newest additions
+
+- **[Time to Recover Explained](/time-to-recover-explained/)**
+- **[Wall vs Car vs Solar Recharge: What Matters](/wall-vs-car-vs-solar-recharge-what-matters/)**
+- **[Quiet Hours Playbook](/quiet-hours-playbook/)**
+- **[Deal-Safe Buying Timing](/deal-safe-buying-timing/)**
 
 ## If you're stuck
 

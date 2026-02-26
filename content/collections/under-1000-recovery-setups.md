@@ -32,6 +32,12 @@ This collection is for buyers who need a stable recovery path under a tighter bu
 - **Quiet-hours-heavy life:** **<a href="/best-fast-charging-power-stations-for-quiet-hours/" data-calv-event="collection_cta_click" data-calv-collection="under-1000-recovery-setups">Open Quiet Hours buyer page</a>**
 - **Generator-free framing:** **<a href="/best-fast-charging-power-stations-for-generator-free-van-life/" data-calv-event="collection_cta_click" data-calv-collection="under-1000-recovery-setups">Open Generator-Free buyer page</a>**
 
+## Newest additions
+
+- **[Under-$1000 Starter Kits](/under-1000-starter-kits/)**
+- **[Deal-Safe Buying Timing](/deal-safe-buying-timing/)**
+- **[Time to Recover Explained](/time-to-recover-explained/)**
+
 ## If you're stuck
 
 - **[Fast Charging Not Keeping Up? What to Fix First](/fast-charging-not-keeping-up-what-to-fix-first/)**
