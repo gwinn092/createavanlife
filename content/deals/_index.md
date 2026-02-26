@@ -3,6 +3,8 @@ title: "Deals"
 description: "Calm deal timing signals and buyer-safe routing for fast-charging van power picks."
 featureimage: "/images/featured/power-stations.svg"
 keywords: ["van life deals", "gear discounts"]
+aliases:
+  - /affiliates/
 ---
 
 Use this page as a **calm timing tracker**. We do not publish price promises or urgency bait. We focus on windows where value is more likely to appear, then route you to the right buying page.
