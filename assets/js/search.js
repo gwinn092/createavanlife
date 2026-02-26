@@ -168,27 +168,6 @@ function executeQuery(term) {
   if (!indexed || !fuse) {
     return;
   }
-  var basePath = wrapper.getAttribute("data-url") || "/";
-  basePath = "/" + basePath.replace(/^\/+|\/+$/g, "") + "/";
-  if (basePath === "//") {
-    basePath = "/";
-  }
-
-  function withBasePath(href) {
-    if (!href || /^https?:\/\//i.test(href) || href.startsWith("#")) {
-      return href;
-    }
-    if (href.startsWith("/")) {
-      if (basePath !== "/" && !href.startsWith(basePath)) {
-        return basePath.replace(/\/$/, "") + href;
-      }
-      return href;
-    }
-    if (basePath === "/") {
-      return "/" + href.replace(/^\/+/, "");
-    }
-    return basePath + href.replace(/^\/+/, "");
-  }
 
   let results = fuse.search(term);
   let resultsHTML = "";
@@ -207,7 +186,7 @@ function executeQuery(term) {
         : value.item.title;
       var linkconfig = value.item.externalUrl
         ? 'target="_blank" rel="noopener" href="' + value.item.externalUrl + '"'
-        : 'href="' + withBasePath(value.item.permalink) + '"';
+        : 'href="' + value.item.permalink + '"';
       resultsHTML =
         resultsHTML +
         `<li class="mb-2">
