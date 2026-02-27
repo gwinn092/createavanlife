@@ -1,23 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags/12v on Create A Van Life</title>
-    <link>http://localhost:1313/tags/12v/</link>
-    <description>Recent content in Tags/12v on Create A Van Life</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>© 2026 Moments in the Miles</copyright>
-    <lastBuildDate>Sun, 22 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/12v/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Van Fridge Power Stability: Keep Food Cold Without Battery Drift</title>
-      <link>http://localhost:1313/van-fridge-power-stability/</link>
-      <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/van-fridge-power-stability/</guid>
-      <description>&lt;p&gt;Your fridge is often the silent baseline load in van life.&lt;/p&gt;&#xA;&lt;p&gt;When stability slips, it can feel like &amp;ldquo;nothing changed&amp;rdquo; even though your battery drifts lower each day. This page is a recovery-first guide to keep food cold without sliding into panic decisions.&lt;/p&gt;</description>
-      
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags/12v on Create A Van Life</title><link>https://gwinn092.github.io/van.affiliation/tags/12v/</link><description>Recent content in Tags/12v on Create A Van Life</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2026 Create A Van Life</copyright><lastBuildDate>Sun, 22 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://gwinn092.github.io/van.affiliation/tags/12v/index.xml" rel="self" type="application/rss+xml"/><item><title>Van Fridge Power Stability: Keep Food Cold Without Battery Drift</title><link>https://gwinn092.github.io/van.affiliation/van-fridge-power-stability/</link><pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate><guid>https://gwinn092.github.io/van.affiliation/van-fridge-power-stability/</guid><description>&lt;p&gt;Your fridge is often the silent baseline load in van life.&lt;/p&gt;
+&lt;p&gt;When stability slips, it can feel like &amp;ldquo;nothing changed&amp;rdquo; even though your battery drifts lower each day. This page is a recovery-first guide to keep food cold without sliding into panic decisions.&lt;/p&gt;</description></item></channel></rss>

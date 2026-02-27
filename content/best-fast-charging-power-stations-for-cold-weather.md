@@ -30,7 +30,7 @@ Use:
 
 ## Picks (700Wh+ minimum)
 
-### 1) EcoFlow RIVER 2 Pro (768Wh)
+### 1) {{< calvproduct id="ecoflow-river-2-pro" mode="name_link" >}}
 **Why it fits cold weeks:** A compact 700Wh+ class option when you need a repeatable refill routine more than oversized storage.
 
 **Best recovery window match:** Shore or short, predictable refill windows.
@@ -39,7 +39,7 @@ Use:
 - **Manufacturer claim:** EcoFlow lists 0-100% in 70 minutes ([EcoFlow US](https://us.ecoflow.com/collections/river-2-series/products/river-2-pro-portable-power-station)).
 - **Third-party tests:** AppleInsider reports about 70 minutes on included AC charging ([AppleInsider](https://appleinsider.com/articles/23/05/10/ecoflow-river-2-pro-review-compact-design-with-expansive-power)); OutdoorGearLab reports about 75 minutes ([OutdoorGearLab](https://www.outdoorgearlab.com/reviews/camping-and-hiking/power-station/ecoflow-river-2-pro)).
 
-### 2) BLUETTI AC70 (768Wh)
+### 2) {{< calvproduct id="bluetti-ac70" mode="name_link" >}}
 **Why it fits cold weeks:** A recovery-first 700Wh+ tier pick that stays useful when you need dependable refill windows during cold stretches.
 
 **Best recovery window match:** Shore-first routines and planned refill sessions.
@@ -48,7 +48,7 @@ Use:
 - **Manufacturer claim:** BLUETTI lists up to 950W AC input, 0-80% in 45 minutes, and about 1.3-1.6 hours AC charging in Turbo mode ([BLUETTI](https://www.bluettipower.com/products/ac70)).
 - **Third-party test:** Trusted Reviews reports a full charge in 86 minutes in Turbo mode (and 2 hours 13 minutes in Standard mode) ([Trusted Reviews](https://www.trustedreviews.com/reviews/bluetti-ac70)).
 
-### 3) Jackery Explorer 1000 v2 (1070Wh)
+### 3) {{< calvproduct id="jackery-explorer-1000-v2" mode="name_link" >}}
 **Why it fits cold weeks:** Useful for winter routines that need a larger recovery buffer and a fast mode positioned for catch-up days.
 
 **Best recovery window match:** Planned shore windows and emergency catch-up sessions.
@@ -57,7 +57,7 @@ Use:
 - **Manufacturer claim:** Jackery lists emergency super charge 0-100% in 1 hour (app-enabled) ([Jackery US](https://www.jackery.com/products/jackery-explorer-1000-v2)).
 - **Third-party test:** TechRadar reports a full charge in 1 hour using emergency mode (standard charge reported around 1 hour 40 minutes) ([TechRadar](https://www.techradar.com/pro/jackery-explorer-1000-v2-portable-power-station-review)).
 
-### 4) EcoFlow DELTA 2 (1024Wh)
+### 4) {{< calvproduct id="ecoflow-delta-2" mode="name_link" >}}
 **Why it fits cold weeks:** A mainstream 1kWh-class recovery tool for users who need strong refill behavior during colder, lower-margin weeks.
 
 **Best recovery window match:** Shore refill sessions and structured bad-week recovery plans.

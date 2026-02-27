@@ -1,1 +1,7 @@
 config/_default/hugo.local.toml
+
+# Local build artifacts
+/public/
+public.zip
+.DS_Store
+**/.DS_Store

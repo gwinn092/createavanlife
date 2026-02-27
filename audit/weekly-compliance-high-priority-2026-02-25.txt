@@ -1,0 +1,29 @@
+CAVL Focused Weekly Compliance — High Priority Candidates
+Date: 2026-02-25 17:10:58Z
+Scope: content/**/*.md
+Rule: procedural language NEAR electrical terms; excludes benign disclaimers
+========================================================================
+
+FILE: content/best-fast-charging-power-stations-for-quiet-hours.md
+LINE: 49
+     47: - **Drive-time** windows: **[Drive Recovery Window Plan](/drive-recovery-window-plan/)** (high-level planning)
+     48: 
+>>   49: This page stays high-level on purpose: no wiring, no alternator step-by-step. The goal is to help you choose a unit that fits your constraints.
+     50: 
+     51: ### 3) The 700Wh+ floor (why we keep it)
+------------------------------------------------------------------------
+FILE: content/van-power-conditions-index.md
+LINE: 11
+      9: ---
+     10: 
+>>   11: If you are unsure where to start, use the scorecard first, then pick the recovery move that matches today.
+     12: 
+     13: Start here:
+------------------------------------------------------------------------
+
+========================================================================
+SUMMARY
+- Total high-priority candidates: 2
+- Top files by candidate count:
+  -   1  content/best-fast-charging-power-stations-for-quiet-hours.md
+  -   1  content/van-power-conditions-index.md

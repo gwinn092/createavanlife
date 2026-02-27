@@ -2,10 +2,11 @@ ecoflow-delta-2:
   id: "ecoflow-delta-2"
   name: "EcoFlow DELTA 2 (1024Wh)"
   brand: "EcoFlow"
-  wh: 1024
-  ac_input_w: 1200
-  weight_lb: 27
-  tags: ["under-1000", "quiet-hours", "cloudy-weeks", "hot-nights", "generator-free"]
+  wh_spec: 1024
+  ac_input_w_spec: 1200
+  weight_lb_spec: 27
+  tags: ["under-1000", "quiet-hours", "generator-free", "fast-ac", "value"]
+  status: "core"
   review_url: "/reviews/ecoflow-delta-2/"
   image_path: "/img/picks/under-1000-fastest-recovery.jpg"
   credits_ref: "audit/pick-card-images-credits.md:under-1000-fastest-recovery"
@@ -15,10 +16,11 @@ ecoflow-delta-2-max:
   id: "ecoflow-delta-2-max"
   name: "EcoFlow DELTA 2 Max (2048Wh)"
   brand: "EcoFlow"
-  wh: 2048
-  ac_input_w: 1800
-  weight_lb: 50
-  tags: ["generator-free", "cloudy-weeks", "hot-nights"]
+  wh_spec: 2048
+  ac_input_w_spec: 1800
+  weight_lb_spec: 50
+  tags: ["generator-free", "cloudy-weeks", "hot-nights", "fast-ac", "heavyweight"]
+  status: "core"
   review_url: "/reviews/ecoflow-delta-2-max/"
   image_path: "/img/picks/under-1000-fastest-recovery.jpg"
   credits_ref: "audit/pick-card-images-credits.md:under-1000-fastest-recovery"
@@ -28,10 +30,11 @@ bluetti-ac180:
   id: "bluetti-ac180"
   name: "BLUETTI AC180 (1152Wh)"
   brand: "BLUETTI"
-  wh: 1152
-  ac_input_w: 1440
-  weight_lb: 37
-  tags: ["under-1000", "quiet-hours", "cloudy-weeks", "hot-nights", "generator-free"]
+  wh_spec: 1152
+  ac_input_w_spec: 1440
+  weight_lb_spec: 37
+  tags: ["under-1000", "quiet-hours", "generator-free", "fast-ac", "value"]
+  status: "core"
   review_url: "/reviews/bluetti-ac180/"
   image_path: "/img/picks/under-1000-quiet-hours.jpg"
   credits_ref: "audit/pick-card-images-credits.md:under-1000-quiet-hours"
@@ -41,10 +44,11 @@ bluetti-ac200l:
   id: "bluetti-ac200l"
   name: "BLUETTI AC200L (2048Wh)"
   brand: "BLUETTI"
-  wh: 2048
-  ac_input_w: 2400
-  weight_lb: 62
-  tags: ["generator-free", "cloudy-weeks"]
+  wh_spec: 2048
+  ac_input_w_spec: 2400
+  weight_lb_spec: 62
+  tags: ["generator-free", "cloudy-weeks", "fast-ac", "heavyweight", "watch-list"]
+  status: "watch"
   review_url: "/reviews/bluetti-ac200l/"
   image_path: "/img/picks/under-1000-fastest-recovery.jpg"
   credits_ref: "audit/pick-card-images-credits.md:under-1000-fastest-recovery"
@@ -54,10 +58,11 @@ anker-solix-c1000:
   id: "anker-solix-c1000"
   name: "Anker SOLIX C1000 (1056Wh)"
   brand: "Anker"
-  wh: 1056
-  ac_input_w: 1300
-  weight_lb: 28
-  tags: ["under-1000", "cloudy-weeks", "hot-nights", "quiet-hours"]
+  wh_spec: 1056
+  ac_input_w_spec: 1300
+  weight_lb_spec: 28
+  tags: ["under-1000", "quiet-hours", "hot-nights", "fast-ac", "value"]
+  status: "core"
   review_url: "/reviews/anker-solix-c1000/"
   image_path: "/img/picks/under-1000-fastest-recovery.jpg"
   credits_ref: "audit/pick-card-images-credits.md:under-1000-fastest-recovery"
@@ -67,10 +72,11 @@ jackery-explorer-1000-plus:
   id: "jackery-explorer-1000-plus"
   name: "Jackery Explorer 1000 Plus (1264Wh)"
   brand: "Jackery"
-  wh: 1264
-  ac_input_w: 1260
-  weight_lb: 32
-  tags: ["quiet-hours", "under-1000", "generator-free", "hot-nights"]
+  wh_spec: 1264
+  ac_input_w_spec: 1260
+  weight_lb_spec: 32
+  tags: ["under-1000", "quiet-hours", "generator-free", "hot-nights", "fast-ac"]
+  status: "core"
   review_url: "/reviews/jackery-explorer-1000-plus/"
   image_path: "/img/picks/under-1000-quiet-hours.jpg"
   credits_ref: "audit/pick-card-images-credits.md:under-1000-quiet-hours"
@@ -80,10 +86,404 @@ anker-solix-f2000-767:
   id: "anker-solix-f2000-767"
   name: "Anker SOLIX F2000 / 767 (2048Wh)"
   brand: "Anker"
-  wh: 2048
-  ac_input_w: 1440
-  weight_lb: 67
-  tags: ["quiet-hours", "generator-free"]
+  wh_spec: 2048
+  ac_input_w_spec: 1440
+  weight_lb_spec: 67
+  tags: ["quiet-hours", "generator-free", "heavyweight", "watch-list"]
+  status: "watch"
+  review_url: ""
   image_path: "/img/picks/under-1000-fastest-recovery.jpg"
   credits_ref: "audit/pick-card-images-credits.md:under-1000-fastest-recovery"
   notes_short: "High-buffer option for rule-heavy recovery windows."
+
+ecoflow-river-2-pro:
+  id: "ecoflow-river-2-pro"
+  name: "EcoFlow RIVER 2 Pro (768Wh)"
+  brand: "EcoFlow"
+  wh_spec: 768
+  ac_input_w_spec: 940
+  weight_lb_spec: 18.2
+  tags: ["work", "essentials", "cold-weather", "heat-humidity", "fast-ac"]
+  status: "core"
+  review_url: ""
+  image_path: ""
+  credits_ref: ""
+  notes_short: "Compact recovery-first option for short refill windows."
+
+bluetti-ac70:
+  id: "bluetti-ac70"
+  name: "BLUETTI AC70 (768Wh)"
+  brand: "BLUETTI"
+  wh_spec: 768
+  ac_input_w_spec: 950
+  weight_lb_spec: 22.5
+  tags: ["work", "essentials", "cold-weather", "heat-humidity", "value"]
+  status: "core"
+  review_url: ""
+  image_path: ""
+  credits_ref: ""
+  notes_short: "Value-focused 700Wh+ tier pick with quick AC recovery."
+
+jackery-explorer-1000-v2:
+  id: "jackery-explorer-1000-v2"
+  name: "Jackery Explorer 1000 v2 (1070Wh)"
+  brand: "Jackery"
+  wh_spec: 1070
+  ac_input_w_spec:
+  weight_lb_spec: 23.8
+  tags: ["work", "essentials", "cold-weather", "watch-list"]
+  status: "watch"
+  review_url: ""
+  image_path: ""
+  credits_ref: ""
+  notes_short: "1kWh-class routine pick with emergency fast-charge mode."
+
+anker-solix-c1000-gen-2:
+  id: "anker-solix-c1000-gen-2"
+  name: "Anker SOLIX C1000 Gen 2 (approx. 1kWh class)"
+  brand: "Anker"
+  wh_spec: 1024
+  ac_input_w_spec: 1600
+  weight_lb_spec: 24.9
+  tags: ["work", "essentials", "heat-humidity", "fast-ac", "value"]
+  status: "watch"
+  review_url: ""
+  image_path: ""
+  credits_ref: ""
+  notes_short: "Fast refill-focused option for compressed recovery windows."
+
+anker-solix-c300:
+  id: "anker-solix-c300"
+  name: "Anker SOLIX C300"
+  brand: "Anker"
+  wh_spec:
+  ac_input_w_spec:
+  weight_lb_spec:
+  tags: ["under-1000", "fast-ac", "essentials", "value"]
+  status: "watch"
+  review_url: ""
+  image_path: ""
+  credits_ref: ""
+  notes_short: "Compact pick for short outlet windows when portability matters most."
+
+anker-solix-c300-dc:
+  id: "anker-solix-c300-dc"
+  name: "Anker SOLIX C300 DC"
+  brand: "Anker"
+  wh_spec:
+  ac_input_w_spec:
+  weight_lb_spec:
+  tags: ["under-1000", "essentials", "work", "watch-list"]
+  status: "backlog"
+  review_url: ""
+  image_path: ""
+  credits_ref: ""
+  notes_short: "DC-first option for low-draw routines that need minimal recharge friction."
+
+anker-solix-c800:
+  id: "anker-solix-c800"
+  name: "Anker SOLIX C800"
+  brand: "Anker"
+  wh_spec:
+  ac_input_w_spec:
+  weight_lb_spec:
+  tags: ["under-1000", "fast-ac", "work", "value"]
+  status: "watch"
+  review_url: ""
+  image_path: ""
+  credits_ref: ""
+  notes_short: "Mid-size value route for stable daily resets in constrained time blocks."
+
+anker-solix-f1200-757:
+  id: "anker-solix-f1200-757"
+  name: "Anker SOLIX F1200 (PowerHouse 757)"
+  brand: "Anker"
+  wh_spec:
+  ac_input_w_spec:
+  weight_lb_spec:
+  tags: ["fast-ac", "generator-free", "work", "watch-list", "heavyweight"]
+  status: "watch"
+  review_url: ""
+  image_path: ""
+  credits_ref: ""
+  notes_short: "Higher-output class for users who can trade portability for recovery headroom."
+
+anker-solix-f1500:
+  id: "anker-solix-f1500"
+  name: "Anker SOLIX F1500"
+  brand: "Anker"
+  wh_spec:
+  ac_input_w_spec:
+  weight_lb_spec:
+  tags: ["fast-ac", "generator-free", "cloudy-weeks", "heavyweight"]
+  status: "backlog"
+  review_url: ""
+  image_path: ""
+  credits_ref: ""
+  notes_short: "Larger-buffer candidate for rough-weather recovery planning and fewer close calls."
+
+bluetti-ac2a:
+  id: "bluetti-ac2a"
+  name: "BLUETTI AC2A"
+  brand: "BLUETTI"
+  wh_spec:
+  ac_input_w_spec:
+  weight_lb_spec:
+  tags: ["under-1000", "essentials", "value", "watch-list"]
+  status: "backlog"
+  review_url: ""
+  image_path: ""
+  credits_ref: ""
+  notes_short: "Small entry option for light essentials and backup-only routines."
+
+bluetti-ac60:
+  id: "bluetti-ac60"
+  name: "BLUETTI AC60"
+  brand: "BLUETTI"
+  wh_spec:
+  ac_input_w_spec:
+  weight_lb_spec:
+  tags: ["under-1000", "fast-ac", "essentials", "quiet-hours"]
+  status: "watch"
+  review_url: ""
+  image_path: ""
+  credits_ref: ""
+  notes_short: "Portable route for short refills when quiet operation and mobility are priorities."
+
+bluetti-eb3a:
+  id: "bluetti-eb3a"
+  name: "BLUETTI EB3A"
+  brand: "BLUETTI"
+  wh_spec:
+  ac_input_w_spec:
+  weight_lb_spec:
+  tags: ["under-1000", "essentials", "value", "watch-list"]
+  status: "backlog"
+  review_url: ""
+  image_path: ""
+  credits_ref: ""
+  notes_short: "Starter-tier backup choice for minimalist loads and short recovery sessions."
+
+bluetti-eb55:
+  id: "bluetti-eb55"
+  name: "BLUETTI EB55"
+  brand: "BLUETTI"
+  wh_spec:
+  ac_input_w_spec:
+  weight_lb_spec:
+  tags: ["under-1000", "essentials", "generator-free", "value"]
+  status: "watch"
+  review_url: ""
+  image_path: ""
+  credits_ref: ""
+  notes_short: "Balanced backup platform for essential-only nights and weekend reset routines."
+
+bluetti-eb70s:
+  id: "bluetti-eb70s"
+  name: "BLUETTI EB70S"
+  brand: "BLUETTI"
+  wh_spec:
+  ac_input_w_spec:
+  weight_lb_spec:
+  tags: ["under-1000", "essentials", "work", "value"]
+  status: "watch"
+  review_url: ""
+  image_path: ""
+  credits_ref: ""
+  notes_short: "700Wh-class budget contender for steady baseline loads and calm weekly planning."
+
+dji-power-1000:
+  id: "dji-power-1000"
+  name: "DJI Power 1000"
+  brand: "DJI"
+  wh_spec:
+  ac_input_w_spec:
+  weight_lb_spec:
+  tags: ["under-1000", "fast-ac", "work", "watch-list"]
+  status: "watch"
+  review_url: ""
+  image_path: ""
+  credits_ref: ""
+  notes_short: "Fast-recovery contender for users prioritizing short plug-in windows."
+
+ecoflow-delta-mini:
+  id: "ecoflow-delta-mini"
+  name: "EcoFlow DELTA mini"
+  brand: "EcoFlow"
+  wh_spec:
+  ac_input_w_spec:
+  weight_lb_spec:
+  tags: ["under-1000", "fast-ac", "work", "watch-list"]
+  status: "watch"
+  review_url: ""
+  image_path: ""
+  credits_ref: ""
+  notes_short: "Legacy compact Delta class for quick turnaround where outlet access is limited."
+
+ecoflow-river-2:
+  id: "ecoflow-river-2"
+  name: "EcoFlow RIVER 2"
+  brand: "EcoFlow"
+  wh_spec:
+  ac_input_w_spec:
+  weight_lb_spec:
+  tags: ["under-1000", "fast-ac", "essentials", "value"]
+  status: "watch"
+  review_url: ""
+  image_path: ""
+  credits_ref: ""
+  notes_short: "Entry fast-AC route for simple essentials and predictable daily top-offs."
+
+ecoflow-river-2-max:
+  id: "ecoflow-river-2-max"
+  name: "EcoFlow RIVER 2 Max"
+  brand: "EcoFlow"
+  wh_spec:
+  ac_input_w_spec:
+  weight_lb_spec:
+  tags: ["under-1000", "fast-ac", "essentials", "work", "value"]
+  status: "watch"
+  review_url: ""
+  image_path: ""
+  credits_ref: ""
+  notes_short: "Mid-tier River option for faster refill routines and moderate daily load pressure."
+
+ecoflow-river-pro:
+  id: "ecoflow-river-pro"
+  name: "EcoFlow RIVER Pro"
+  brand: "EcoFlow"
+  wh_spec:
+  ac_input_w_spec:
+  weight_lb_spec:
+  tags: ["under-1000", "work", "essentials", "watch-list"]
+  status: "backlog"
+  review_url: ""
+  image_path: ""
+  credits_ref: ""
+  notes_short: "Older mid-size candidate for users comparing value-driven used or legacy options."
+
+goal-zero-yeti-1000x:
+  id: "goal-zero-yeti-1000x"
+  name: "Goal Zero Yeti 1000X"
+  brand: "Goal Zero"
+  wh_spec:
+  ac_input_w_spec:
+  weight_lb_spec:
+  tags: ["fast-ac", "work", "generator-free", "watch-list", "heavyweight"]
+  status: "backlog"
+  review_url: ""
+  image_path: ""
+  credits_ref: ""
+  notes_short: "Established legacy option for comparison when prioritizing ecosystem compatibility."
+
+jackery-explorer-880-pro:
+  id: "jackery-explorer-880-pro"
+  name: "Jackery Explorer 880 Pro"
+  brand: "Jackery"
+  wh_spec:
+  ac_input_w_spec:
+  weight_lb_spec:
+  tags: ["under-1000", "fast-ac", "quiet-hours", "watch-list"]
+  status: "watch"
+  review_url: ""
+  image_path: ""
+  credits_ref: ""
+  notes_short: "Sub-1kWh class candidate for predictable quiet-hour recovery patterns."
+
+jackery-explorer-1000:
+  id: "jackery-explorer-1000"
+  name: "Jackery Explorer 1000"
+  brand: "Jackery"
+  wh_spec:
+  ac_input_w_spec:
+  weight_lb_spec:
+  tags: ["under-1000", "essentials", "generator-free", "value"]
+  status: "watch"
+  review_url: ""
+  image_path: ""
+  credits_ref: ""
+  notes_short: "Legacy 1kWh-class baseline option for users optimizing value over peak speed."
+
+jackery-explorer-1000-pro:
+  id: "jackery-explorer-1000-pro"
+  name: "Jackery Explorer 1000 Pro"
+  brand: "Jackery"
+  wh_spec:
+  ac_input_w_spec:
+  weight_lb_spec:
+  tags: ["under-1000", "fast-ac", "work", "quiet-hours", "watch-list"]
+  status: "watch"
+  review_url: ""
+  image_path: ""
+  credits_ref: ""
+  notes_short: "Faster-recovery Jackery tier for short-access work and travel schedules."
+
+oukitel-p1000:
+  id: "oukitel-p1000"
+  name: "Oukitel P1000"
+  brand: "Oukitel"
+  wh_spec:
+  ac_input_w_spec:
+  weight_lb_spec:
+  tags: ["under-1000", "value", "generator-free", "watch-list"]
+  status: "backlog"
+  review_url: ""
+  image_path: ""
+  credits_ref: ""
+  notes_short: "Value-focused alternate worth monitoring for budget-constrained upgrade windows."
+
+pecron-e1000lfp:
+  id: "pecron-e1000lfp"
+  name: "Pecron E1000LFP"
+  brand: "Pecron"
+  wh_spec:
+  ac_input_w_spec:
+  weight_lb_spec:
+  tags: ["under-1000", "value", "work", "watch-list"]
+  status: "backlog"
+  review_url: ""
+  image_path: ""
+  credits_ref: ""
+  notes_short: "Alternative 1kWh-class candidate for value-first buyers tracking sale windows."
+
+ugreen-powerroam-1200:
+  id: "ugreen-powerroam-1200"
+  name: "UGREEN PowerRoam 1200"
+  brand: "UGREEN"
+  wh_spec:
+  ac_input_w_spec:
+  weight_lb_spec:
+  tags: ["under-1000", "fast-ac", "work", "generator-free", "watch-list"]
+  status: "watch"
+  review_url: ""
+  image_path: ""
+  credits_ref: ""
+  notes_short: "High-output value contender for short recovery windows in work-heavy routines."
+
+vtoman-jump-1000:
+  id: "vtoman-jump-1000"
+  name: "VTOMAN Jump 1000"
+  brand: "VTOMAN"
+  wh_spec:
+  ac_input_w_spec:
+  weight_lb_spec:
+  tags: ["under-1000", "value", "essentials", "watch-list"]
+  status: "backlog"
+  review_url: ""
+  image_path: ""
+  credits_ref: ""
+  notes_short: "Budget-oriented option for essentials-first routines and occasional recovery boosts."
+
+zendure-superbase-pro-1000:
+  id: "zendure-superbase-pro-1000"
+  name: "Zendure SuperBase Pro 1000"
+  brand: "Zendure"
+  wh_spec:
+  ac_input_w_spec:
+  weight_lb_spec:
+  tags: ["fast-ac", "work", "generator-free", "watch-list", "heavyweight"]
+  status: "backlog"
+  review_url: ""
+  image_path: ""
+  credits_ref: ""
+  notes_short: "Feature-rich alternate for buyers comparing premium recovery workflows."

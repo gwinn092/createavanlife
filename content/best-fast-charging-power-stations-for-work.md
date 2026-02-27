@@ -31,28 +31,28 @@ Use:
 
 Price-drift note: these are recovery-first picks, not fixed-price promises.
 
-### 1) EcoFlow RIVER 2 Pro (768Wh)
+### 1) {{< calvproduct id="ecoflow-river-2-pro" mode="name_link" >}}
 **Why it fits work:** Strong fit for lighter work baselines that still need fast, predictable refill behavior.
 **Best recovery window match:** Short shore sessions and planned refill stops.
 **Claims & sources:**
 - **Manufacturer claim:** EcoFlow claims 0–100% in 70 minutes ([EcoFlow US](https://us.ecoflow.com/collections/river-2-series/products/river-2-pro-portable-power-station)).
 - **Third-party tests:** AppleInsider reports about 70 minutes with included AC charging ([AppleInsider](https://appleinsider.com/articles/23/05/10/ecoflow-river-2-pro-review-compact-design-with-expansive-power)); OutdoorGearLab reports about 75 minutes in testing ([OutdoorGearLab](https://www.outdoorgearlab.com/reviews/camping-and-hiking/power-station/ecoflow-river-2-pro)).
 
-### 2) BLUETTI AC70 (768Wh)
+### 2) {{< calvproduct id="bluetti-ac70" mode="name_link" >}}
 **Why it fits work:** Good recovery-first value when your workday needs a dependable 700Wh+ class option.
 **Best recovery window match:** Regular shore windows and mixed work/travel weeks.
 **Claims & sources:**
 - **Manufacturer claim:** BLUETTI lists up to 950W AC input, 0–80% in 45 minutes, and about 1.3–1.6 hours in Turbo mode ([BLUETTI](https://www.bluettipower.com/products/ac70)).
 - **Third-party test:** Trusted Reviews reports a full charge in 86 minutes in Turbo mode ([Trusted Reviews](https://www.trustedreviews.com/reviews/bluetti-ac70)).
 
-### 3) Jackery Explorer 1000 v2 (1070Wh)
+### 3) {{< calvproduct id="jackery-explorer-1000-v2" mode="name_link" >}}
 **Why it fits work:** Useful for heavier work baselines that need extra margin with a fast catch-up mode.
 **Best recovery window match:** Planned catch-up windows when work blocks compress your day.
 **Claims & sources:**
 - **Manufacturer claim:** Jackery markets emergency super charge 0–100% in 1 hour ([Jackery US](https://www.jackery.com/products/jackery-explorer-1000-v2)).
 - **Third-party test:** TechRadar reports a full charge in 1 hour using emergency mode ([TechRadar](https://www.techradar.com/pro/jackery-explorer-1000-v2-portable-power-station-review)).
 
-### 4) EcoFlow DELTA 2 (1024Wh)
+### 4) {{< calvproduct id="ecoflow-delta-2" mode="name_link" >}}
 **Why it fits work:** Good fit for work-heavy weeks where you need a larger recovery window around calls and online blocks.
 **Best recovery window match:** Reliable shore sessions and bad-condition catch-up days.
 **Claims & sources:**

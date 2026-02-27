@@ -1,243 +1,293 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags/Routines on Create A Van Life</title>
-    <link>http://localhost:1313/tags/routines/</link>
-    <description>Recent content in Tags/Routines on Create A Van Life</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>© 2026 Moments in the Miles</copyright>
-    <lastBuildDate>Sun, 22 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/routines/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Cold &#43; Cloudy Van Power Recovery: Stay Stable When Solar Drops</title>
-      <link>http://localhost:1313/cold-and-cloudy-van-power-recovery/</link>
-      <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/cold-and-cloudy-van-power-recovery/</guid>
-      <description>&lt;p&gt;Cold increases baseline needs, and clouds weaken refill options when you need them most.&lt;/p&gt;&#xA;&lt;p&gt;Use:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/cold-weather-van-power-recovery/&#34; &gt;Cold Weather Van Power Recovery&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/cloudy-week-power-recovery-plan/&#34; &gt;Cloudy Week Power Recovery Plan&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;The failure pattern (why drift accelerates)&#xA;    &lt;div id=&#34;the-failure-pattern-why-drift-accelerates&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#the-failure-pattern-why-drift-accelerates&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Long nights plus a higher comfort baseline.&lt;/li&gt;&#xA;&lt;li&gt;Weak and inconsistent solar input.&lt;/li&gt;&#xA;&lt;li&gt;Quiet hours and parking constraints stacking at once.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Use:&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Cold Weather Van Power Recovery: Stay Stable Through Long Nights</title>
-      <link>http://localhost:1313/cold-weather-van-power-recovery/</link>
-      <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/cold-weather-van-power-recovery/</guid>
-      <description>&lt;p&gt;Cold changes the game: long nights, comfort pressure that feels non-optional, and weaker solar windows in many winter routines.&lt;/p&gt;&#xA;&lt;p&gt;Start here:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/van-power-stability-scorecard/&#34; &gt;Van Power Stability Scorecard&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/tier-2-bad-week-protocol/&#34; &gt;Tier 2 Bad Week Protocol&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;The cold-weather failure pattern (how drift happens)&#xA;    &lt;div id=&#34;the-cold-weather-failure-pattern-how-drift-happens&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#the-cold-weather-failure-pattern-how-drift-happens&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Long overnight runtime with fewer refill hours.&lt;/li&gt;&#xA;&lt;li&gt;Cloudy stretches stack and reduce reliable harvest.&lt;/li&gt;&#xA;&lt;li&gt;Quiet hours can remove late-day recovery options.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Use:&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Cooking &#43; Hot Water Power Stability: Avoid Spike Drift in Van Life</title>
-      <link>http://localhost:1313/cooking-and-hot-water-power-stability/</link>
-      <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/cooking-and-hot-water-power-stability/</guid>
-      <description>&lt;p&gt;Cooking and hot-water use can create spike days that quietly push your system into drift.&lt;/p&gt;&#xA;&lt;p&gt;This page keeps it recovery-first: protect baseline, reduce spike-driven drift, and plan refill windows so meals do not become panic decisions.&lt;/p&gt;&#xA;&lt;p&gt;Start here:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/van-battery-drift-diagnosis/&#34; &gt;Van Battery Drift Diagnosis&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/van-power-stability-scorecard/&#34; &gt;Van Power Stability Scorecard&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;The spike-drift pattern (what people mistake)&#xA;    &lt;div id=&#34;the-spike-drift-pattern-what-people-mistake&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#the-spike-drift-pattern-what-people-mistake&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Spike drift usually comes from timing and constraints, not one bad appliance choice:&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>CPAP Power Stability in Van Life: A Calm, Recovery-First Plan</title>
-      <link>http://localhost:1313/cpap-power-stability-van-life/</link>
-      <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/cpap-power-stability-van-life/</guid>
-      <description>&lt;p&gt;This page is power-planning guidance, not medical advice.&lt;/p&gt;&#xA;&lt;p&gt;For device-specific settings, runtime behavior, and clinical guidance, talk with your clinician and follow your device manufacturer instructions. In van power planning terms, CPAP is baseline and non-negotiable.&lt;/p&gt;&#xA;&lt;p&gt;Start here:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/van-power-stability-scorecard/&#34; &gt;Van Power Stability Scorecard&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/recovery-mode-load-priorities/&#34; &gt;Recovery Mode Load Priorities&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;The failure pattern (why CPAP nights get risky)&#xA;    &lt;div id=&#34;the-failure-pattern-why-cpap-nights-get-risky&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#the-failure-pattern-why-cpap-nights-get-risky&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Most risky nights start before bedtime:&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Drive Recovery Window Plan: Refill While You Already Drive (Recovery-First)</title>
-      <link>http://localhost:1313/drive-recovery-window-plan/</link>
-      <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/drive-recovery-window-plan/</guid>
-      <description>&lt;p&gt;This plan is about using driving you already do, not adding miles just to charge.&lt;/p&gt;&#xA;&lt;p&gt;Start here:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/solar-vs-alternator-charging/&#34; &gt;Solar vs Alternator Charging&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/recovery-window-priority-map/&#34; &gt;Recovery Window Priority Map&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Step 1 — Pick the drive window that actually happens&#xA;    &lt;div id=&#34;step-1--pick-the-drive-window-that-actually-happens&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#step-1--pick-the-drive-window-that-actually-happens&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Examples include groceries, gym runs, moving spots, and commute days.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Generator-Free Van Power Recovery: Stay Stable Without Noise or Idling</title>
-      <link>http://localhost:1313/generator-free-van-power-recovery/</link>
-      <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/generator-free-van-power-recovery/</guid>
-      <description>&lt;p&gt;Many rigs fail because the plan assumes noise, time, or freedom you do not actually have.&lt;/p&gt;&#xA;&lt;p&gt;Start here:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/parking-constraints-van-power-recovery/&#34; &gt;Parking Constraints Van Power Recovery&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/quiet-hours-recovery-plan/&#34; &gt;Quiet Hours Recovery Plan&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;The generator-free failure pattern&#xA;    &lt;div id=&#34;the-generator-free-failure-pattern&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#the-generator-free-failure-pattern&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Quiet hours limit refill moves.&lt;/li&gt;&#xA;&lt;li&gt;Parking and shade reduce reliable harvest.&lt;/li&gt;&#xA;&lt;li&gt;“Just drive more” is not always possible.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Use:&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Heat &#43; Humidity Van Power Recovery: Stay Stable When Everything Runs</title>
-      <link>http://localhost:1313/heat-and-humidity-van-power-recovery/</link>
-      <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/heat-and-humidity-van-power-recovery/</guid>
-      <description>&lt;p&gt;Hot and humid weeks can break a power plan fast.&lt;/p&gt;&#xA;&lt;p&gt;When both conditions hit at once, comfort loads run longer, sleep gets worse, and your recovery options can shrink right when you need them most.&lt;/p&gt;&#xA;&lt;p&gt;This page is a calm, recovery-first plan for combo weeks: protect baseline, stop leaks, choose realistic recovery windows, and avoid panic upgrades.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Hot &#43; Cloudy Van Power Recovery: Stay Stable When Solar Drops</title>
-      <link>http://localhost:1313/hot-and-cloudy-van-power-recovery/</link>
-      <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/hot-and-cloudy-van-power-recovery/</guid>
-      <description>&lt;p&gt;Hot and cloudy weeks can feel like a trap: heat pushes loads up while clouds weaken your refill.&lt;/p&gt;&#xA;&lt;p&gt;This page is a recovery-first plan for staying stable when solar is inconsistent and comfort pressure is high.&lt;/p&gt;&#xA;&lt;p&gt;Start here:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/heat-wave-van-power-recovery/&#34; &gt;Heat-Wave Van Power Recovery&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/cloudy-week-power-recovery-plan/&#34; &gt;Cloudy Week Power Recovery Plan&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;The failure pattern (why drift accelerates)&#xA;    &lt;div id=&#34;the-failure-pattern-why-drift-accelerates&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#the-failure-pattern-why-drift-accelerates&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;In hot-and-cloudy weeks, drift usually accelerates for a few predictable reasons:&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Midday Van Power Check: Prevent the Late-Day Spiral</title>
-      <link>http://localhost:1313/midday-power-check/</link>
-      <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/midday-power-check/</guid>
-      <description>&lt;p&gt;Most van power “emergencies” are just missed checkpoints.&lt;/p&gt;&#xA;&lt;p&gt;Midday is when drift becomes visible:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;the morning plan didn’t hold&lt;/li&gt;&#xA;&lt;li&gt;comfort loads crept in&lt;/li&gt;&#xA;&lt;li&gt;recovery didn’t happen (or won’t)&lt;/li&gt;&#xA;&lt;li&gt;the night is going to be harder than you expected&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;This page is a short midday routine that keeps you stable without overthinking.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Parking Constraints Van Power Recovery: Stay Stable When You Can’t Refill Easily</title>
-      <link>http://localhost:1313/parking-constraints-van-power-recovery/</link>
-      <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/parking-constraints-van-power-recovery/</guid>
-      <description>&lt;p&gt;Parking can act like a hidden energy tax. Shade, rules, and narrow time windows can collapse ideal charging plans.&lt;/p&gt;&#xA;&lt;p&gt;Start here:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/van-power-stability-scorecard/&#34; &gt;Van Power Stability Scorecard&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/recovery-window-priority-map/&#34; &gt;Recovery Window Priority Map&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;The parking-constraint failure pattern&#xA;    &lt;div id=&#34;the-parking-constraint-failure-pattern&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#the-parking-constraint-failure-pattern&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Shade cuts harvest when you need it most.&lt;/li&gt;&#xA;&lt;li&gt;Quiet hours limit refill options.&lt;/li&gt;&#xA;&lt;li&gt;“Just drive more” is not always available.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Use:&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Shore Power Refill Window Plan: Get a Fast, Respectful Recovery Session</title>
-      <link>http://localhost:1313/shore-power-refill-window-plan/</link>
-      <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/shore-power-refill-window-plan/</guid>
-      <description>&lt;p&gt;Shore power is often the most reliable recovery move, but only when it is planned on purpose.&lt;/p&gt;&#xA;&lt;p&gt;Start here:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/shore-power-recovery-routine/&#34; &gt;Shore Power Recovery Routine&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/recovery-window-priority-map/&#34; &gt;Recovery Window Priority Map&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Step 1 — Choose the right kind of refill window (reality-first)&#xA;    &lt;div id=&#34;step-1--choose-the-right-kind-of-refill-window-reality-first&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#step-1--choose-the-right-kind-of-refill-window-reality-first&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Examples include campground access, a friend’s driveway, a paid RV spot, or other permitted outlet access.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Solar Capture Window Plan: Get the Most From Solar Without Magical Thinking</title>
-      <link>http://localhost:1313/solar-capture-window-plan/</link>
-      <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/solar-capture-window-plan/</guid>
-      <description>&lt;p&gt;Solar works best as a layer, not a promise.&lt;/p&gt;&#xA;&lt;p&gt;Start here:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/cloudy-week-power-recovery-plan/&#34; &gt;Cloudy Week Power Recovery Plan&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/parking-constraints-van-power-recovery/&#34; &gt;Parking Constraints Van Power Recovery&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Step 1 — Plan for the “capture window” (not all-day fantasy)&#xA;    &lt;div id=&#34;step-1--plan-for-the-capture-window-not-all-day-fantasy&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#step-1--plan-for-the-capture-window-not-all-day-fantasy&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Plan around the part of your day where parking and timing actually support harvest.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Starlink &#43; Internet Power Stability: Stay Online Without Battery Drift</title>
-      <link>http://localhost:1313/starlink-and-internet-power-stability/</link>
-      <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/starlink-and-internet-power-stability/</guid>
-      <description>&lt;p&gt;Always-on connectivity is a stealth baseline load in van life.&lt;/p&gt;&#xA;&lt;p&gt;The drift usually appears mid-week: you stay online, keep working, and suddenly your power margin is gone. This page keeps it recovery-first so internet gear supports your week instead of quietly draining it.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Starter Tier Survival Plan: Stay Stable on an Under-$500 Power Setup (700Wh&#43;)</title>
-      <link>http://localhost:1313/starter-tier-survival-plan/</link>
-      <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/starter-tier-survival-plan/</guid>
-      <description>&lt;p&gt;The starter tier can work in van life—but only if you run it like a system.&lt;/p&gt;&#xA;&lt;p&gt;This page is for people using an &lt;strong&gt;under-$500&lt;/strong&gt; style setup (CAVL floor still applies: &lt;strong&gt;700Wh+&lt;/strong&gt;) who want stability without constantly “needing more.”&lt;/p&gt;&#xA;&lt;p&gt;If you’re not sure whether starter tier is enough for you, use:&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Tier 2 Bad Week Protocol: Stay Stable on an Under-$1000 Setup</title>
-      <link>http://localhost:1313/tier-2-bad-week-protocol/</link>
-      <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tier-2-bad-week-protocol/</guid>
-      <description>&lt;p&gt;Bad weeks are when plans get exposed: heat, humidity, cloudy stretches, quiet hours, work pressure—sometimes all at once.&lt;/p&gt;&#xA;&lt;p&gt;Tier 2 (under-$1000) helps most when you use it &lt;strong&gt;early and intentionally&lt;/strong&gt;, not as a last-minute panic button.&lt;/p&gt;&#xA;&lt;p&gt;Start here if you’re new to the ladder:&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Van Battery Drift Diagnosis: Why You’re Losing Power (and the Fix Order That Works)</title>
-      <link>http://localhost:1313/van-battery-drift-diagnosis/</link>
-      <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/van-battery-drift-diagnosis/</guid>
-      <description>&lt;p&gt;If any terms feel fuzzy (AC input, surge, pass-through), use the &lt;strong&gt;&lt;a href=&#34;http://localhost:1313/fast-charging-power-station-glossary/&#34; &gt;Fast-Charging Power Station Glossary&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Battery drift is usually a pattern, not a single event.&lt;/p&gt;&#xA;&lt;p&gt;If your power keeps sliding even when each day feels &amp;ldquo;normal,&amp;rdquo; this page helps you diagnose the cause and fix it in the right order.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Van Cooling Power Stability: Stay Comfortable Without Battery Drift</title>
-      <link>http://localhost:1313/van-cooling-power-stability/</link>
-      <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/van-cooling-power-stability/</guid>
-      <description>&lt;p&gt;Cooling loads can become battery drift fast, especially when heat and humidity stack.&lt;/p&gt;&#xA;&lt;p&gt;This page is a recovery-first plan for staying comfortable without letting hot weeks push your system into panic mode.&lt;/p&gt;&#xA;&lt;p&gt;Start here:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/heat-and-humidity-van-power-recovery/&#34; &gt;Heat + Humidity Van Power Recovery&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/van-power-stability-scorecard/&#34; &gt;Van Power Stability Scorecard&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;The cooling-driven drift pattern&#xA;    &lt;div id=&#34;the-cooling-driven-drift-pattern&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#the-cooling-driven-drift-pattern&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Cooling-heavy weeks usually drift through a repeating pattern:&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Van Fridge Power Stability: Keep Food Cold Without Battery Drift</title>
-      <link>http://localhost:1313/van-fridge-power-stability/</link>
-      <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/van-fridge-power-stability/</guid>
-      <description>&lt;p&gt;Your fridge is often the silent baseline load in van life.&lt;/p&gt;&#xA;&lt;p&gt;When stability slips, it can feel like &amp;ldquo;nothing changed&amp;rdquo; even though your battery drifts lower each day. This page is a recovery-first guide to keep food cold without sliding into panic decisions.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Van Power Stability Scorecard: Quick Self-Audit to Fix the Right Thing First</title>
-      <link>http://localhost:1313/van-power-stability-scorecard/</link>
-      <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/van-power-stability-scorecard/</guid>
-      <description>&lt;p&gt;This is a self-audit, not a gear list.&lt;/p&gt;&#xA;&lt;p&gt;Start here:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/van-power-upgrade-decision-tree/&#34; &gt;Van Power Upgrade Decision Tree&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/tier-2-bad-week-protocol/&#34; &gt;Tier 2 Bad Week Protocol&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;How to use this scorecard (30 seconds)&#xA;    &lt;div id=&#34;how-to-use-this-scorecard-30-seconds&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#how-to-use-this-scorecard-30-seconds&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Mark each section:&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Van Power Upgrade Decision Tree: Choose the Next Best Move (Without Panic Spending)</title>
-      <link>http://localhost:1313/van-power-upgrade-decision-tree/</link>
-      <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/van-power-upgrade-decision-tree/</guid>
-      <description>&lt;p&gt;This is a next-best-move guide, not a shopping list.&lt;/p&gt;&#xA;&lt;p&gt;Rule:&#xA;&lt;strong&gt;Fix leaks → protect baseline → improve recovery speed → then add capacity.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Start here:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/van-power-upgrade-mistakes/&#34; &gt;Van Power Upgrade Mistakes&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/van-power-upgrade-checklist/&#34; &gt;Van Power Upgrade Checklist&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Step 0 — Are you in a bad week right now?&#xA;    &lt;div id=&#34;step-0--are-you-in-a-bad-week-right-now&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#step-0--are-you-in-a-bad-week-right-now&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;If yes, run protocol first and decide upgrades later.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Van Power Upgrade Mistakes: The Wrong Fix Patterns (and What to Do Instead)</title>
-      <link>http://localhost:1313/van-power-upgrade-mistakes/</link>
-      <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/van-power-upgrade-mistakes/</guid>
-      <description>&lt;p&gt;Upgrades should be deliberate, not panic buttons. The pattern that usually works is simple:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Fix leaks → protect baseline → improve recovery speed → then add capacity.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Start here:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/van-power-upgrade-checklist/&#34; &gt;Van Power Upgrade Checklist&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/van-power-upgrade-paths/&#34; &gt;Van Power Upgrade Paths&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Mistake 1 — Buying more Wh instead of improving recovery speed&#xA;    &lt;div id=&#34;mistake-1--buying-more-wh-instead-of-improving-recovery-speed&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#mistake-1--buying-more-wh-instead-of-improving-recovery-speed&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Pattern:&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Van Power Weekly Reset Routine: Stay Out of Recovery Mode</title>
-      <link>http://localhost:1313/van-power-weekly-reset-routine/</link>
-      <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/van-power-weekly-reset-routine/</guid>
-      <description>&lt;p&gt;Most van power failures aren’t sudden. They’re &lt;strong&gt;drift&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;A little extra comfort use here, a missed recovery window there, a few cloudy days, a late-night habit… and suddenly you’re in &lt;strong&gt;Recovery mode&lt;/strong&gt; reacting to everything.&lt;/p&gt;&#xA;&lt;p&gt;This weekly reset is a short routine you do once a week (or anytime the week feels “off”) to:&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Work Pressure Van Power Recovery: Stay Stable During Deadline Weeks</title>
-      <link>http://localhost:1313/work-pressure-van-power-recovery/</link>
-      <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/work-pressure-van-power-recovery/</guid>
-      <description>&lt;p&gt;Work weeks can break power systems quietly: longer device runtimes, less schedule flexibility, and fewer easy recovery options.&lt;/p&gt;&#xA;&lt;p&gt;Start here:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/workday-power-boundaries/&#34; &gt;Workday Power Boundaries&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/van-power-stability-scorecard/&#34; &gt;Van Power Stability Scorecard&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;The failure pattern (what changes under work pressure)&#xA;    &lt;div id=&#34;the-failure-pattern-what-changes-under-work-pressure&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#the-failure-pattern-what-changes-under-work-pressure&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Longer stretches of &amp;ldquo;always on&amp;rdquo; devices.&lt;/li&gt;&#xA;&lt;li&gt;Less flexibility for driving, shore, or solar timing.&lt;/li&gt;&#xA;&lt;li&gt;Quiet hours and calls compress recovery windows.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Use:&lt;/p&gt;</description>
-      
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags/Routines on Create A Van Life</title><link>https://gwinn092.github.io/van.affiliation/tags/routines/</link><description>Recent content in Tags/Routines on Create A Van Life</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2026 Create A Van Life</copyright><lastBuildDate>Sun, 22 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://gwinn092.github.io/van.affiliation/tags/routines/index.xml" rel="self" type="application/rss+xml"/><item><title>Cold + Cloudy Van Power Recovery: Stay Stable When Solar Drops</title><link>https://gwinn092.github.io/van.affiliation/cold-and-cloudy-van-power-recovery/</link><pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate><guid>https://gwinn092.github.io/van.affiliation/cold-and-cloudy-van-power-recovery/</guid><description>&lt;p&gt;Cold increases baseline needs, and clouds weaken refill options when you need them most.&lt;/p&gt;
+&lt;p&gt;Use:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/cold-weather-van-power-recovery/" &gt;Cold Weather Van Power Recovery&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/cloudy-week-power-recovery-plan/" &gt;Cloudy Week Power Recovery Plan&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class="relative group"&gt;The failure pattern (why drift accelerates)
+ &lt;div id="the-failure-pattern-why-drift-accelerates" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#the-failure-pattern-why-drift-accelerates" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Long nights plus a higher comfort baseline.&lt;/li&gt;
+&lt;li&gt;Weak and inconsistent solar input.&lt;/li&gt;
+&lt;li&gt;Quiet hours and parking constraints stacking at once.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Use:&lt;/p&gt;</description></item><item><title>Cold Weather Van Power Recovery: Stay Stable Through Long Nights</title><link>https://gwinn092.github.io/van.affiliation/cold-weather-van-power-recovery/</link><pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate><guid>https://gwinn092.github.io/van.affiliation/cold-weather-van-power-recovery/</guid><description>&lt;p&gt;Cold changes the game: long nights, comfort pressure that feels non-optional, and weaker solar windows in many winter routines.&lt;/p&gt;
+&lt;p&gt;Start here:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/van-power-stability-scorecard/" &gt;Van Power Stability Scorecard&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/tier-2-bad-week-protocol/" &gt;Tier 2 Bad Week Protocol&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class="relative group"&gt;The cold-weather failure pattern (how drift happens)
+ &lt;div id="the-cold-weather-failure-pattern-how-drift-happens" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#the-cold-weather-failure-pattern-how-drift-happens" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Long overnight runtime with fewer refill hours.&lt;/li&gt;
+&lt;li&gt;Cloudy stretches stack and reduce reliable harvest.&lt;/li&gt;
+&lt;li&gt;Quiet hours can remove late-day recovery options.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Use:&lt;/p&gt;</description></item><item><title>Cooking + Hot Water Power Stability: Avoid Spike Drift in Van Life</title><link>https://gwinn092.github.io/van.affiliation/cooking-and-hot-water-power-stability/</link><pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate><guid>https://gwinn092.github.io/van.affiliation/cooking-and-hot-water-power-stability/</guid><description>&lt;p&gt;Cooking and hot-water use can create spike days that quietly push your system into drift.&lt;/p&gt;
+&lt;p&gt;This page keeps it recovery-first: protect baseline, reduce spike-driven drift, and plan refill windows so meals do not become panic decisions.&lt;/p&gt;
+&lt;p&gt;Start here:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/van-battery-drift-diagnosis/" &gt;Van Battery Drift Diagnosis&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/van-power-stability-scorecard/" &gt;Van Power Stability Scorecard&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class="relative group"&gt;The spike-drift pattern (what people mistake)
+ &lt;div id="the-spike-drift-pattern-what-people-mistake" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#the-spike-drift-pattern-what-people-mistake" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;Spike drift usually comes from timing and constraints, not one bad appliance choice:&lt;/p&gt;</description></item><item><title>CPAP Power Stability in Van Life: A Calm, Recovery-First Plan</title><link>https://gwinn092.github.io/van.affiliation/cpap-power-stability-van-life/</link><pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate><guid>https://gwinn092.github.io/van.affiliation/cpap-power-stability-van-life/</guid><description>&lt;p&gt;This page is power-planning guidance, not medical advice.&lt;/p&gt;
+&lt;p&gt;For device-specific settings, runtime behavior, and clinical guidance, talk with your clinician and follow your device manufacturer instructions. In van power planning terms, CPAP is baseline and non-negotiable.&lt;/p&gt;
+&lt;p&gt;Start here:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/van-power-stability-scorecard/" &gt;Van Power Stability Scorecard&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/recovery-mode-load-priorities/" &gt;Recovery Mode Load Priorities&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class="relative group"&gt;The failure pattern (why CPAP nights get risky)
+ &lt;div id="the-failure-pattern-why-cpap-nights-get-risky" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#the-failure-pattern-why-cpap-nights-get-risky" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;Most risky nights start before bedtime:&lt;/p&gt;</description></item><item><title>Drive Recovery Window Plan: Refill While You Already Drive (Recovery-First)</title><link>https://gwinn092.github.io/van.affiliation/drive-recovery-window-plan/</link><pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate><guid>https://gwinn092.github.io/van.affiliation/drive-recovery-window-plan/</guid><description>&lt;p&gt;This plan is about using driving you already do, not adding miles just to charge.&lt;/p&gt;
+&lt;p&gt;Start here:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/solar-vs-alternator-charging/" &gt;Solar vs Alternator Charging&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/recovery-window-priority-map/" &gt;Recovery Window Priority Map&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class="relative group"&gt;Step 1 — Pick the drive window that actually happens
+ &lt;div id="step-1--pick-the-drive-window-that-actually-happens" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#step-1--pick-the-drive-window-that-actually-happens" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;Examples include groceries, gym runs, moving spots, and commute days.&lt;/p&gt;</description></item><item><title>Generator-Free Van Power Recovery: Stay Stable Without Noise or Idling</title><link>https://gwinn092.github.io/van.affiliation/generator-free-van-power-recovery/</link><pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate><guid>https://gwinn092.github.io/van.affiliation/generator-free-van-power-recovery/</guid><description>&lt;p&gt;Many rigs fail because the plan assumes noise, time, or freedom you do not actually have.&lt;/p&gt;
+&lt;p&gt;Start here:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/parking-constraints-van-power-recovery/" &gt;Parking Constraints Van Power Recovery&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/quiet-hours-recovery-plan/" &gt;Quiet Hours Recovery Plan&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class="relative group"&gt;The generator-free failure pattern
+ &lt;div id="the-generator-free-failure-pattern" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#the-generator-free-failure-pattern" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Quiet hours limit refill moves.&lt;/li&gt;
+&lt;li&gt;Parking and shade reduce reliable harvest.&lt;/li&gt;
+&lt;li&gt;“Just drive more” is not always possible.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Use:&lt;/p&gt;</description></item><item><title>Heat + Humidity Van Power Recovery: Stay Stable When Everything Runs</title><link>https://gwinn092.github.io/van.affiliation/heat-and-humidity-van-power-recovery/</link><pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate><guid>https://gwinn092.github.io/van.affiliation/heat-and-humidity-van-power-recovery/</guid><description>&lt;p&gt;Hot and humid weeks can break a power plan fast.&lt;/p&gt;
+&lt;p&gt;When both conditions hit at once, comfort loads run longer, sleep gets worse, and your recovery options can shrink right when you need them most.&lt;/p&gt;
+&lt;p&gt;This page is a calm, recovery-first plan for combo weeks: protect baseline, stop leaks, choose realistic recovery windows, and avoid panic upgrades.&lt;/p&gt;</description></item><item><title>Hot + Cloudy Van Power Recovery: Stay Stable When Solar Drops</title><link>https://gwinn092.github.io/van.affiliation/hot-and-cloudy-van-power-recovery/</link><pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate><guid>https://gwinn092.github.io/van.affiliation/hot-and-cloudy-van-power-recovery/</guid><description>&lt;p&gt;Hot and cloudy weeks can feel like a trap: heat pushes loads up while clouds weaken your refill.&lt;/p&gt;
+&lt;p&gt;This page is a recovery-first plan for staying stable when solar is inconsistent and comfort pressure is high.&lt;/p&gt;
+&lt;p&gt;Start here:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/heat-wave-van-power-recovery/" &gt;Heat-Wave Van Power Recovery&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/cloudy-week-power-recovery-plan/" &gt;Cloudy Week Power Recovery Plan&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class="relative group"&gt;The failure pattern (why drift accelerates)
+ &lt;div id="the-failure-pattern-why-drift-accelerates" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#the-failure-pattern-why-drift-accelerates" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;In hot-and-cloudy weeks, drift usually accelerates for a few predictable reasons:&lt;/p&gt;</description></item><item><title>Midday Van Power Check: Prevent the Late-Day Spiral</title><link>https://gwinn092.github.io/van.affiliation/midday-power-check/</link><pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate><guid>https://gwinn092.github.io/van.affiliation/midday-power-check/</guid><description>&lt;p&gt;Most van power “emergencies” are just missed checkpoints.&lt;/p&gt;
+&lt;p&gt;Midday is when drift becomes visible:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;the morning plan didn’t hold&lt;/li&gt;
+&lt;li&gt;comfort loads crept in&lt;/li&gt;
+&lt;li&gt;recovery didn’t happen (or won’t)&lt;/li&gt;
+&lt;li&gt;the night is going to be harder than you expected&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This page is a short midday routine that keeps you stable without overthinking.&lt;/p&gt;</description></item><item><title>Parking Constraints Van Power Recovery: Stay Stable When You Can’t Refill Easily</title><link>https://gwinn092.github.io/van.affiliation/parking-constraints-van-power-recovery/</link><pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate><guid>https://gwinn092.github.io/van.affiliation/parking-constraints-van-power-recovery/</guid><description>&lt;p&gt;Parking can act like a hidden energy tax. Shade, rules, and narrow time windows can collapse ideal charging plans.&lt;/p&gt;
+&lt;p&gt;Start here:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/van-power-stability-scorecard/" &gt;Van Power Stability Scorecard&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/recovery-window-priority-map/" &gt;Recovery Window Priority Map&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class="relative group"&gt;The parking-constraint failure pattern
+ &lt;div id="the-parking-constraint-failure-pattern" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#the-parking-constraint-failure-pattern" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Shade cuts harvest when you need it most.&lt;/li&gt;
+&lt;li&gt;Quiet hours limit refill options.&lt;/li&gt;
+&lt;li&gt;“Just drive more” is not always available.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Use:&lt;/p&gt;</description></item><item><title>Shore Power Refill Window Plan: Get a Fast, Respectful Recovery Session</title><link>https://gwinn092.github.io/van.affiliation/shore-power-refill-window-plan/</link><pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate><guid>https://gwinn092.github.io/van.affiliation/shore-power-refill-window-plan/</guid><description>&lt;p&gt;Shore power is often the most reliable recovery move, but only when it is planned on purpose.&lt;/p&gt;
+&lt;p&gt;Start here:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/shore-power-recovery-routine/" &gt;Shore Power Recovery Routine&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/recovery-window-priority-map/" &gt;Recovery Window Priority Map&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class="relative group"&gt;Step 1 — Choose the right kind of refill window (reality-first)
+ &lt;div id="step-1--choose-the-right-kind-of-refill-window-reality-first" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#step-1--choose-the-right-kind-of-refill-window-reality-first" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;Examples include campground access, a friend’s driveway, a paid RV spot, or other permitted outlet access.&lt;/p&gt;</description></item><item><title>Solar Capture Window Plan: Get the Most From Solar Without Magical Thinking</title><link>https://gwinn092.github.io/van.affiliation/solar-capture-window-plan/</link><pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate><guid>https://gwinn092.github.io/van.affiliation/solar-capture-window-plan/</guid><description>&lt;p&gt;Solar works best as a layer, not a promise.&lt;/p&gt;
+&lt;p&gt;Start here:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/cloudy-week-power-recovery-plan/" &gt;Cloudy Week Power Recovery Plan&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/parking-constraints-van-power-recovery/" &gt;Parking Constraints Van Power Recovery&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class="relative group"&gt;Step 1 — Plan for the “capture window” (not all-day fantasy)
+ &lt;div id="step-1--plan-for-the-capture-window-not-all-day-fantasy" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#step-1--plan-for-the-capture-window-not-all-day-fantasy" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;Plan around the part of your day where parking and timing actually support harvest.&lt;/p&gt;</description></item><item><title>Starlink + Internet Power Stability: Stay Online Without Battery Drift</title><link>https://gwinn092.github.io/van.affiliation/starlink-and-internet-power-stability/</link><pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate><guid>https://gwinn092.github.io/van.affiliation/starlink-and-internet-power-stability/</guid><description>&lt;p&gt;Always-on connectivity is a stealth baseline load in van life.&lt;/p&gt;
+&lt;p&gt;The drift usually appears mid-week: you stay online, keep working, and suddenly your power margin is gone. This page keeps it recovery-first so internet gear supports your week instead of quietly draining it.&lt;/p&gt;</description></item><item><title>Starter Tier Survival Plan: Stay Stable on an Under-$500 Power Setup (700Wh+)</title><link>https://gwinn092.github.io/van.affiliation/starter-tier-survival-plan/</link><pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate><guid>https://gwinn092.github.io/van.affiliation/starter-tier-survival-plan/</guid><description>&lt;p&gt;The starter tier can work in van life—but only if you run it like a system.&lt;/p&gt;
+&lt;p&gt;This page is for people using an &lt;strong&gt;under-$500&lt;/strong&gt; style setup (CAVL floor still applies: &lt;strong&gt;700Wh+&lt;/strong&gt;) who want stability without constantly “needing more.”&lt;/p&gt;
+&lt;p&gt;If you’re not sure whether starter tier is enough for you, use:&lt;/p&gt;</description></item><item><title>Tier 2 Bad Week Protocol: Stay Stable on an Under-$1000 Setup</title><link>https://gwinn092.github.io/van.affiliation/tier-2-bad-week-protocol/</link><pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate><guid>https://gwinn092.github.io/van.affiliation/tier-2-bad-week-protocol/</guid><description>&lt;p&gt;Bad weeks are when plans get exposed: heat, humidity, cloudy stretches, quiet hours, work pressure—sometimes all at once.&lt;/p&gt;
+&lt;p&gt;Tier 2 (under-$1000) helps most when you use it &lt;strong&gt;early and intentionally&lt;/strong&gt;, not as a last-minute panic button.&lt;/p&gt;
+&lt;p&gt;Start here if you’re new to the ladder:&lt;/p&gt;</description></item><item><title>Van Battery Drift Diagnosis: Why You’re Losing Power (and the Fix Order That Works)</title><link>https://gwinn092.github.io/van.affiliation/van-battery-drift-diagnosis/</link><pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate><guid>https://gwinn092.github.io/van.affiliation/van-battery-drift-diagnosis/</guid><description>&lt;p&gt;If any terms feel fuzzy (AC input, surge, pass-through), use the &lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/fast-charging-power-station-glossary/" &gt;Fast-Charging Power Station Glossary&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Battery drift is usually a pattern, not a single event.&lt;/p&gt;
+&lt;p&gt;If your power keeps sliding even when each day feels &amp;ldquo;normal,&amp;rdquo; this page helps you diagnose the cause and fix it in the right order.&lt;/p&gt;</description></item><item><title>Van Cooling Power Stability: Stay Comfortable Without Battery Drift</title><link>https://gwinn092.github.io/van.affiliation/van-cooling-power-stability/</link><pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate><guid>https://gwinn092.github.io/van.affiliation/van-cooling-power-stability/</guid><description>&lt;p&gt;Cooling loads can become battery drift fast, especially when heat and humidity stack.&lt;/p&gt;
+&lt;p&gt;This page is a recovery-first plan for staying comfortable without letting hot weeks push your system into panic mode.&lt;/p&gt;
+&lt;p&gt;Start here:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/heat-and-humidity-van-power-recovery/" &gt;Heat + Humidity Van Power Recovery&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/van-power-stability-scorecard/" &gt;Van Power Stability Scorecard&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class="relative group"&gt;The cooling-driven drift pattern
+ &lt;div id="the-cooling-driven-drift-pattern" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#the-cooling-driven-drift-pattern" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;Cooling-heavy weeks usually drift through a repeating pattern:&lt;/p&gt;</description></item><item><title>Van Fridge Power Stability: Keep Food Cold Without Battery Drift</title><link>https://gwinn092.github.io/van.affiliation/van-fridge-power-stability/</link><pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate><guid>https://gwinn092.github.io/van.affiliation/van-fridge-power-stability/</guid><description>&lt;p&gt;Your fridge is often the silent baseline load in van life.&lt;/p&gt;
+&lt;p&gt;When stability slips, it can feel like &amp;ldquo;nothing changed&amp;rdquo; even though your battery drifts lower each day. This page is a recovery-first guide to keep food cold without sliding into panic decisions.&lt;/p&gt;</description></item><item><title>Van Power Stability Scorecard: Quick Self-Audit to Fix the Right Thing First</title><link>https://gwinn092.github.io/van.affiliation/van-power-stability-scorecard/</link><pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate><guid>https://gwinn092.github.io/van.affiliation/van-power-stability-scorecard/</guid><description>&lt;p&gt;This is a self-audit, not a gear list.&lt;/p&gt;
+&lt;p&gt;Start here:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/van-power-upgrade-decision-tree/" &gt;Van Power Upgrade Decision Tree&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/tier-2-bad-week-protocol/" &gt;Tier 2 Bad Week Protocol&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class="relative group"&gt;How to use this scorecard (30 seconds)
+ &lt;div id="how-to-use-this-scorecard-30-seconds" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#how-to-use-this-scorecard-30-seconds" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;Mark each section:&lt;/p&gt;</description></item><item><title>Van Power Upgrade Decision Tree: Choose the Next Best Move (Without Panic Spending)</title><link>https://gwinn092.github.io/van.affiliation/van-power-upgrade-decision-tree/</link><pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate><guid>https://gwinn092.github.io/van.affiliation/van-power-upgrade-decision-tree/</guid><description>&lt;p&gt;This is a next-best-move guide, not a shopping list.&lt;/p&gt;
+&lt;p&gt;Rule:
+&lt;strong&gt;Fix leaks → protect baseline → improve recovery speed → then add capacity.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Start here:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/van-power-upgrade-mistakes/" &gt;Van Power Upgrade Mistakes&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/van-power-upgrade-checklist/" &gt;Van Power Upgrade Checklist&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class="relative group"&gt;Step 0 — Are you in a bad week right now?
+ &lt;div id="step-0--are-you-in-a-bad-week-right-now" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#step-0--are-you-in-a-bad-week-right-now" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;If yes, run protocol first and decide upgrades later.&lt;/p&gt;</description></item><item><title>Van Power Upgrade Mistakes: The Wrong Fix Patterns (and What to Do Instead)</title><link>https://gwinn092.github.io/van.affiliation/van-power-upgrade-mistakes/</link><pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate><guid>https://gwinn092.github.io/van.affiliation/van-power-upgrade-mistakes/</guid><description>&lt;p&gt;Upgrades should be deliberate, not panic buttons. The pattern that usually works is simple:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fix leaks → protect baseline → improve recovery speed → then add capacity.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Start here:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/van-power-upgrade-checklist/" &gt;Van Power Upgrade Checklist&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/van-power-upgrade-paths/" &gt;Van Power Upgrade Paths&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class="relative group"&gt;Mistake 1 — Buying more Wh instead of improving recovery speed
+ &lt;div id="mistake-1--buying-more-wh-instead-of-improving-recovery-speed" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#mistake-1--buying-more-wh-instead-of-improving-recovery-speed" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;Pattern:&lt;/p&gt;</description></item><item><title>Van Power Weekly Reset Routine: Stay Out of Recovery Mode</title><link>https://gwinn092.github.io/van.affiliation/van-power-weekly-reset-routine/</link><pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate><guid>https://gwinn092.github.io/van.affiliation/van-power-weekly-reset-routine/</guid><description>&lt;p&gt;Most van power failures aren’t sudden. They’re &lt;strong&gt;drift&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;A little extra comfort use here, a missed recovery window there, a few cloudy days, a late-night habit… and suddenly you’re in &lt;strong&gt;Recovery mode&lt;/strong&gt; reacting to everything.&lt;/p&gt;
+&lt;p&gt;This weekly reset is a short routine you do once a week (or anytime the week feels “off”) to:&lt;/p&gt;</description></item><item><title>Work Pressure Van Power Recovery: Stay Stable During Deadline Weeks</title><link>https://gwinn092.github.io/van.affiliation/work-pressure-van-power-recovery/</link><pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate><guid>https://gwinn092.github.io/van.affiliation/work-pressure-van-power-recovery/</guid><description>&lt;p&gt;Work weeks can break power systems quietly: longer device runtimes, less schedule flexibility, and fewer easy recovery options.&lt;/p&gt;
+&lt;p&gt;Start here:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/workday-power-boundaries/" &gt;Workday Power Boundaries&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/van-power-stability-scorecard/" &gt;Van Power Stability Scorecard&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class="relative group"&gt;The failure pattern (what changes under work pressure)
+ &lt;div id="the-failure-pattern-what-changes-under-work-pressure" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#the-failure-pattern-what-changes-under-work-pressure" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Longer stretches of &amp;ldquo;always on&amp;rdquo; devices.&lt;/li&gt;
+&lt;li&gt;Less flexibility for driving, shore, or solar timing.&lt;/li&gt;
+&lt;li&gt;Quiet hours and calls compress recovery windows.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Use:&lt;/p&gt;</description></item></channel></rss>

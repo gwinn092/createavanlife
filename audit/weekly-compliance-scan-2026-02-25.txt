@@ -1,0 +1,1450 @@
+CAVL Weekly Compliance Scan
+Date: 2026-02-25 17:08:50Z
+Scope: content/
+========================================
+
+SECTION A — Potential Wiring / Electrical Instruction Risk (context lines included)
+----------------------------------------
+content/gear-that-improves-van-power-stability.md-1----
+content/gear-that-improves-van-power-stability.md:2:title: "Gear That Improves Van Power Stability (No Wiring Required)"
+content/gear-that-improves-van-power-stability.md:3:description: "A calm, recovery-first list of non-wiring gear that reduces power drift—humidity control, shade, insulation, lighting, and simple habits that protect your baseline."
+content/gear-that-improves-van-power-stability.md-4-slug: "gear-that-improves-van-power-stability"
+content/gear-that-improves-van-power-stability.md-5-date: 2026-02-22
+--
+content/about.md-15-Climate matters. Heat, humidity, cold, clouds, quiet hours, and parking constraints can change what works, so our guidance is written for those reality checks.
+content/about.md-16-
+content/about.md:17:We keep electrical guidance high-level. We do not publish wiring tutorials or installation walkthroughs. For install work, follow manufacturer guidance or use a qualified installer.
+content/about.md-18-
+content/about.md-19-The easiest way to use Create A Van Life is to start with the hubs: run the Stability Scorecard, choose a Recovery Move, then use the Decision Tree and Buyer Checklist if you still need to upgrade.
+--
+content/solar-vs-alternator-charging.md-113-## Safety notes (high level)
+content/solar-vs-alternator-charging.md-114-
+content/solar-vs-alternator-charging.md:115:We’re keeping this high-level—no wiring instructions here. For installs, follow manufacturer guidance or work with a qualified installer.
+content/solar-vs-alternator-charging.md-116-
+content/solar-vs-alternator-charging.md-117-Keep alternator charging planning safety-forward:
+--
+content/solar-vs-alternator-charging.md-121-- Secure mounting and strain management
+content/solar-vs-alternator-charging.md-122-
+content/solar-vs-alternator-charging.md:123:This page is not a wiring tutorial. For installation specifics, use qualified resources or a professional installer.
+content/solar-vs-alternator-charging.md-124-
+content/solar-vs-alternator-charging.md-125-For what to evaluate in a real product path:
+--
+content/solar-vs-alternator-charging.md-133-
+content/solar-vs-alternator-charging.md-134-### Is alternator charging safe?
+content/solar-vs-alternator-charging.md:135:It can be when designed and installed correctly with proper protection, wiring quality, and routing. Safety quality matters more than shortcut speed.
+content/solar-vs-alternator-charging.md-136-
+content/solar-vs-alternator-charging.md-137-### Do I need both solar and alternator?
+--
+content/heat-wave-van-power-recovery.md-110-### If you can recover while driving
+content/heat-wave-van-power-recovery.md-111-Driving recovery can be a strong layer when it matches your routine.
+content/heat-wave-van-power-recovery.md:112:Use the framework (no wiring tutorials; just decision logic):
+content/heat-wave-van-power-recovery.md-113-- **[Solar vs Alternator Charging](/solar-vs-alternator-charging/)**
+content/heat-wave-van-power-recovery.md-114-
+--
+content/how-we-test-and-source-van-power.md-49-
+content/how-we-test-and-source-van-power.md-50-We keep power guidance high-level and recovery-focused.
+content/how-we-test-and-source-van-power.md:51:We do not publish wiring tutorials; for installs, follow manufacturer guidance or work with a qualified installer.
+content/how-we-test-and-source-van-power.md-52-
+content/how-we-test-and-source-van-power.md-53-Related:
+--
+content/van-power-conditions-index.md-15-- **[Recovery Moves Index](/recovery-moves-index/)**
+content/van-power-conditions-index.md-16-- **[Van Power Upgrade Decision Tree](/van-power-upgrade-decision-tree/)**
+content/van-power-conditions-index.md:17:For non-wiring gear that helps reduce drift, use: **[Gear That Improves Van Power Stability](/gear-that-improves-van-power-stability/)**.
+content/van-power-conditions-index.md-18-
+content/van-power-conditions-index.md-19-## Heat + humidity
+--
+content/van-power-stability-scorecard.md-86-Budget entries: **[Portable Power Stations Under $500](/best-of/power-stations-under-500/)** and **[Under-$500 to Tier 2 Upgrade Bridge](/under-500-to-tier-2-upgrade-bridge/)**.
+content/van-power-stability-scorecard.md-87-For sourcing standards behind CAVL recommendations, see: **[How We Test and Source Van Power](/how-we-test-and-source-van-power/)**.
+content/van-power-stability-scorecard.md:88:For non-wiring gear that helps reduce drift, use: **[Gear That Improves Van Power Stability](/gear-that-improves-van-power-stability/)**.
+content/van-power-stability-scorecard.md-89-New to CAVL? Start with the onboarding hub: **[Start Here](/start-here/)**.
+content/van-power-stability-scorecard.md-90-
+--
+content/best-fast-charging-power-stations-for-quiet-hours.md-47-- **Drive-time** windows: **[Drive Recovery Window Plan](/drive-recovery-window-plan/)** (high-level planning)
+content/best-fast-charging-power-stations-for-quiet-hours.md-48-
+content/best-fast-charging-power-stations-for-quiet-hours.md:49:This page stays high-level on purpose: no wiring, no alternator step-by-step. The goal is to help you choose a unit that fits your constraints.
+content/best-fast-charging-power-stations-for-quiet-hours.md-50-
+content/best-fast-charging-power-stations-for-quiet-hours.md-51-### 3) The 700Wh+ floor (why we keep it)
+--
+content/best-fast-charging-power-stations-for-quiet-hours.md-142-- your refill isn’t actually refilling (time/access/constraints)
+content/best-fast-charging-power-stations-for-quiet-hours.md-143-
+content/best-fast-charging-power-stations-for-quiet-hours.md:144:Start here (high-level, no wiring):
+content/best-fast-charging-power-stations-for-quiet-hours.md-145-- **[Fast charging not keeping up: what to fix first](/fast-charging-not-keeping-up-what-to-fix-first/)**
+content/best-fast-charging-power-stations-for-quiet-hours.md-146-
+--
+content/blog/solar-power-for-van-life-beginners.md-41-## Installation Tips That Prevent Headaches
+content/blog/solar-power-for-van-life-beginners.md-42-
+content/blog/solar-power-for-van-life-beginners.md:43:We’re keeping this high-level—no wiring instructions here. For installs, follow manufacturer guidance or work with a qualified installer.
+content/blog/solar-power-for-van-life-beginners.md-44-
+content/blog/solar-power-for-van-life-beginners.md-45-- Mount where shade impact is minimal.
+content/blog/solar-power-for-van-life-beginners.md-46-- Fuse close to battery sources.
+content/blog/solar-power-for-van-life-beginners.md:47:- Label wiring for future troubleshooting.
+content/blog/solar-power-for-van-life-beginners.md-48-- Test charge flow before sealing panels and trim.
+content/blog/solar-power-for-van-life-beginners.md-49-
+--
+content/blog/solar-power-for-van-life-beginners.md-51-
+content/blog/solar-power-for-van-life-beginners.md-52-- Buying too much panel before tracking real usage.
+content/blog/solar-power-for-van-life-beginners.md:53:- Ignoring wire gauge and fuse sizing.
+content/blog/solar-power-for-van-life-beginners.md-54-- Skipping battery maintenance checks.
+content/blog/solar-power-for-van-life-beginners.md-55-
+--
+content/blog/how-much-solar-do-you-need-in-a-van.md-21-
+content/blog/how-much-solar-do-you-need-in-a-van.md-22-Bigger systems increase cost in every component: wire, controller, battery, and mounting hardware.
+content/blog/how-much-solar-do-you-need-in-a-van.md:23:We’re keeping this high-level—no wiring instructions here. For installs, follow manufacturer guidance or work with a qualified installer.
+content/blog/how-much-solar-do-you-need-in-a-van.md-24-
+content/blog/how-much-solar-do-you-need-in-a-van.md-25-Related reading:
+--
+content/blog/top-10-budget-van-conversion-tools.md-27-- Best use: curved cuts, wheel-well fit-outs, detailed trim cuts.
+content/blog/top-10-budget-van-conversion-tools.md-28-
+content/blog/top-10-budget-van-conversion-tools.md:29:### 4. Multimeter
+content/blog/top-10-budget-van-conversion-tools.md-30-- Best use: testing voltage and troubleshooting electrical issues.
+content/blog/top-10-budget-van-conversion-tools.md-31-
+--
+content/blog/budget-van-electrical-simple-vs-diy.md-12-## Simple System (Power Station)
+content/blog/budget-van-electrical-simple-vs-diy.md-13-
+content/blog/budget-van-electrical-simple-vs-diy.md:14:Best if you want fast setup, low risk, and minimal wiring. Cost is predictable and troubleshooting is easier.
+content/blog/budget-van-electrical-simple-vs-diy.md:15:We’re keeping this high-level—no wiring instructions here. For installs, follow manufacturer guidance or work with a qualified installer.
+content/blog/budget-van-electrical-simple-vs-diy.md-16-
+content/blog/budget-van-electrical-simple-vs-diy.md-17-## Full DIY System
+--
+content/bluetti-fast-charging.md-43-
+content/bluetti-fast-charging.md-44-### Driving recovery: what it is + why install/vehicle matters
+content/bluetti-fast-charging.md:45:Driving recovery means using vehicle runtime to rebuild usable power. It can be a major stability upgrade, but outcomes depend on install quality, wiring path, protection choices, and vehicle charging behavior.
+content/bluetti-fast-charging.md:46:We’re keeping this high-level—no wiring instructions here. For installs, follow manufacturer guidance or work with a qualified installer.
+content/bluetti-fast-charging.md-47-
+content/bluetti-fast-charging.md-48-Related:
+--
+content/bluetti-fast-charging.md-100-Keep it safety-forward at a high level:
+content/bluetti-fast-charging.md-101-- Proper overcurrent protection (fusing)
+content/bluetti-fast-charging.md:102:- Appropriate wiring quality and routing
+content/bluetti-fast-charging.md-103-- Heat-aware placement
+content/bluetti-fast-charging.md-104-- Clean installation practices and checks
+--
+content/blog/tools-youll-actually-use-in-a-first-build.md-14-- Drill/driver combo
+content/blog/tools-youll-actually-use-in-a-first-build.md-15-- Jigsaw + quality blades
+content/blog/tools-youll-actually-use-in-a-first-build.md:16:- Crimper + multimeter
+content/blog/tools-youll-actually-use-in-a-first-build.md-17-- PPE and measuring tools
+content/blog/tools-youll-actually-use-in-a-first-build.md-18-
+--
+content/van-power-planning-mistakes.md-59-
+content/van-power-planning-mistakes.md-60-Driving recovery can be powerful, but results depend on vehicle behavior and install quality. Some platforms behave differently, especially with smart charging systems.
+content/van-power-planning-mistakes.md:61:We’re keeping this high-level—no wiring instructions here. For installs, follow manufacturer guidance or work with a qualified installer.
+content/van-power-planning-mistakes.md-62-
+content/van-power-planning-mistakes.md:63:This is not a wiring tutorial. Keep installation planning safety-forward and use qualified resources where needed.
+content/van-power-planning-mistakes.md-64-
+content/van-power-planning-mistakes.md-65-Read next:
+--
+content/van-power-planning-mistakes.md-139-For ongoing stability, add this once-a-week routine: [Van Power Weekly Reset Routine](/van-power-weekly-reset-routine/).
+content/van-power-planning-mistakes.md-140-Need upgrade timing guardrails? Use this: [Van Power Upgrade Planning Mistakes](/van-power-upgrade-planning-mistakes/).
+content/van-power-planning-mistakes.md:141:For non-wiring gear that helps reduce drift, see: [Gear That Improves Van Power Stability](/gear-that-improves-van-power-stability/).
+content/van-power-planning-mistakes.md-142-
+content/van-power-planning-mistakes.md-143-
+--
+content/coastal-humidity-electronics-care.md-43-Next step: use the humidity-night plan to stay stable without over-running everything: **[Humidity Night Power Stability](/humidity-night-power-stability/)**.
+content/coastal-humidity-electronics-care.md-44-For heat/humidity-focused fast-charging station picks, use this buyer guide: **[Best Fast-Charging Power Stations for Heat + Humidity](/best-fast-charging-power-stations-for-heat-and-humidity/)**.
+content/coastal-humidity-electronics-care.md:45:For non-wiring gear that supports humidity resilience, see: **[Gear That Improves Van Power Stability](/gear-that-improves-van-power-stability/)**.
+content/coastal-humidity-electronics-care.md-46-
+content/coastal-humidity-electronics-care.md-47-## Related reads
+--
+content/van-power-weekly-reset-routine.md-24-## What this routine is (and isn’t)
+content/van-power-weekly-reset-routine.md-25-
+content/van-power-weekly-reset-routine.md:26:This is not a wiring guide. It’s not a teardown of your system.  
+content/van-power-weekly-reset-routine.md-27-It’s a **workflow reset** built around CAVL’s recovery-first mindset:
+content/van-power-weekly-reset-routine.md-28-
+--
+content/site-map.md-74-- **[Under-$1000 Upgrade Plan](/under-1000-upgrade-plan/)**
+content/site-map.md-75-
+content/site-map.md:76:## Gear (no wiring)
+content/site-map.md-77-
+content/site-map.md-78-- **[Gear That Improves Van Power Stability](/gear-that-improves-van-power-stability/)**
+--
+content/fast-charging-power-station-glossary.md-116-
+content/fast-charging-power-station-glossary.md-117-### Series vs parallel (panels)
+content/fast-charging-power-station-glossary.md:118:**What it means:** wiring arrangement that changes voltage/current.  
+content/fast-charging-power-station-glossary.md:119:**Why you care:** we don’t give wiring instructions here. Treat this as a “what it is” term; use manufacturer guides if you go deeper.
+content/fast-charging-power-station-glossary.md-120-
+content/fast-charging-power-station-glossary.md-121----
+--
+content/best-of/van-solar.md-40-## What to Look For in Van Solar
+content/best-of/van-solar.md-41-
+content/best-of/van-solar.md:42:We’re keeping this high-level—no wiring instructions here. For installs, follow manufacturer guidance or work with a qualified installer.
+content/best-of/van-solar.md-43-
+content/best-of/van-solar.md-44-- **Panel fit before watt goals:** Your roof layout controls what is realistic.
+--
+content/best-of/van-solar.md-53-### 1) Best Overall Budget Path: Renogy Slim Panel Build
+content/best-of/van-solar.md-54-
+content/best-of/van-solar.md:55:This is the best middle ground for full-time or long-trip use. The slim profile helps on stealth roofs, and you can build in phases.
+content/best-of/van-solar.md-56-
+content/best-of/van-solar.md-57-- Start with 2x100W
+content/best-of/van-solar.md-58-- Add matching panels later
+content/best-of/van-solar.md:59:- Keep wiring and controller sized for future growth
+content/best-of/van-solar.md-60-
+content/best-of/van-solar.md-61-Related review: [Renogy 100W Slim Solar Panel](/gear/renogy-100w-slim-solar-panels-stealth-promaster-setup/)
+--
+content/best-of/budget-build-tools.md-16-{{< /callout >}}
+content/best-of/budget-build-tools.md-17-
+content/best-of/budget-build-tools.md:18:We’re keeping this high-level—no wiring instructions here. For installs, follow manufacturer guidance or work with a qualified installer.
+content/best-of/budget-build-tools.md-19-
+content/best-of/budget-build-tools.md-20-{{< comparetable >}}
+--
+content/best-of/budget-build-tools.md-22-drill_driver_combo | Nearly every build task | $$ | Highest utility per dollar | Battery ecosystem lock-in | amazon
+content/best-of/budget-build-tools.md-23-rivnut_tool | Secure threaded mounting | $$ | Cleaner installs and serviceability | Learning curve for first use | amazon
+content/best-of/budget-build-tools.md:24:electrical_crimper_set | Safe wiring | $$ | Prevents failures and heat issues | Cheap kits vary in quality | amazon
+content/best-of/budget-build-tools.md-25-{{< /comparetable >}}
+content/best-of/budget-build-tools.md-26-
+--
+content/best-of/budget-build-tools.md-45-
+content/best-of/budget-build-tools.md-46-### Electrical Set for Safe Installs
+content/best-of/budget-build-tools.md:47:Quality crimper, heat-shrink, ferrules, multimeter.
+content/best-of/budget-build-tools.md-48-
+content/best-of/budget-build-tools.md-49-### Fastener Set for Modular Builds
+--
+content/gear/bluetti-charger-1-alternator-charger-review.md-24-
+content/gear/bluetti-charger-1-alternator-charger-review.md-25-- Install complexity is higher than plug-and-play solutions.
+content/gear/bluetti-charger-1-alternator-charger-review.md:26:- Requires confidence in wiring and fuse planning.
+content/gear/bluetti-charger-1-alternator-charger-review.md-27-- Value depends heavily on driving frequency.
+content/gear/bluetti-charger-1-alternator-charger-review.md:28:We’re keeping this high-level—no wiring instructions here. For installs, follow manufacturer guidance or work with a qualified installer.
+content/gear/bluetti-charger-1-alternator-charger-review.md-29-
+content/gear/bluetti-charger-1-alternator-charger-review.md-30-## Who It’s For
+--
+content/gear/goal-zero-yeti-1400-legacy-review.md-17-## Real-World Use Case
+content/gear/goal-zero-yeti-1400-legacy-review.md-18-
+content/gear/goal-zero-yeti-1400-legacy-review.md:19:This unit made sense in the early portable-power era for beginners avoiding a full electrical install. It reduced wiring complexity but came with efficiency and lifecycle tradeoffs versus modern units.
+content/gear/goal-zero-yeti-1400-legacy-review.md:20:We’re keeping this high-level—no wiring instructions here. For installs, follow manufacturer guidance or work with a qualified installer.
+content/gear/goal-zero-yeti-1400-legacy-review.md-21-
+content/gear/goal-zero-yeti-1400-legacy-review.md-22-## Pros & Cons
+
+SECTION B — Step-by-step / Procedural Electrical Language (review candidates)
+----------------------------------------
+content/van-power-comfort-budget.md-34----
+content/van-power-comfort-budget.md-35-
+content/van-power-comfort-budget.md:36:## Step 1: Define your “Baseline” (protected category)
+content/van-power-comfort-budget.md-37-
+content/van-power-comfort-budget.md-38-Baseline = what keeps you safe, functional, and stable.
+--
+content/van-power-comfort-budget.md-55----
+content/van-power-comfort-budget.md-56-
+content/van-power-comfort-budget.md:57:## Step 2: Define “Optional Comfort” (conditional category)
+content/van-power-comfort-budget.md-58-
+content/van-power-comfort-budget.md-59-Optional comfort is not “bad.” It’s just **conditional**.
+--
+content/van-power-comfort-budget.md-74----
+content/van-power-comfort-budget.md-75-
+content/van-power-comfort-budget.md:76:## Step 3: Define your “Recovery Mode pauses” (pause-first category)
+content/van-power-comfort-budget.md-77-
+content/van-power-comfort-budget.md-78-This is the key line that prevents fights:
+--
+content/van-power-comfort-budget.md-86----
+content/van-power-comfort-budget.md-87-
+content/van-power-comfort-budget.md:88:## Step 4: Tie comfort to mode (so you don’t renegotiate daily)
+content/van-power-comfort-budget.md-89-
+content/van-power-comfort-budget.md-90-This is the whole point: reduce negotiations.
+--
+content/van-power-comfort-budget.md-103----
+content/van-power-comfort-budget.md-104-
+content/van-power-comfort-budget.md:105:## Step 5: Cooking is the most common comfort conflict (handle it explicitly)
+content/van-power-comfort-budget.md-106-
+content/van-power-comfort-budget.md-107-Cooking decisions under hunger create the worst arguments.
+--
+content/van-power-comfort-budget.md-115----
+content/van-power-comfort-budget.md-116-
+content/van-power-comfort-budget.md:117:## Step 6: Put the agreement somewhere you’ll actually use it
+content/van-power-comfort-budget.md-118-
+content/van-power-comfort-budget.md-119-Don’t hide this in a long note. Make it reachable:
+--
+content/starlink-and-internet-power-stability.md-29-- **[Quiet Hours Recovery Plan](/quiet-hours-recovery-plan/)**
+content/starlink-and-internet-power-stability.md-30-
+content/starlink-and-internet-power-stability.md:31:## Step 1 — Make "online" a baseline decision (not a default)
+content/starlink-and-internet-power-stability.md-32-
+content/starlink-and-internet-power-stability.md-33-Define when being online is required versus optional. Treat required online time as baseline planning, not an always-on default.
+--
+content/starlink-and-internet-power-stability.md-37-- **[Recovery Mode Load Priorities](/recovery-mode-load-priorities/)**
+content/starlink-and-internet-power-stability.md-38-
+content/starlink-and-internet-power-stability.md:39:## Step 2 — Stop one leak (work weeks punish leaks)
+content/starlink-and-internet-power-stability.md-40-
+content/starlink-and-internet-power-stability.md-41-When work blocks are fixed, leaks compound faster. Stop one leak and hold it for the day.
+--
+content/starlink-and-internet-power-stability.md-45-- **[DC vs AC in Van Life Workflows](/dc-vs-ac-in-van-life-workflows/)**
+content/starlink-and-internet-power-stability.md-46-
+content/starlink-and-internet-power-stability.md:47:## Step 3 — Choose a recovery move daily (protect your work block)
+content/starlink-and-internet-power-stability.md-48-
+content/starlink-and-internet-power-stability.md-49-Pick your best refill move early so your work block does not consume your entire margin.
+--
+content/van-battery-drift-diagnosis.md-1----
+content/van-battery-drift-diagnosis.md-2-title: "Van Battery Drift Diagnosis: Why You’re Losing Power (and the Fix Order That Works)"
+content/van-battery-drift-diagnosis.md:3:description: "A calm, recovery-first guide to diagnosing van battery drift—identify leaks, baseline creep, and weak recovery windows, then fix the right thing first."
+content/van-battery-drift-diagnosis.md-4-slug: "van-battery-drift-diagnosis"
+content/van-battery-drift-diagnosis.md-5-date: 2026-02-22
+--
+content/van-battery-drift-diagnosis.md-32-- **[Recovery Window Priority Map](/recovery-window-priority-map/)**
+content/van-battery-drift-diagnosis.md-33-
+content/van-battery-drift-diagnosis.md:34:## Step 1 — Are you in a bad week?
+content/van-battery-drift-diagnosis.md-35-
+content/van-battery-drift-diagnosis.md-36-If this week is already harsh, run bad-week protocol first. Diagnose deeper once the system is stable.
+--
+content/van-battery-drift-diagnosis.md-40-- **[Recovery Moves Index](/recovery-moves-index/)**
+content/van-battery-drift-diagnosis.md-41-
+content/van-battery-drift-diagnosis.md:42:## Step 2 — Find the leak (the "doing nothing" test, high-level)
+content/van-battery-drift-diagnosis.md-43-
+content/van-battery-drift-diagnosis.md-44-No measurements needed. Look for behavioral flags:
+--
+content/van-battery-drift-diagnosis.md-51-- **[DC vs AC in Van Life Workflows](/dc-vs-ac-in-van-life-workflows/)**
+content/van-battery-drift-diagnosis.md-52-
+content/van-battery-drift-diagnosis.md:53:## Step 3 — Lock baseline (name it in one sentence)
+content/van-battery-drift-diagnosis.md-54-
+content/van-battery-drift-diagnosis.md-55-If baseline is vague, everything feels urgent and drift accelerates.
+--
+content/van-battery-drift-diagnosis.md-59-- **[Van Power Comfort Budget](/van-power-comfort-budget/)**
+content/van-battery-drift-diagnosis.md-60-
+content/van-battery-drift-diagnosis.md:61:## Step 4 — Choose tomorrow’s recovery window (make it real)
+content/van-battery-drift-diagnosis.md-62-
+content/van-battery-drift-diagnosis.md-63-Pick one refill move you can actually execute tomorrow and defend that window.
+--
+content/van-power-upgrade-mistakes.md-41-
+content/van-power-upgrade-mistakes.md-42-Do this instead:
+content/van-power-upgrade-mistakes.md:43:- Run a bad-week protocol first, then decide if the issue repeats across normal weeks.
+content/van-power-upgrade-mistakes.md-44-
+content/van-power-upgrade-mistakes.md-45-Use:
+--
+content/work-pressure-van-power-recovery.md-25-- **[Recovery Window Priority Map](/recovery-window-priority-map/)**
+content/work-pressure-van-power-recovery.md-26-
+content/work-pressure-van-power-recovery.md:27:## Step 1 — Protect baseline (work + sleep + minimal comfort)
+content/work-pressure-van-power-recovery.md-28-
+content/work-pressure-van-power-recovery.md-29-- Define what must stay on to complete work and sleep safely.
+--
+content/work-pressure-van-power-recovery.md-35-- **[Recovery Mode Load Priorities](/recovery-mode-load-priorities/)**
+content/work-pressure-van-power-recovery.md-36-
+content/work-pressure-van-power-recovery.md:37:## Step 2 — Stop one leak (work weeks magnify leaks)
+content/work-pressure-van-power-recovery.md-38-
+content/work-pressure-van-power-recovery.md-39-Work pressure amplifies passive drain. Tighten one leak first and hold it.
+--
+content/work-pressure-van-power-recovery.md-43-- **[DC vs AC in Van Life Workflows](/dc-vs-ac-in-van-life-workflows/)**
+content/work-pressure-van-power-recovery.md-44-
+content/work-pressure-van-power-recovery.md:45:## Step 3 — Choose one daily recovery window (and defend it)
+content/work-pressure-van-power-recovery.md-46-
+content/work-pressure-van-power-recovery.md-47-- Pick the best window you can actually execute.
+--
+content/work-pressure-van-power-recovery.md-53-- **[Workday Power Boundaries](/workday-power-boundaries/)**
+content/work-pressure-van-power-recovery.md-54-
+content/work-pressure-van-power-recovery.md:55:## Step 4 — Switch modes early (don’t wait for drift)
+content/work-pressure-van-power-recovery.md-56-
+content/work-pressure-van-power-recovery.md-57-If pressure rises, switch before you feel behind.
+--
+content/best-fast-charging-power-stations-for-quiet-hours.md-47-- **Drive-time** windows: **[Drive Recovery Window Plan](/drive-recovery-window-plan/)** (high-level planning)
+content/best-fast-charging-power-stations-for-quiet-hours.md-48-
+content/best-fast-charging-power-stations-for-quiet-hours.md:49:This page stays high-level on purpose: no wiring, no alternator step-by-step. The goal is to help you choose a unit that fits your constraints.
+content/best-fast-charging-power-stations-for-quiet-hours.md-50-
+content/best-fast-charging-power-stations-for-quiet-hours.md-51-### 3) The 700Wh+ floor (why we keep it)
+--
+content/under-1000-upgrade-plan.md-42----
+content/under-1000-upgrade-plan.md-43-
+content/under-1000-upgrade-plan.md:44:## Step 1: Pair the upgrade with leak discipline
+content/under-1000-upgrade-plan.md-45-Upgrading without fixing leaks is how people stay stressed with nicer gear.
+content/under-1000-upgrade-plan.md-46-
+--
+content/under-1000-upgrade-plan.md-54----
+content/under-1000-upgrade-plan.md-55-
+content/under-1000-upgrade-plan.md:56:## Step 2: Choose your default recovery window type
+content/under-1000-upgrade-plan.md-57-Under-$1000 works best when you know what kind of recovery you actually do in real life:
+content/under-1000-upgrade-plan.md-58-
+--
+content/under-1000-upgrade-plan.md-73----
+content/under-1000-upgrade-plan.md-74-
+content/under-1000-upgrade-plan.md:75:## Step 3: Lock the daily anchors (this is where stability comes from)
+content/under-1000-upgrade-plan.md-76-The tier helps, but routines keep you out of panic.
+content/under-1000-upgrade-plan.md-77-
+--
+content/under-1000-upgrade-plan.md-86----
+content/under-1000-upgrade-plan.md-87-
+content/under-1000-upgrade-plan.md:88:## Step 4: Use fast charging intentionally in bad weeks
+content/under-1000-upgrade-plan.md-89-The under-$1000 tier shines in bad conditions **when you use it early**:
+content/under-1000-upgrade-plan.md-90-
+--
+content/under-1000-upgrade-plan.md-99----
+content/under-1000-upgrade-plan.md-100-
+content/under-1000-upgrade-plan.md:101:## Step 5: If you share the rig, upgrade the agreement too
+content/under-1000-upgrade-plan.md-102-Fast charging reduces stress *only if you reduce conflict*.
+content/under-1000-upgrade-plan.md-103-
+--
+content/drive-recovery-window-plan.md-15-- **[Recovery Window Priority Map](/recovery-window-priority-map/)**
+content/drive-recovery-window-plan.md-16-
+content/drive-recovery-window-plan.md:17:## Step 1 — Pick the drive window that actually happens
+content/drive-recovery-window-plan.md-18-
+content/drive-recovery-window-plan.md-19-Examples include groceries, gym runs, moving spots, and commute days.
+--
+content/drive-recovery-window-plan.md-25-- **[Van Power Stability Scorecard](/van-power-stability-scorecard/)**
+content/drive-recovery-window-plan.md-26-
+content/drive-recovery-window-plan.md:27:## Step 2 — Stop one leak before you rely on the drive window
+content/drive-recovery-window-plan.md-28-
+content/drive-recovery-window-plan.md-29-Drive recovery works better when passive drain is already controlled.
+--
+content/drive-recovery-window-plan.md-33-- **[DC vs AC in Van Life Workflows](/dc-vs-ac-in-van-life-workflows/)**
+content/drive-recovery-window-plan.md-34-
+content/drive-recovery-window-plan.md:35:## Step 3 — Protect baseline during the drive (don’t turn it into a comfort binge)
+content/drive-recovery-window-plan.md-36-
+content/drive-recovery-window-plan.md-37-Keep baseline protected and avoid stacking optional usage while relying on the drive window.
+--
+content/drive-recovery-window-plan.md-41-- **[Van Power Comfort Budget](/van-power-comfort-budget/)**
+content/drive-recovery-window-plan.md-42-
+content/drive-recovery-window-plan.md:43:## Step 4 — If driving isn’t available this week
+content/drive-recovery-window-plan.md-44-
+content/drive-recovery-window-plan.md-45-Route to the best non-driving recovery path for current conditions.
+--
+content/quiet-hours-recovery-plan.md-38----
+content/quiet-hours-recovery-plan.md-39-
+content/quiet-hours-recovery-plan.md:40:## Step 1: Choose your mode *before* quiet hours
+content/quiet-hours-recovery-plan.md-41-
+content/quiet-hours-recovery-plan.md-42-If the night has constraints, don’t pretend it’s a Normal night.
+--
+content/quiet-hours-recovery-plan.md-56----
+content/quiet-hours-recovery-plan.md-57-
+content/quiet-hours-recovery-plan.md:58:## Step 2: Stop the leaks that ruin stealth nights
+content/quiet-hours-recovery-plan.md-59-
+content/quiet-hours-recovery-plan.md-60-Quiet hours often fail because of “small” habits that run for hours.
+--
+content/quiet-hours-recovery-plan.md-73----
+content/quiet-hours-recovery-plan.md-74-
+content/quiet-hours-recovery-plan.md:75:## Step 3: Define your night baseline (and agree on it)
+content/quiet-hours-recovery-plan.md-76-
+content/quiet-hours-recovery-plan.md-77-Quiet hours require clarity. Baseline is what you protect without debate.
+--
+content/quiet-hours-recovery-plan.md-93----
+content/quiet-hours-recovery-plan.md-94-
+content/quiet-hours-recovery-plan.md:95:## Step 4: Pick tomorrow’s recovery move before you sleep
+content/quiet-hours-recovery-plan.md-96-
+content/quiet-hours-recovery-plan.md-97-Quiet hours isn’t the time to “hope.”
+--
+content/quiet-hours-recovery-plan.md-115----
+content/quiet-hours-recovery-plan.md-116-
+content/quiet-hours-recovery-plan.md:117:## Step 5: Use the “one change” rule at night
+content/quiet-hours-recovery-plan.md-118-
+content/quiet-hours-recovery-plan.md-119-When you’re constrained, don’t stack changes. That creates chaos and conflict.
+--
+content/van-power-recovery-stack.md-1----
+content/van-power-recovery-stack.md:2:title: "Van Power Recovery Stack: A Step-by-Step System for Stable Van Life Power"
+content/van-power-recovery-stack.md-3-description: "A climate-tested, recovery-first ladder for van life power: pick your mode, stop leaks, recover fast, handle bad weather, and scale without power stress."
+content/van-power-recovery-stack.md-4-slug: "van-power-recovery-stack"
+--
+content/van-power-recovery-stack.md-16----
+content/van-power-recovery-stack.md-17-
+content/van-power-recovery-stack.md:18:# Van Power Recovery Stack: A Step-by-Step System for Stable Van Life Power
+content/van-power-recovery-stack.md-19-
+content/van-power-recovery-stack.md-20-Most van power stress is not one big failure. It is small recovery misses that stack across weather, routines, and comfort habits. This page gives you one ladder to follow so you can stop reacting and run power with a repeatable system.
+--
+content/van-power-recovery-stack.md-28-**Recovery-first rule:** prioritize time-to-recover over raw capacity claims.
+content/van-power-recovery-stack.md-29-
+content/van-power-recovery-stack.md:30:## Step 1: Pick your mode first
+content/van-power-recovery-stack.md-31-
+content/van-power-recovery-stack.md-32-Before you make any load decisions, choose your mode:
+--
+content/van-power-recovery-stack.md-45-- Choosing a refill move early is one of the fastest ways to lower stress across the whole rig.
+content/van-power-recovery-stack.md-46-
+content/van-power-recovery-stack.md:47:## Step 2: Stop leaks before adding loads
+content/van-power-recovery-stack.md-48-
+content/van-power-recovery-stack.md-49-If your margin feels tight, stop avoidable drain first:
+--
+content/van-power-recovery-stack.md-58-- [DC vs AC in Van Life Workflows](/dc-vs-ac-in-van-life-workflows/)
+content/van-power-recovery-stack.md-59-
+content/van-power-recovery-stack.md:60:## Step 3: Recover on purpose (not by luck)
+content/van-power-recovery-stack.md-61-
+content/van-power-recovery-stack.md-62-Recovery is a workflow, not a hope strategy. Use the strongest available refill path and make it intentional.
+--
+content/van-power-recovery-stack.md-71-- [BLUETTI Fast Charging for Van Life](/bluetti-fast-charging/)
+content/van-power-recovery-stack.md-72-
+content/van-power-recovery-stack.md:73:## Step 4: Run the bad-weather protocol early
+content/van-power-recovery-stack.md-74-
+content/van-power-recovery-stack.md-75-Cloudy stretches, heat, humidity, and weak sun expose weak routines fast. Do not wait until you are already behind.
+--
+content/van-power-recovery-stack.md-84-- [How to Survive a Cloudy Week in Van Life](/cloudy-week-power-recovery-plan/)
+content/van-power-recovery-stack.md-85-
+content/van-power-recovery-stack.md:86:## Step 5: Lock daily discipline (morning + night)
+content/van-power-recovery-stack.md-87-
+content/van-power-recovery-stack.md-88-Power stability is won in short routines, not long debates.
+--
+content/van-power-recovery-stack.md-95-- [Overnight Van Power Checklist](/overnight-van-power-checklist/)
+content/van-power-recovery-stack.md-96-
+content/van-power-recovery-stack.md:97:## Step 6: Use shared workflows when more than one person is involved
+content/van-power-recovery-stack.md-98-
+content/van-power-recovery-stack.md-99-If you share a rig, most recurring conflict comes from unclear priorities, not bad intent. Shared scripts reduce friction when people are tired and margin is low.
+--
+content/van-power-recovery-stack.md-104-- [Van Power Conflict Reset Script](/van-power-conflict-reset-script/)
+content/van-power-recovery-stack.md-105-
+content/van-power-recovery-stack.md:106:## Step 7: Upgrade only after your workflow is stable
+content/van-power-recovery-stack.md-107-
+content/van-power-recovery-stack.md:108:Do not use new hardware to patch a broken routine. First prove your recovery workflow, then upgrade with intent.
+content/van-power-recovery-stack.md-109-
+content/van-power-recovery-stack.md-110-Global rule at CAVL: recommended power stations start at **700Wh minimum**.
+--
+content/van-power-recovery-stack.md-133-
+content/van-power-recovery-stack.md-134-### Should I buy more capacity first?
+content/van-power-recovery-stack.md:135:Not usually. First stabilize mode discipline, load workflow, and recovery windows. Then upgrade with real usage context.
+content/van-power-recovery-stack.md-136-
+content/van-power-recovery-stack.md-137-### Why is recovery-first better than spec-sheet shopping?
+--
+content/recovery-window-priority-map.md-35----
+content/recovery-window-priority-map.md-36-
+content/recovery-window-priority-map.md:37:## Step 1: Pick today’s day type (don’t overthink it)
+content/recovery-window-priority-map.md-38-
+content/recovery-window-priority-map.md-39-Choose the closest match:
+--
+content/recovery-window-priority-map.md-132----
+content/recovery-window-priority-map.md-133-
+content/recovery-window-priority-map.md:134:## Step 2: Set one recovery window (and protect it)
+content/recovery-window-priority-map.md-135-
+content/recovery-window-priority-map.md-136-Once you pick your move, protect the window:
+--
+content/recovery-window-priority-map.md-146----
+content/recovery-window-priority-map.md-147-
+content/recovery-window-priority-map.md:148:## Step 3: Close the loop with daily anchors
+content/recovery-window-priority-map.md-149-This turns “a good day” into a stable week.
+content/recovery-window-priority-map.md-150-
+--
+content/cold-weather-van-power-recovery.md-25-- **[Quiet Hours Recovery Plan](/quiet-hours-recovery-plan/)**
+content/cold-weather-van-power-recovery.md-26-
+content/cold-weather-van-power-recovery.md:27:## Step 1 — Protect baseline (heat + sleep + minimum work needs)
+content/cold-weather-van-power-recovery.md-28-
+content/cold-weather-van-power-recovery.md-29-Define baseline vs optional comfort before stress rises.
+--
+content/cold-weather-van-power-recovery.md-33-- **[Van Power Comfort Budget](/van-power-comfort-budget/)**
+content/cold-weather-van-power-recovery.md-34-
+content/cold-weather-van-power-recovery.md:35:## Step 2 — Stop one leak (cold weeks magnify leaks)
+content/cold-weather-van-power-recovery.md-36-
+content/cold-weather-van-power-recovery.md-37-Cold conditions amplify passive drain, so tighten one leak first and hold it.
+--
+content/cold-weather-van-power-recovery.md-41-- **[DC vs AC in Van Life Workflows](/dc-vs-ac-in-van-life-workflows/)**
+content/cold-weather-van-power-recovery.md-42-
+content/cold-weather-van-power-recovery.md:43:## Step 3 — Pick one daily recovery window (and defend it)
+content/cold-weather-van-power-recovery.md-44-
+content/cold-weather-van-power-recovery.md-45-Treat refill like an appointment, not a backup idea.
+--
+content/cold-weather-van-power-recovery.md-49-- **[Daily Van Power Mode System](/daily-van-power-mode-system/)**
+content/cold-weather-van-power-recovery.md-50-
+content/cold-weather-van-power-recovery.md:51:## Step 4 — Use planned recovery moves (don’t wait for the spiral)
+content/cold-weather-van-power-recovery.md-52-
+content/cold-weather-van-power-recovery.md-53-- Shore when it is available.
+--
+content/shore-power-refill-window-plan.md-15-- **[Recovery Window Priority Map](/recovery-window-priority-map/)**
+content/shore-power-refill-window-plan.md-16-
+content/shore-power-refill-window-plan.md:17:## Step 1 — Choose the right kind of refill window (reality-first)
+content/shore-power-refill-window-plan.md-18-
+content/shore-power-refill-window-plan.md-19-Examples include campground access, a friend’s driveway, a paid RV spot, or other permitted outlet access.
+--
+content/shore-power-refill-window-plan.md-29-- **[Van Power Upgrade Decision Tree](/van-power-upgrade-decision-tree/)**
+content/shore-power-refill-window-plan.md-30-
+content/shore-power-refill-window-plan.md:31:## Step 2 — Protect baseline during the refill
+content/shore-power-refill-window-plan.md-32-
+content/shore-power-refill-window-plan.md-33-Do not let a refill session turn into a comfort free-for-all.
+--
+content/shore-power-refill-window-plan.md-37-- **[Van Power Comfort Budget](/van-power-comfort-budget/)**
+content/shore-power-refill-window-plan.md-38-
+content/shore-power-refill-window-plan.md:39:## Step 3 — Make it repeatable (the routine matters more than the one-time win)
+content/shore-power-refill-window-plan.md-40-
+content/shore-power-refill-window-plan.md-41-Schedule refill windows like appointments and pair them with your weekly reset rhythm.
+--
+content/shore-power-refill-window-plan.md-45-- **[Daily Van Power Mode System](/daily-van-power-mode-system/)**
+content/shore-power-refill-window-plan.md-46-
+content/shore-power-refill-window-plan.md:47:## Step 4 — If shore power isn’t available this week
+content/shore-power-refill-window-plan.md-48-
+content/shore-power-refill-window-plan.md-49-Route to condition plans that handle constrained recovery.
+--
+content/van-power-upgrade-checklist.md-67----
+content/van-power-upgrade-checklist.md-68-
+content/van-power-upgrade-checklist.md:69:### ✅ 4) Choose your recovery routine first, then the hardware
+content/van-power-upgrade-checklist.md-70-Hardware only helps if your recovery window is real.
+content/van-power-upgrade-checklist.md-71-
+--
+content/fast-charging-power-station-buyer-checklist.md-34-If essentials drive your baseline, use this focused buyer page: **[Best Fast-Charging Power Stations for Essentials](/best-fast-charging-power-stations-for-essentials/)**.
+content/fast-charging-power-station-buyer-checklist.md-35-
+content/fast-charging-power-station-buyer-checklist.md:36:## Step 1 — Define your recovery window (before shopping)
+content/fast-charging-power-station-buyer-checklist.md-37-
+content/fast-charging-power-station-buyer-checklist.md-38-Before comparing specs, define which recovery window you can actually execute.
+--
+content/fast-charging-power-station-buyer-checklist.md-42-- **[Daily Van Power Mode System](/daily-van-power-mode-system/)**
+content/fast-charging-power-station-buyer-checklist.md-43-
+content/fast-charging-power-station-buyer-checklist.md:44:## Step 2 — Confirm the charging path you will actually use
+content/fast-charging-power-station-buyer-checklist.md-45-
+content/fast-charging-power-station-buyer-checklist.md-46-- Wall or shore use: where and how often you can realistically plug in.
+--
+content/fast-charging-power-station-buyer-checklist.md-57-{{< /fieldnote >}}
+content/fast-charging-power-station-buyer-checklist.md-58-
+content/fast-charging-power-station-buyer-checklist.md:59:## Step 3 — Avoid the spec traps (what to verify)
+content/fast-charging-power-station-buyer-checklist.md-60-
+content/fast-charging-power-station-buyer-checklist.md-61-Verify claims with manufacturer docs and third-party testing before you buy.
+--
+content/fast-charging-power-station-buyer-checklist.md-70-- **[Inverter On or Off Workflow](/inverter-on-or-off-workflow/)**
+content/fast-charging-power-station-buyer-checklist.md-71-
+content/fast-charging-power-station-buyer-checklist.md:72:## Step 4 — Fit it to your stability tier (not your fantasy week)
+content/fast-charging-power-station-buyer-checklist.md-73-
+content/fast-charging-power-station-buyer-checklist.md-74-Choose based on your real conditions, not your best-case week.
+--
+content/fast-charging-power-station-buyer-checklist.md-80-- **[Van Power Stability Scorecard](/van-power-stability-scorecard/)**
+content/fast-charging-power-station-buyer-checklist.md-81-
+content/fast-charging-power-station-buyer-checklist.md:82:## Step 5 — Decision rule (repeat)
+content/fast-charging-power-station-buyer-checklist.md-83-
+content/fast-charging-power-station-buyer-checklist.md-84-Fix leaks, protect baseline, improve recovery speed, then add capacity.
+--
+content/van-power-conditions-index.md-9----
+content/van-power-conditions-index.md-10-
+content/van-power-conditions-index.md:11:If you are unsure where to start, use the scorecard first, then pick the recovery move that matches today.
+content/van-power-conditions-index.md-12-
+content/van-power-conditions-index.md-13-Start here:
+--
+content/van-power-upgrade-paths.md-1----
+content/van-power-upgrade-paths.md-2-title: "Van Power Upgrade Paths: What to Change Next (Without Buying the Wrong Fix)"
+content/van-power-upgrade-paths.md:3:description: "A recovery-first upgrade ladder for van life power: fix workflow first, then upgrade with intent—using price-drift safe tiers and fast-recovery priorities."
+content/van-power-upgrade-paths.md-4-slug: "van-power-upgrade-paths"
+content/van-power-upgrade-paths.md-5-date: 2026-02-22
+--
+content/van-power-upgrade-paths.md-23----
+content/van-power-upgrade-paths.md-24-
+content/van-power-upgrade-paths.md:25:## Step 0: Confirm you’re not trying to fix a routine problem with hardware
+content/van-power-upgrade-paths.md-26-
+content/van-power-upgrade-paths.md-27-Before you buy anything, run this quick sequence:
+--
+content/van-power-upgrade-paths.md-39----
+content/van-power-upgrade-paths.md-40-
+content/van-power-upgrade-paths.md:41:## Step 1: Identify your real bottleneck (what’s actually breaking)
+content/van-power-upgrade-paths.md-42-
+content/van-power-upgrade-paths.md-43-Pick the one that matches reality:
+--
+content/van-power-upgrade-paths.md-70----
+content/van-power-upgrade-paths.md-71-
+content/van-power-upgrade-paths.md:72:## Step 2: Upgrade ladder (price-drift safe tiers)
+content/van-power-upgrade-paths.md-73-
+content/van-power-upgrade-paths.md-74-CAVL minimum: **700Wh+**. If you’re below that, stability will be harder.
+--
+content/van-power-upgrade-paths.md-106----
+content/van-power-upgrade-paths.md-107-
+content/van-power-upgrade-paths.md:108:## Step 3: Don’t upgrade alone — upgrade the routine with it
+content/van-power-upgrade-paths.md-109-Hardware only helps if your workflow supports it.
+content/van-power-upgrade-paths.md-110-
+--
+content/solar-vs-alternator-charging.md-75-## Decision tree: Choose your charging strategy
+content/solar-vs-alternator-charging.md-76-
+content/solar-vs-alternator-charging.md:77:- If you **drive most days**, prioritize alternator recovery first, then add solar as support.
+content/solar-vs-alternator-charging.md-78-- If you **park in sun often**, prioritize solar harvest, but keep a backup recovery path.
+content/solar-vs-alternator-charging.md-79-- If you **move rarely** and spend time in shade/clouds, prioritize shore access and reduce load assumptions.
+--
+content/solar-vs-alternator-charging.md-159-## Related reads
+content/solar-vs-alternator-charging.md-160-
+content/solar-vs-alternator-charging.md:161:Need the complete step-by-step? [Van Power Recovery Stack](/van-power-recovery-stack/).
+content/solar-vs-alternator-charging.md-162-To choose your best refill move today (shore vs drive vs solar), use: [Recovery Window Priority Map](/recovery-window-priority-map/).
+content/solar-vs-alternator-charging.md-163-If winter conditions are shrinking recovery windows, use this plan: [Cold Weather Van Power Recovery](/cold-weather-van-power-recovery/).
+--
+content/dog-comfort-power-stability-van-life.md-28-- **[Quiet Hours Recovery Plan](/quiet-hours-recovery-plan/)**
+content/dog-comfort-power-stability-van-life.md-29-
+content/dog-comfort-power-stability-van-life.md:30:## Step 1 — Treat pet comfort as baseline (plan around it)
+content/dog-comfort-power-stability-van-life.md-31-
+content/dog-comfort-power-stability-van-life.md:32:Set baseline first, then make optional comfort decisions around that baseline.
+content/dog-comfort-power-stability-van-life.md-33-
+content/dog-comfort-power-stability-van-life.md-34-Use:
+--
+content/dog-comfort-power-stability-van-life.md-36-- **[Van Power Comfort Budget](/van-power-comfort-budget/)**
+content/dog-comfort-power-stability-van-life.md-37-
+content/dog-comfort-power-stability-van-life.md:38:## Step 2 — Stop one leak (protect baseline first)
+content/dog-comfort-power-stability-van-life.md-39-
+content/dog-comfort-power-stability-van-life.md-40-Leak control protects baseline when heat pressure rises.
+--
+content/dog-comfort-power-stability-van-life.md-44-- **[DC vs AC in Van Life Workflows](/dc-vs-ac-in-van-life-workflows/)**
+content/dog-comfort-power-stability-van-life.md-45-
+content/dog-comfort-power-stability-van-life.md:46:## Step 3 — Choose a recovery move daily
+content/dog-comfort-power-stability-van-life.md-47-
+content/dog-comfort-power-stability-van-life.md-48-Choose one recovery move you can actually execute today and protect that window.
+--
+content/dog-comfort-power-stability-van-life.md-53-- **[Drive Recovery Window Plan](/drive-recovery-window-plan/)**
+content/dog-comfort-power-stability-van-life.md-54-
+content/dog-comfort-power-stability-van-life.md:55:## Step 4 — Bad week protocol (switch early)
+content/dog-comfort-power-stability-van-life.md-56-
+content/dog-comfort-power-stability-van-life.md-57-In harsh weeks, switch modes earlier and simplify decisions.
+--
+content/recovery-window-script-for-couples.md-43-## The 60-second Recovery Window Script (say it out loud)
+content/recovery-window-script-for-couples.md-44-
+content/recovery-window-script-for-couples.md:45:### Step 1: Name the moment (10 seconds)
+content/recovery-window-script-for-couples.md-46-> “We’re not doing a full debate right now. We’re choosing **one recovery window** to get stable.”
+content/recovery-window-script-for-couples.md-47-
+content/recovery-window-script-for-couples.md:48:### Step 2: Choose the mode (10 seconds)
+content/recovery-window-script-for-couples.md-49-> “For today, are we in **Normal**, **Conservation**, or **Recovery**?”
+content/recovery-window-script-for-couples.md-50-
+--
+content/recovery-window-script-for-couples.md-54-If either person says “I feel behind,” assume **Recovery** until you regain margin.
+content/recovery-window-script-for-couples.md-55-
+content/recovery-window-script-for-couples.md:56:### Step 3: Choose the day type (10 seconds)
+content/recovery-window-script-for-couples.md-57-> “What kind of day is this: parked, move day, workday, bad conditions, or constrained night?”
+content/recovery-window-script-for-couples.md-58-
+--
+content/recovery-window-script-for-couples.md-60-- **[Recovery Window Priority Map](/recovery-window-priority-map/)**
+content/recovery-window-script-for-couples.md-61-
+content/recovery-window-script-for-couples.md:62:### Step 4: Pick ONE recovery move (15 seconds)
+content/recovery-window-script-for-couples.md-63-> “What’s our best refill move today: **shore**, **drive recovery**, or **solar behavior**?”
+content/recovery-window-script-for-couples.md-64-
+--
+content/recovery-window-script-for-couples.md-72-- **[Bluetti Fast Charging](/bluetti-fast-charging/)**  
+content/recovery-window-script-for-couples.md-73-
+content/recovery-window-script-for-couples.md:74:### Step 5: Choose ONE boundary (15 seconds)
+content/recovery-window-script-for-couples.md-75-> “What’s one boundary that prevents drift while we recover?”
+content/recovery-window-script-for-couples.md-76-
+--
+content/best-of/best-fast-charging-power-stations.md-115-  capacity="700Wh+"
+content/best-of/best-fast-charging-power-stations.md-116-  bestfor="occasional higher loads without routine collapse"
+content/best-of/best-fast-charging-power-stations.md:117:  move="Plan recharge windows first, then decide what loads you can afford"
+content/best-of/best-fast-charging-power-stations.md-118-  details="Safety-first: ✅"
+content/best-of/best-fast-charging-power-stations.md:119:  truth="Avoid step-by-step electrical advice; keep this high-level and routine-based."
+content/best-of/best-fast-charging-power-stations.md-120-  whyhref="/van-power-recovery-stack/"
+content/best-of/best-fast-charging-power-stations.md-121-  whytext="See the recovery stack"
+--
+content/cook-or-conserve-power-decision-guide.md-19-If your refill window is reliable, cooking can fit. If recovery is uncertain, conserving usually protects your next day. This single rule reduces most cooking-day regret.
+content/cook-or-conserve-power-decision-guide.md-20-
+content/cook-or-conserve-power-decision-guide.md:21:## Step 1: What mode are you in today?
+content/cook-or-conserve-power-decision-guide.md-22-
+content/cook-or-conserve-power-decision-guide.md-23-Before deciding to cook, identify your day mode:
+--
+content/cook-or-conserve-power-decision-guide.md-29-- [Daily Van Power Mode System](/daily-van-power-mode-system/)
+content/cook-or-conserve-power-decision-guide.md-30-
+content/cook-or-conserve-power-decision-guide.md:31:## Step 2: Use the 3-question test
+content/cook-or-conserve-power-decision-guide.md-32-
+content/cook-or-conserve-power-decision-guide.md-33-### Q1: Do I have a reliable recovery window today or tomorrow?
+--
+content/cook-or-conserve-power-decision-guide.md-45-**Decision rule:** if **two or more** answers point to risk, **conserve today**.
+content/cook-or-conserve-power-decision-guide.md-46-
+content/cook-or-conserve-power-decision-guide.md:47:## Step 3: If you cook, do it intentionally
+content/cook-or-conserve-power-decision-guide.md-48-
+content/cook-or-conserve-power-decision-guide.md-49-- Choose a planned cooking window.
+--
+content/cook-or-conserve-power-decision-guide.md-56-- [DC vs AC in Van Life Workflows](/dc-vs-ac-in-van-life-workflows/)
+content/cook-or-conserve-power-decision-guide.md-57-
+content/cook-or-conserve-power-decision-guide.md:58:## Step 4: If you conserve, what to do instead
+content/cook-or-conserve-power-decision-guide.md-59-
+content/cook-or-conserve-power-decision-guide.md-60-- Protect baseline loads and keep comfort loads trimmed.
+--
+content/cpap-power-stability-van-life.md-27-- **[Tier 2 Bad Week Protocol](/tier-2-bad-week-protocol/)**
+content/cpap-power-stability-van-life.md-28-
+content/cpap-power-stability-van-life.md:29:## Step 1 — Treat CPAP as baseline (plan the day around it)
+content/cpap-power-stability-van-life.md-30-
+content/cpap-power-stability-van-life.md-31-If CPAP is baseline, the day’s choices should protect that night first.
+--
+content/cpap-power-stability-van-life.md-35-- **[Van Power Comfort Budget](/van-power-comfort-budget/)**
+content/cpap-power-stability-van-life.md-36-
+content/cpap-power-stability-van-life.md:37:## Step 2 — Stop one leak (protect the baseline first)
+content/cpap-power-stability-van-life.md-38-
+content/cpap-power-stability-van-life.md-39-Leak control is how you preserve margin for essential nights.
+--
+content/cpap-power-stability-van-life.md-43-- **[DC vs AC in Van Life Workflows](/dc-vs-ac-in-van-life-workflows/)**
+content/cpap-power-stability-van-life.md-44-
+content/cpap-power-stability-van-life.md:45:## Step 3 — Plan tomorrow’s recovery window (make it reliable)
+content/cpap-power-stability-van-life.md-46-
+content/cpap-power-stability-van-life.md-47-Choose tomorrow’s refill window early and protect it like an appointment.
+--
+content/cpap-power-stability-van-life.md-53-- **[Drive Recovery Window Plan](/drive-recovery-window-plan/)**
+content/cpap-power-stability-van-life.md-54-
+content/cpap-power-stability-van-life.md:55:## Step 4 — Bad week protocol (switch early)
+content/cpap-power-stability-van-life.md-56-
+content/cpap-power-stability-van-life.md-57-When conditions tighten, switch modes sooner than you want to.
+--
+content/cloudy-week-power-recovery-plan.md-31-- Picking one recovery move early is usually calmer than trying to fix everything late.
+content/cloudy-week-power-recovery-plan.md-32-
+content/cloudy-week-power-recovery-plan.md:33:## Step 1: Separate baseline loads from comfort loads
+content/cloudy-week-power-recovery-plan.md-34-
+content/cloudy-week-power-recovery-plan.md-35-Start by splitting your routine into two buckets:
+--
+content/cloudy-week-power-recovery-plan.md-44-This one step reduces panic decisions. Baseline loads stay protected, comfort loads become flexible when recovery is weak.
+content/cloudy-week-power-recovery-plan.md-45-
+content/cloudy-week-power-recovery-plan.md:46:## Step 2: Build your 3-layer recovery plan (shore + driving + solar)
+content/cloudy-week-power-recovery-plan.md-47-
+content/cloudy-week-power-recovery-plan.md-48-- **Shore:** your stability anchor when available  
+--
+content/cloudy-week-power-recovery-plan.md-56-- [BLUETTI Fast Charging for Van Life](/bluetti-fast-charging/)
+content/cloudy-week-power-recovery-plan.md-57-
+content/cloudy-week-power-recovery-plan.md:58:## Step 3: The cloudy-week routine (daily workflow)
+content/cloudy-week-power-recovery-plan.md-59-
+content/cloudy-week-power-recovery-plan.md-60-### Morning
+--
+content/parking-constraints-van-power-recovery.md-26-- **[Solar vs Alternator Charging](/solar-vs-alternator-charging/)**
+content/parking-constraints-van-power-recovery.md-27-
+content/parking-constraints-van-power-recovery.md:28:## Step 1 — Stop one leak (parking weeks punish leaks)
+content/parking-constraints-van-power-recovery.md-29-
+content/parking-constraints-van-power-recovery.md-30-When refill is constrained, passive drain compounds faster.
+--
+content/parking-constraints-van-power-recovery.md-34-- **[DC vs AC in Van Life Workflows](/dc-vs-ac-in-van-life-workflows/)**
+content/parking-constraints-van-power-recovery.md-35-
+content/parking-constraints-van-power-recovery.md:36:## Step 2 — Protect baseline (and downgrade optional comfort)
+content/parking-constraints-van-power-recovery.md-37-
+content/parking-constraints-van-power-recovery.md-38-Protect non-negotiables and tighten optional comfort until stability returns.
+--
+content/parking-constraints-van-power-recovery.md-42-- **[Van Power Comfort Budget](/van-power-comfort-budget/)**
+content/parking-constraints-van-power-recovery.md-43-
+content/parking-constraints-van-power-recovery.md:44:## Step 3 — Choose a realistic recovery window you can actually execute
+content/parking-constraints-van-power-recovery.md-45-
+content/parking-constraints-van-power-recovery.md-46-Pick the best window you can defend in your schedule and location.
+--
+content/parking-constraints-van-power-recovery.md-50-- **[Daily Van Power Mode System](/daily-van-power-mode-system/)**
+content/parking-constraints-van-power-recovery.md-51-
+content/parking-constraints-van-power-recovery.md:52:## Step 4 — Build a “no-perfect-charging” plan (layered recovery)
+content/parking-constraints-van-power-recovery.md-53-
+content/parking-constraints-van-power-recovery.md-54-- Shore when it happens.
+--
+content/van-power-upgrade-decision-tree.md-18-- **[Van Power Upgrade Checklist](/van-power-upgrade-checklist/)**
+content/van-power-upgrade-decision-tree.md-19-
+content/van-power-upgrade-decision-tree.md:20:## Step 0 — Are you in a bad week right now?
+content/van-power-upgrade-decision-tree.md-21-
+content/van-power-upgrade-decision-tree.md-22-If yes, run protocol first and decide upgrades later.
+--
+content/van-power-upgrade-decision-tree.md-29-- **[Quiet Hours Recovery Plan](/quiet-hours-recovery-plan/)**
+content/van-power-upgrade-decision-tree.md-30-
+content/van-power-upgrade-decision-tree.md:31:## Step 1 — Find the failure type (pick the first “yes”)
+content/van-power-upgrade-decision-tree.md-32-
+content/van-power-upgrade-decision-tree.md-33-- If you’re losing power while “doing nothing,” then it is likely a leak problem.  
+--
+content/van-power-upgrade-decision-tree.md-43-Verify with: **[Van Power Upgrade Checklist](/van-power-upgrade-checklist/)**. Then use: **[Van Power Upgrade Paths](/van-power-upgrade-paths/)** and **[What 700Wh Actually Runs](/what-700wh-actually-runs/)**.
+content/van-power-upgrade-decision-tree.md-44-
+content/van-power-upgrade-decision-tree.md:45:## Step 2 — Pick today’s move (one move only)
+content/van-power-upgrade-decision-tree.md-46-
+content/van-power-upgrade-decision-tree.md-47-- Stop one leak for a week.
+--
+content/generator-free-van-power-recovery.md-25-- **[Solar vs Alternator Charging](/solar-vs-alternator-charging/)**
+content/generator-free-van-power-recovery.md-26-
+content/generator-free-van-power-recovery.md:27:## Step 1 — Stop one leak (non-negotiable when options are limited)
+content/generator-free-van-power-recovery.md-28-
+content/generator-free-van-power-recovery.md-29-When recovery windows are constrained, leak control is mandatory.
+--
+content/generator-free-van-power-recovery.md-33-- **[DC vs AC in Van Life Workflows](/dc-vs-ac-in-van-life-workflows/)**
+content/generator-free-van-power-recovery.md-34-
+content/generator-free-van-power-recovery.md:35:## Step 2 — Protect baseline (sleep + work + minimum comfort)
+content/generator-free-van-power-recovery.md-36-
+content/generator-free-van-power-recovery.md-37-Define what stays on and what gets paused until stability returns.
+--
+content/generator-free-van-power-recovery.md-41-- **[Van Power Comfort Budget](/van-power-comfort-budget/)**
+content/generator-free-van-power-recovery.md-42-
+content/generator-free-van-power-recovery.md:43:## Step 3 — Choose one daily recovery window you can actually execute
+content/generator-free-van-power-recovery.md-44-
+content/generator-free-van-power-recovery.md-45-Pick one recovery window that matches your real schedule and parking constraints.
+--
+content/generator-free-van-power-recovery.md-49-- **[Daily Van Power Mode System](/daily-van-power-mode-system/)**
+content/generator-free-van-power-recovery.md-50-
+content/generator-free-van-power-recovery.md:51:## Step 4 — Build a layered recovery plan (quiet + realistic)
+content/generator-free-van-power-recovery.md-52-
+content/generator-free-van-power-recovery.md-53-- Shore power when available (ethically, legally, and safely).
+--
+content/shore-power-recovery-routine.md-26-## The shore-power routine (5 steps)
+content/shore-power-recovery-routine.md-27-
+content/shore-power-recovery-routine.md:28:### Step 1: Decide your recovery target (baseline stability, not 100% perfection)
+content/shore-power-recovery-routine.md-29-Leave with margin for baseline loads—not a fantasy of perfect conditions.
+content/shore-power-recovery-routine.md-30-
+content/shore-power-recovery-routine.md:31:### Step 2: Plug in early (don’t wait until you’re behind)
+content/shore-power-recovery-routine.md-32-The earlier you reset, the less you need emergency load trimming later.
+content/shore-power-recovery-routine.md-33-
+content/shore-power-recovery-routine.md:34:### Step 3: Prioritize the right loads while charging (baseline first; avoid stacking surprises)
+content/shore-power-recovery-routine.md-35-Keep baseline loads protected while charging and avoid adding optional high-demand usage just because you found an outlet.
+content/shore-power-recovery-routine.md-36-
+--
+content/shore-power-recovery-routine.md-40-- Layering AC-heavy usage on top of normal baseline loads
+content/shore-power-recovery-routine.md-41-
+content/shore-power-recovery-routine.md:42:### Step 4: Use charging modes intentionally (quiet vs fast vs balanced—conceptual)
+content/shore-power-recovery-routine.md-43-Choose mode based on context: faster turnaround when you need recovery, quieter behavior when comfort matters, balanced behavior when both matter.
+content/shore-power-recovery-routine.md-44-
+content/shore-power-recovery-routine.md:45:### Step 5: Leave with margin (plan next 24–48h around recovery reality)
+content/shore-power-recovery-routine.md-46-Before unplugging, decide your next recovery window and keep your routine aligned to it.
+content/shore-power-recovery-routine.md-47-
+--
+content/cooking-and-hot-water-power-stability.md-27-- **[Parking Constraints Van Power Recovery](/parking-constraints-van-power-recovery/)**
+content/cooking-and-hot-water-power-stability.md-28-
+content/cooking-and-hot-water-power-stability.md:29:## Step 1 — Treat meals as scheduled events (not random drains)
+content/cooking-and-hot-water-power-stability.md-30-
+content/cooking-and-hot-water-power-stability.md-31-Plan cooking and hot-water events around recovery windows instead of making on-the-fly decisions.
+--
+content/cooking-and-hot-water-power-stability.md-35-- **[Daily Van Power Mode System](/daily-van-power-mode-system/)**
+content/cooking-and-hot-water-power-stability.md-36-
+content/cooking-and-hot-water-power-stability.md:37:## Step 2 — Stop one leak first (spikes are worse when leaks exist)
+content/cooking-and-hot-water-power-stability.md-38-
+content/cooking-and-hot-water-power-stability.md-39-If leaks are active, spike days compound faster. Stop one leak and hold it.
+--
+content/cooking-and-hot-water-power-stability.md-43-- **[DC vs AC in Van Life Workflows](/dc-vs-ac-in-van-life-workflows/)**
+content/cooking-and-hot-water-power-stability.md-44-
+content/cooking-and-hot-water-power-stability.md:45:## Step 3 — Choose a recovery move after "spike" days
+content/cooking-and-hot-water-power-stability.md-46-
+content/cooking-and-hot-water-power-stability.md-47-After a spike day, choose one recovery move and protect the window.
+--
+content/van-power-weekly-reset-routine.md-37-## The Weekly Reset (10 minutes, no drama)
+content/van-power-weekly-reset-routine.md-38-
+content/van-power-weekly-reset-routine.md:39:### Step 1: Name the week you’re entering
+content/van-power-weekly-reset-routine.md-40-Ask:
+content/van-power-weekly-reset-routine.md-41-- “Are we entering a **stable week** or a **fragile week**?”
+--
+content/van-power-weekly-reset-routine.md-48----
+content/van-power-weekly-reset-routine.md-49-
+content/van-power-weekly-reset-routine.md:50:### Step 2: Pick your default mode for the week
+content/van-power-weekly-reset-routine.md-51-Don’t wait until battery stress forces the decision.
+content/van-power-weekly-reset-routine.md-52-
+--
+content/van-power-weekly-reset-routine.md-61----
+content/van-power-weekly-reset-routine.md-62-
+content/van-power-weekly-reset-routine.md:63:### Step 3: Stop one leak (your highest ROI fix)
+content/van-power-weekly-reset-routine.md-64-Pick **one** leak to tighten for the week. Only one.
+content/van-power-weekly-reset-routine.md-65-
+--
+content/van-power-weekly-reset-routine.md-79----
+content/van-power-weekly-reset-routine.md-80-
+content/van-power-weekly-reset-routine.md:81:### Step 4: Choose one recovery plan you can actually execute
+content/van-power-weekly-reset-routine.md-82-This is the heart of the weekly reset: pick a refill path you can reliably do.
+content/van-power-weekly-reset-routine.md-83-
+--
+content/van-power-weekly-reset-routine.md-97----
+content/van-power-weekly-reset-routine.md-98-
+content/van-power-weekly-reset-routine.md:99:### Step 5: Set two “guardrails” for the week
+content/van-power-weekly-reset-routine.md-100-Guardrails are simple yes/no boundaries that prevent drift.
+content/van-power-weekly-reset-routine.md-101-
+--
+content/van-power-weekly-reset-routine.md-111----
+content/van-power-weekly-reset-routine.md-112-
+content/van-power-weekly-reset-routine.md:113:### Step 6: Lock your daily anchors (morning + night)
+content/van-power-weekly-reset-routine.md-114-Weekly stability comes from two tiny anchors.
+content/van-power-weekly-reset-routine.md-115-
+--
+content/van-power-weekly-reset-routine.md-123----
+content/van-power-weekly-reset-routine.md-124-
+content/van-power-weekly-reset-routine.md:125:### Step 7: If you share the rig, do a 2-minute check-in
+content/van-power-weekly-reset-routine.md-126-Most power conflict is unclear priorities under stress.
+content/van-power-weekly-reset-routine.md-127-
+--
+content/van-power-upgrade-planning-mistakes.md-34-
+content/van-power-upgrade-planning-mistakes.md-35-Pattern:
+content/van-power-upgrade-planning-mistakes.md:36:- Picking a tier first, then trying to force your routine into it.
+content/van-power-upgrade-planning-mistakes.md-37-
+content/van-power-upgrade-planning-mistakes.md-38-Why it backfires:
+--
+content/van-power-upgrade-planning-mistakes.md-66-
+content/van-power-upgrade-planning-mistakes.md-67-Pattern:
+content/van-power-upgrade-planning-mistakes.md:68:- Buying first, then discovering workflow leaks.
+content/van-power-upgrade-planning-mistakes.md-69-
+content/van-power-upgrade-planning-mistakes.md-70-Why it backfires:
+--
+content/humidity-night-power-stability.md-61----
+content/humidity-night-power-stability.md-62-
+content/humidity-night-power-stability.md:63:## Step 1: Choose mode early (before bedtime)
+content/humidity-night-power-stability.md-64-
+content/humidity-night-power-stability.md-65-Humid nights punish late decisions.
+--
+content/humidity-night-power-stability.md-77----
+content/humidity-night-power-stability.md-78-
+content/humidity-night-power-stability.md:79:## Step 2: Stop leaks that quietly drain you overnight
+content/humidity-night-power-stability.md-80-
+content/humidity-night-power-stability.md-81-Overnight stability is often lost to “small” habits that run for hours.
+--
+content/humidity-night-power-stability.md-100----
+content/humidity-night-power-stability.md-101-
+content/humidity-night-power-stability.md:102:## Step 3: Define your night baseline (what stays on)
+content/humidity-night-power-stability.md-103-
+content/humidity-night-power-stability.md-104-Humid nights often expand baseline.
+--
+content/humidity-night-power-stability.md-116----
+content/humidity-night-power-stability.md-117-
+content/humidity-night-power-stability.md:118:## Step 4: Use Recovery-mode priorities when you feel the spiral starting
+content/humidity-night-power-stability.md-119-
+content/humidity-night-power-stability.md-120-If you’re drifting into stress, don’t debate every decision.
+--
+content/humidity-night-power-stability.md-131----
+content/humidity-night-power-stability.md-132-
+content/humidity-night-power-stability.md:133:## Step 5: Plan tomorrow’s first recovery move (before you sleep)
+content/humidity-night-power-stability.md-134-
+content/humidity-night-power-stability.md-135-Humid nights create “borrowed energy.”  
+--
+content/tier-2-bad-week-protocol.md-30----
+content/tier-2-bad-week-protocol.md-31-
+content/tier-2-bad-week-protocol.md:32:## Step 1: Assume Conservation or Recovery before the spiral
+content/tier-2-bad-week-protocol.md-33-If any of these are true, don’t “wait and see”:
+content/tier-2-bad-week-protocol.md-34-- nights aren’t cooling off
+--
+content/tier-2-bad-week-protocol.md-46----
+content/tier-2-bad-week-protocol.md-47-
+content/tier-2-bad-week-protocol.md:48:## Step 2: Stop one leak (Tier 2 still fails from leaks)
+content/tier-2-bad-week-protocol.md-49-Fast charging won’t save a leaky routine.
+content/tier-2-bad-week-protocol.md-50-
+--
+content/tier-2-bad-week-protocol.md-58----
+content/tier-2-bad-week-protocol.md-59-
+content/tier-2-bad-week-protocol.md:60:## Step 3: Protect baseline (agree on it if you share the rig)
+content/tier-2-bad-week-protocol.md-61-Baseline is what stays on bad weeks.
+content/tier-2-bad-week-protocol.md-62-
+--
+content/tier-2-bad-week-protocol.md-71----
+content/tier-2-bad-week-protocol.md-72-
+content/tier-2-bad-week-protocol.md:73:## Step 4: Use fast charging as a planned recovery window
+content/tier-2-bad-week-protocol.md-74-Tier 2 shines when you plan the refill move.
+content/tier-2-bad-week-protocol.md-75-
+--
+content/tier-2-bad-week-protocol.md-87----
+content/tier-2-bad-week-protocol.md-88-
+content/tier-2-bad-week-protocol.md:89:## Step 5: Run the daily anchors (don’t skip them on bad weeks)
+content/tier-2-bad-week-protocol.md-90-Bad weeks punish vague plans.
+content/tier-2-bad-week-protocol.md-91-
+--
+content/van-power-conflict-reset-script.md-134-## Related reads (use these in sequence)
+content/van-power-conflict-reset-script.md-135-
+content/van-power-conflict-reset-script.md:136:Need the complete step-by-step? [Van Power Recovery Stack](/van-power-recovery-stack/).
+content/van-power-conflict-reset-script.md-137-Heat is a common trigger, so keep this open too: [Heat-Wave Van Power Recovery](/heat-wave-van-power-recovery/).
+content/van-power-conflict-reset-script.md-138-For calm pause-first decisions, use: [Recovery Mode Load Priorities](/recovery-mode-load-priorities/).
+--
+content/heat-and-humidity-van-power-recovery.md-31-- **[Parking Constraints Van Power Recovery](/parking-constraints-van-power-recovery/)**
+content/heat-and-humidity-van-power-recovery.md-32-
+content/heat-and-humidity-van-power-recovery.md:33:## Step 1 — Protect baseline (sleep first, then work)
+content/heat-and-humidity-van-power-recovery.md-34-
+content/heat-and-humidity-van-power-recovery.md:35:In combo weeks, baseline clarity is non-negotiable. Protect sleep first, then the minimum work and logistics needs that keep your week functional.
+content/heat-and-humidity-van-power-recovery.md-36-
+content/heat-and-humidity-van-power-recovery.md-37-Use:
+--
+content/heat-and-humidity-van-power-recovery.md-39-- **[Van Power Comfort Budget](/van-power-comfort-budget/)**
+content/heat-and-humidity-van-power-recovery.md-40-
+content/heat-and-humidity-van-power-recovery.md:41:## Step 2 — Stop one leak (non-negotiable in combo weeks)
+content/heat-and-humidity-van-power-recovery.md-42-
+content/heat-and-humidity-van-power-recovery.md-43-Heat and humidity magnify small leaks. Pick one leak and hold the line for the whole day.
+--
+content/heat-and-humidity-van-power-recovery.md-47-- **[DC vs AC in Van Life Workflows](/dc-vs-ac-in-van-life-workflows/)**
+content/heat-and-humidity-van-power-recovery.md-48-
+content/heat-and-humidity-van-power-recovery.md:49:## Step 3 — Choose a recovery window daily (and defend it)
+content/heat-and-humidity-van-power-recovery.md-50-
+content/heat-and-humidity-van-power-recovery.md-51-Pick the best recovery window you can actually execute today, then protect it like an appointment.
+--
+content/heat-and-humidity-van-power-recovery.md-56-- **[Daily Van Power Mode System](/daily-van-power-mode-system/)**
+content/heat-and-humidity-van-power-recovery.md-57-
+content/heat-and-humidity-van-power-recovery.md:58:## Step 4 — Switch modes early (don’t wait for the spiral)
+content/heat-and-humidity-van-power-recovery.md-59-
+content/heat-and-humidity-van-power-recovery.md-60-Combo weeks punish delayed mode changes. Move into Conservation or Recovery sooner than you think you need to.
+--
+content/inverter-on-or-off-workflow.md-115-## Related reads
+content/inverter-on-or-off-workflow.md-116-
+content/inverter-on-or-off-workflow.md:117:Need the complete step-by-step? [Van Power Recovery Stack](/van-power-recovery-stack/).
+content/inverter-on-or-off-workflow.md-118-
+content/inverter-on-or-off-workflow.md-119-
+--
+content/hot-and-cloudy-van-power-recovery.md-28-- **[Parking Constraints Van Power Recovery](/parking-constraints-van-power-recovery/)**
+content/hot-and-cloudy-van-power-recovery.md-29-
+content/hot-and-cloudy-van-power-recovery.md:30:## Step 1 — Protect baseline (sleep first, then work)
+content/hot-and-cloudy-van-power-recovery.md-31-
+content/hot-and-cloudy-van-power-recovery.md:32:Define what stays protected first, then treat optional comfort as conditional.
+content/hot-and-cloudy-van-power-recovery.md-33-
+content/hot-and-cloudy-van-power-recovery.md-34-Use:
+--
+content/hot-and-cloudy-van-power-recovery.md-36-- **[Van Power Comfort Budget](/van-power-comfort-budget/)**
+content/hot-and-cloudy-van-power-recovery.md-37-
+content/hot-and-cloudy-van-power-recovery.md:38:## Step 2 — Stop one leak (cloudy weeks punish leaks)
+content/hot-and-cloudy-van-power-recovery.md-39-
+content/hot-and-cloudy-van-power-recovery.md-40-When input is weak, leaks become more expensive. Stop one leak and hold it.
+--
+content/hot-and-cloudy-van-power-recovery.md-44-- **[DC vs AC in Van Life Workflows](/dc-vs-ac-in-van-life-workflows/)**
+content/hot-and-cloudy-van-power-recovery.md-45-
+content/hot-and-cloudy-van-power-recovery.md:46:## Step 3 — Choose a recovery move daily (don’t rely on “maybe solar”)
+content/hot-and-cloudy-van-power-recovery.md-47-
+content/hot-and-cloudy-van-power-recovery.md-48-Pick the best recovery move you can execute today, then defend that window.
+--
+content/hot-and-cloudy-van-power-recovery.md-54-- **[Solar Capture Window Plan](/solar-capture-window-plan/)**
+content/hot-and-cloudy-van-power-recovery.md-55-
+content/hot-and-cloudy-van-power-recovery.md:56:## Step 4 — Switch modes early
+content/hot-and-cloudy-van-power-recovery.md-57-
+content/hot-and-cloudy-van-power-recovery.md-58-If the week is getting harsher, shift into Conservation or Recovery before the spiral.
+--
+content/van-cooling-power-stability.md-27-- **[Cloudy Week Power Recovery Plan](/cloudy-week-power-recovery-plan/)**
+content/van-cooling-power-stability.md-28-
+content/van-cooling-power-stability.md:29:## Step 1 — Protect baseline (sleep first, then work)
+content/van-cooling-power-stability.md-30-
+content/van-cooling-power-stability.md-31-Baseline clarity prevents stress decisions in the middle of a harsh day.
+--
+content/van-cooling-power-stability.md-35-- **[Van Power Comfort Budget](/van-power-comfort-budget/)**
+content/van-cooling-power-stability.md-36-
+content/van-cooling-power-stability.md:37:## Step 2 — Stop one leak (cooling weeks punish leaks)
+content/van-cooling-power-stability.md-38-
+content/van-cooling-power-stability.md-39-When cooling demand is high, leak discipline matters more.
+--
+content/van-cooling-power-stability.md-43-- **[DC vs AC in Van Life Workflows](/dc-vs-ac-in-van-life-workflows/)**
+content/van-cooling-power-stability.md-44-
+content/van-cooling-power-stability.md:45:## Step 3 — Choose a recovery move daily
+content/van-cooling-power-stability.md-46-
+content/van-cooling-power-stability.md-47-Pick a recovery move you can actually execute and protect that window.
+--
+content/van-cooling-power-stability.md-53-- **[Solar Capture Window Plan](/solar-capture-window-plan/)**
+content/van-cooling-power-stability.md-54-
+content/van-cooling-power-stability.md:55:## Step 4 — Switch modes early (don’t wait for the spiral)
+content/van-cooling-power-stability.md-56-
+content/van-cooling-power-stability.md-57-If conditions are tightening, shift modes before drift compounds.
+--
+content/heat-wave-van-power-recovery.md-76-- you delay “who caused this” conversations until stability returns
+content/heat-wave-van-power-recovery.md-77-
+content/heat-wave-van-power-recovery.md:78:Use the step-by-step ladder:
+content/heat-wave-van-power-recovery.md-79-- **[Van Power Recovery Stack](/van-power-recovery-stack/)**
+content/heat-wave-van-power-recovery.md-80-
+content/heat-wave-van-power-recovery.md-81----
+content/heat-wave-van-power-recovery.md-82-
+content/heat-wave-van-power-recovery.md:83:## Step 1: Stop leaks before you argue about comfort
+content/heat-wave-van-power-recovery.md-84-
+content/heat-wave-van-power-recovery.md-85-Heat makes people reach for quick fixes—often through AC habits that quietly drain margin.
+--
+content/heat-wave-van-power-recovery.md-97----
+content/heat-wave-van-power-recovery.md-98-
+content/heat-wave-van-power-recovery.md:99:## Step 2: Pick one recovery move (don’t stack decisions)
+content/heat-wave-van-power-recovery.md-100-
+content/heat-wave-van-power-recovery.md-101-Heat pushes you toward frantic switching: “Try this, try that, maybe that’ll help.”  
+--
+content/heat-wave-van-power-recovery.md-123----
+content/heat-wave-van-power-recovery.md-124-
+content/heat-wave-van-power-recovery.md:125:## Step 3: Cooking in heat (don’t improvise under stress)
+content/heat-wave-van-power-recovery.md-126-
+content/heat-wave-van-power-recovery.md-127-Heat turns cooking into a conflict trigger fast: hunger + exhaustion + “we can’t run that” spirals.
+--
+content/heat-wave-van-power-recovery.md-134----
+content/heat-wave-van-power-recovery.md-135-
+content/heat-wave-van-power-recovery.md:136:## Step 4: Heat-wave daily discipline (morning + night)
+content/heat-wave-van-power-recovery.md-137-
+content/heat-wave-van-power-recovery.md-138-Heat punishes vague plans. Stability comes from short routines.
+--
+content/heat-wave-van-power-recovery.md-150----
+content/heat-wave-van-power-recovery.md-151-
+content/heat-wave-van-power-recovery.md:152:## Step 5: Heat makes conflict more likely (use scripts, not vibes)
+content/heat-wave-van-power-recovery.md-153-
+content/heat-wave-van-power-recovery.md-154-When comfort loads feel necessary, people stop hearing each other. That’s normal.
+--
+content/workday-power-boundaries.md-44----
+content/workday-power-boundaries.md-45-
+content/workday-power-boundaries.md:46:## Step 1: Define your Work Baseline (protected category)
+content/workday-power-boundaries.md-47-
+content/workday-power-boundaries.md-48-Work baseline is what you need to do the job without scrambling.
+--
+content/workday-power-boundaries.md-61----
+content/workday-power-boundaries.md-62-
+content/workday-power-boundaries.md:63:## Step 2: Pick your workday mode *in the morning*
+content/workday-power-boundaries.md-64-Workdays fail when you postpone mode choice and try to “earn” it later.
+content/workday-power-boundaries.md-65-
+--
+content/workday-power-boundaries.md-77----
+content/workday-power-boundaries.md-78-
+content/workday-power-boundaries.md:79:## Step 3: Stop workflow leaks (this is where most workdays are won)
+content/workday-power-boundaries.md-80-
+content/workday-power-boundaries.md-81-Workdays often leak power through habits, not necessities.
+--
+content/workday-power-boundaries.md-94----
+content/workday-power-boundaries.md-95-
+content/workday-power-boundaries.md:96:## Step 4: Set three workday boundaries (simple, enforceable)
+content/workday-power-boundaries.md-97-
+content/workday-power-boundaries.md-98-Boundaries only work if they’re clear enough to follow when tired.
+--
+content/workday-power-boundaries.md-116----
+content/workday-power-boundaries.md-117-
+content/workday-power-boundaries.md:118:## Step 5: Choose one recovery plan for the workday
+content/workday-power-boundaries.md-119-Workdays are not the time to “hope” solar cooperates.
+content/workday-power-boundaries.md-120-
+--
+content/workday-power-boundaries.md-134----
+content/workday-power-boundaries.md-135-
+content/workday-power-boundaries.md:136:## Step 6: End the workday clean (so the night doesn’t spiral)
+content/workday-power-boundaries.md-137-Workdays often “borrow” from the night. That’s how you end up depleted and arguing.
+content/workday-power-boundaries.md-138-
+--
+content/shared-van-power-check-in-template.md-23-- If you disagree, choose the tighter mode for now and re-check later.
+content/shared-van-power-check-in-template.md-24-
+content/shared-van-power-check-in-template.md:25:## Step 1: Pick today’s mode
+content/shared-van-power-check-in-template.md-26-
+content/shared-van-power-check-in-template.md-27-Choose one mode before making comfort decisions:
+--
+content/shared-van-power-check-in-template.md-33-- [Daily Van Power Mode System](/daily-van-power-mode-system/)
+content/shared-van-power-check-in-template.md-34-
+content/shared-van-power-check-in-template.md:35:## Step 2: Morning check-in script (copy/paste)
+content/shared-van-power-check-in-template.md-36-
+content/shared-van-power-check-in-template.md-37-```text
+--
+content/shared-van-power-check-in-template.md-48-```
+content/shared-van-power-check-in-template.md-49-
+content/shared-van-power-check-in-template.md:50:## Step 3: Night check-in script (copy/paste)
+content/shared-van-power-check-in-template.md-51-
+content/shared-van-power-check-in-template.md-52-```text
+--
+content/shared-van-power-rules-for-couples.md-13-Most van power fights are recovery fights in disguise. When margin is unclear, small decisions feel personal fast. A shared routine turns daily tension into simple agreements.
+content/shared-van-power-rules-for-couples.md-14-
+content/shared-van-power-rules-for-couples.md:15:**Mantra:** protect baseline first, then negotiate comfort.
+content/shared-van-power-rules-for-couples.md-16-
+content/shared-van-power-rules-for-couples.md-17-## The shared goal: baseline stability first
+--
+content/shared-van-power-rules-for-couples.md-102-
+content/shared-van-power-rules-for-couples.md-103-### “Just charge everything”
+content/shared-van-power-rules-for-couples.md:104:**Rule:** charge baseline devices first, then optional items.  
+content/shared-van-power-rules-for-couples.md-105-**Why:** priority order prevents late-day surprises.
+content/shared-van-power-rules-for-couples.md-106-
+--
+content/bluetti-fast-charging.md-148-
+content/bluetti-fast-charging.md-149-### How much solar do I need?
+content/bluetti-fast-charging.md:150:Size solar around your real daily loads and weather reality, not ideal sun assumptions. Start from usage pattern first, then choose panel strategy.
+content/bluetti-fast-charging.md-151-
+content/bluetti-fast-charging.md-152-### Is alternator charging worth it if I don’t drive daily?
+--
+content/bluetti-fast-charging.md-164-## How we evaluate (CAVL standard)
+content/bluetti-fast-charging.md-165-
+content/bluetti-fast-charging.md:166:Need the complete step-by-step? [Van Power Recovery Stack](/van-power-recovery-stack/).
+content/bluetti-fast-charging.md-167-If you need the fastest "plug in and recover" picks (700Wh+), see: [Best Fast-Charging Power Stations](/best-fast-charging-power-stations/).
+content/bluetti-fast-charging.md-168-
+--
+content/fast-charging-not-keeping-up-what-to-fix-first.md-83-**Smallest next move**
+content/fast-charging-not-keeping-up-what-to-fix-first.md-84-- Keep the **700Wh+ minimum** floor for recovery-first planning.
+content/fast-charging-not-keeping-up-what-to-fix-first.md:85:- Reduce baseline drain first, then reassess whether capacity is truly the limiter.
+content/fast-charging-not-keeping-up-what-to-fix-first.md-86-- If upgrade is still needed, route to **[Best Fast-Charging Power Stations Under $1000](/best-fast-charging-power-stations-under-1000/)**.
+content/fast-charging-not-keeping-up-what-to-fix-first.md-87-
+--
+content/site-map.md-9----
+content/site-map.md-10-
+content/site-map.md:11:If you are new, start with **[Start Here](/start-here/)** first, then use this page as a full index.
+content/site-map.md-12-
+content/site-map.md-13-Use:
+--
+content/morning-van-power-check.md-13-Mornings decide whether you spiral or stabilize. A quick reset before the day starts helps you protect margin, choose the right loads, and avoid surprise stress by evening.
+content/morning-van-power-check.md-14-
+content/morning-van-power-check.md:15:**Mantra:** lock recovery first, then spend.
+content/morning-van-power-check.md-16-
+content/morning-van-power-check.md-17-## The morning check (do this in order)
+--
+content/morning-van-power-check.md-47-
+content/morning-van-power-check.md-48-- Plug in early instead of waiting for stress.
+content/morning-van-power-check.md:49:- Recover baseline first, then decide on comfort loads.
+content/morning-van-power-check.md-50-- Avoid “surprise stacking” while charging.
+content/morning-van-power-check.md-51-- Before unplugging, set your next recovery window and daily mode.
+--
+content/solar-capture-window-plan.md-15-- **[Parking Constraints Van Power Recovery](/parking-constraints-van-power-recovery/)**
+content/solar-capture-window-plan.md-16-
+content/solar-capture-window-plan.md:17:## Step 1 — Plan for the “capture window” (not all-day fantasy)
+content/solar-capture-window-plan.md-18-
+content/solar-capture-window-plan.md-19-Plan around the part of your day where parking and timing actually support harvest.
+--
+content/solar-capture-window-plan.md-23-- **[Daily Van Power Mode System](/daily-van-power-mode-system/)**
+content/solar-capture-window-plan.md-24-
+content/solar-capture-window-plan.md:25:## Step 2 — Protect baseline during the day (don’t spend the harvest twice)
+content/solar-capture-window-plan.md-26-
+content/solar-capture-window-plan.md-27-Protect essentials first so temporary harvest gains are not immediately consumed by optional usage.
+--
+content/solar-capture-window-plan.md-31-- **[Inverter On or Off Workflow](/inverter-on-or-off-workflow/)**
+content/solar-capture-window-plan.md-32-
+content/solar-capture-window-plan.md:33:## Step 3 — What to do when solar underperforms
+content/solar-capture-window-plan.md-34-
+content/solar-capture-window-plan.md-35-Switch modes early, stop one leak, and choose the best backup recovery move.
+--
+content/solar-capture-window-plan.md-41-- **[Drive Recovery Window Plan](/drive-recovery-window-plan/)**
+content/solar-capture-window-plan.md-42-
+content/solar-capture-window-plan.md:43:## Step 4 — If you’re consistently unstable
+content/solar-capture-window-plan.md-44-
+content/solar-capture-window-plan.md-45-Route through decision logic before panic upgrades.
+--
+content/midday-power-check.md-42-## The 2–3 minute Midday Check
+content/midday-power-check.md-43-
+content/midday-power-check.md:44:### Step 1: Reconfirm your mode (don’t guess)
+content/midday-power-check.md-45-Ask: “Are we still in the right mode for today?”
+content/midday-power-check.md-46-
+--
+content/midday-power-check.md-57----
+content/midday-power-check.md-58-
+content/midday-power-check.md:59:### Step 2: Choose today’s recovery window (or admit you missed it)
+content/midday-power-check.md-60-Ask: “What is our best refill move for the rest of today?”
+content/midday-power-check.md-61-
+--
+content/midday-power-check.md-70----
+content/midday-power-check.md-71-
+content/midday-power-check.md:72:### Step 3: Stop one leak (the fastest way to stabilize)
+content/midday-power-check.md-73-Pick one leak to tighten *for the rest of the day*:
+content/midday-power-check.md-74-- inverter habits
+--
+content/midday-power-check.md-86----
+content/midday-power-check.md-87-
+content/midday-power-check.md:88:### Step 4: Set one boundary for the afternoon
+content/midday-power-check.md-89-Pick one boundary that prevents drift until bedtime:
+content/midday-power-check.md-90-- “Optional comfort is conditional.”
+--
+content/blog/how-many-watt-hours-do-i-need.md-9----
+content/blog/how-many-watt-hours-do-i-need.md-10-
+content/blog/how-many-watt-hours-do-i-need.md:11:Sizing your system starts with daily behavior, not product marketing. Track real device use first, then choose capacity.
+content/blog/how-many-watt-hours-do-i-need.md-12-
+content/blog/how-many-watt-hours-do-i-need.md-13-## Practical Sizing Method
+--
+content/recovery-mode-load-priorities.md-35----
+content/recovery-mode-load-priorities.md-36-
+content/recovery-mode-load-priorities.md:37:## Step 1: Protect baseline (non-negotiables)
+content/recovery-mode-load-priorities.md-38-
+content/recovery-mode-load-priorities.md-39-Baseline is what keeps you safe and functional. Baseline varies by person and climate.
+--
+content/recovery-mode-load-priorities.md-53----
+content/recovery-mode-load-priorities.md-54-
+content/recovery-mode-load-priorities.md:55:## Step 2: Stop leaks (the fastest “free” recovery)
+content/recovery-mode-load-priorities.md-56-
+content/recovery-mode-load-priorities.md-57-Before you pause anything that affects comfort, stop the silent drains:
+--
+content/recovery-mode-load-priorities.md-68----
+content/recovery-mode-load-priorities.md-69-
+content/recovery-mode-load-priorities.md:70:## Step 3: Pause-first categories (choose one, then reassess)
+content/recovery-mode-load-priorities.md-71-
+content/recovery-mode-load-priorities.md-72-Recovery mode works best when you pause **one category at a time**, then reassess.  
+--
+content/recovery-mode-load-priorities.md-107----
+content/recovery-mode-load-priorities.md-108-
+content/recovery-mode-load-priorities.md:109:## Step 4: Pick one recovery move (don’t rely on luck)
+content/recovery-mode-load-priorities.md-110-
+content/recovery-mode-load-priorities.md-111-After you’ve protected baseline and stopped leaks, choose **one** recovery path:
+--
+content/van-fridge-power-stability.md-29-- **[Parking Constraints Van Power Recovery](/parking-constraints-van-power-recovery/)**
+content/van-fridge-power-stability.md-30-
+content/van-fridge-power-stability.md:31:## Step 1 — Treat fridge as baseline (plan around it)
+content/van-fridge-power-stability.md-32-
+content/van-fridge-power-stability.md-33-Treat food safety and fridge stability as baseline planning, then decide optional comfort around that baseline.
+--
+content/van-fridge-power-stability.md-37-- **[Van Power Comfort Budget](/van-power-comfort-budget/)**
+content/van-fridge-power-stability.md-38-
+content/van-fridge-power-stability.md:39:## Step 2 — Stop one leak (fridge weeks punish leaks)
+content/van-fridge-power-stability.md-40-
+content/van-fridge-power-stability.md-41-When baseline loads are steady, leaks matter more. Stop one leak and hold it.
+--
+content/van-fridge-power-stability.md-45-- **[DC vs AC in Van Life Workflows](/dc-vs-ac-in-van-life-workflows/)**
+content/van-fridge-power-stability.md-46-
+content/van-fridge-power-stability.md:47:## Step 3 — Choose a recovery move daily (don’t rely on hope)
+content/van-fridge-power-stability.md-48-
+content/van-fridge-power-stability.md-49-Pick a recovery move you can actually execute today and protect that window.
+--
+content/van-fridge-power-stability.md-55-- **[Solar Capture Window Plan](/solar-capture-window-plan/)**
+content/van-fridge-power-stability.md-56-
+content/van-fridge-power-stability.md:57:## Step 4 — If you’re in a harsh week
+content/van-fridge-power-stability.md-58-
+content/van-fridge-power-stability.md-59-If conditions are rough, switch earlier and keep the plan simple.
+--
+content/gear/bluetti-elite-200-v2-power-station-review.md-63-## What It Can Run (Van-Life Reality)
+content/gear/bluetti-elite-200-v2-power-station-review.md-64-
+content/gear/bluetti-elite-200-v2-power-station-review.md:65:Our baseline use profile is fridge + MaxxAir fans + daily devices first, then cooking as spikes.
+content/gear/bluetti-elite-200-v2-power-station-review.md-66-
+content/gear/bluetti-elite-200-v2-power-station-review.md-67-### Typical baseline day
+--
+content/cold-and-cloudy-van-power-recovery.md-25-- **[Parking Constraints Van Power Recovery](/parking-constraints-van-power-recovery/)**
+content/cold-and-cloudy-van-power-recovery.md-26-
+content/cold-and-cloudy-van-power-recovery.md:27:## Step 1 — Protect baseline (sleep first, then work)
+content/cold-and-cloudy-van-power-recovery.md-28-
+content/cold-and-cloudy-van-power-recovery.md-29-Start by defining what stays on versus what becomes optional during hard weeks.
+--
+content/cold-and-cloudy-van-power-recovery.md-33-- **[Van Power Comfort Budget](/van-power-comfort-budget/)**
+content/cold-and-cloudy-van-power-recovery.md-34-
+content/cold-and-cloudy-van-power-recovery.md:35:## Step 2 — Stop one leak (non-negotiable)
+content/cold-and-cloudy-van-power-recovery.md-36-
+content/cold-and-cloudy-van-power-recovery.md-37-Cold and cloudy weeks punish passive drain, so tighten one leak and hold it.
+--
+content/cold-and-cloudy-van-power-recovery.md-41-- **[DC vs AC in Van Life Workflows](/dc-vs-ac-in-van-life-workflows/)**
+content/cold-and-cloudy-van-power-recovery.md-42-
+content/cold-and-cloudy-van-power-recovery.md:43:## Step 3 — Choose a recovery move daily (don’t rely on “maybe solar”)
+content/cold-and-cloudy-van-power-recovery.md-44-
+content/cold-and-cloudy-van-power-recovery.md-45-Pick the best refill move you can execute today, then commit to it.
+--
+content/cold-and-cloudy-van-power-recovery.md-51-- **[Solar Capture Window Plan](/solar-capture-window-plan/)**
+content/cold-and-cloudy-van-power-recovery.md-52-
+content/cold-and-cloudy-van-power-recovery.md:53:## Step 4 — Switch modes early
+content/cold-and-cloudy-van-power-recovery.md-54-
+content/cold-and-cloudy-van-power-recovery.md-55-Do not wait for late-night stress before changing the plan.
+--
+content/blog/remote-work-from-your-van-inexpensive-setup.md-9-# Remote Work From Your Van: Inexpensive Setup
+content/blog/remote-work-from-your-van-inexpensive-setup.md-10-
+content/blog/remote-work-from-your-van-inexpensive-setup.md:11:Working from the road is possible without a premium build. The key is choosing **remote work gear for van life** that improves reliability first, then comfort.
+content/blog/remote-work-from-your-van-inexpensive-setup.md-12-
+content/blog/remote-work-from-your-van-inexpensive-setup.md-13-## Build a Reliable Core Setup
+--
+content/blog/how-much-solar-do-you-need-in-a-van.md-8----
+content/blog/how-much-solar-do-you-need-in-a-van.md-9-
+content/blog/how-much-solar-do-you-need-in-a-van.md:10:Most people should estimate usage first, then choose solar. Start with a daily load list in watt-hours.
+content/blog/how-much-solar-do-you-need-in-a-van.md-11-
+content/blog/how-much-solar-do-you-need-in-a-van.md-12-## Quick Sizing Rule
+--
+content/starter-tier-survival-plan.md-35----
+content/starter-tier-survival-plan.md-36-
+content/starter-tier-survival-plan.md:37:## Step 1: Define your baseline (what stays)
+content/starter-tier-survival-plan.md-38-Baseline is what you protect even when you’re tight.
+content/starter-tier-survival-plan.md-39-
+--
+content/starter-tier-survival-plan.md-50----
+content/starter-tier-survival-plan.md-51-
+content/starter-tier-survival-plan.md:52:## Step 2: Stop leaks first (Tier 1 lives or dies here)
+content/starter-tier-survival-plan.md-53-Most Tier 1 failures are leaks, not “not enough battery.”
+content/starter-tier-survival-plan.md-54-
+--
+content/starter-tier-survival-plan.md-66----
+content/starter-tier-survival-plan.md-67-
+content/starter-tier-survival-plan.md:68:## Step 3: Choose your recovery move early (don’t hope)
+content/starter-tier-survival-plan.md-69-Tier 1 fails when recovery is left to luck.
+content/starter-tier-survival-plan.md-70-
+--
+content/starter-tier-survival-plan.md-82----
+content/starter-tier-survival-plan.md-83-
+content/starter-tier-survival-plan.md:84:## Step 4: Use daily anchors (morning, midday, night)
+content/starter-tier-survival-plan.md-85-Tier 1 doesn’t tolerate “we’ll check later.”
+content/starter-tier-survival-plan.md-86-
+--
+content/starter-tier-survival-plan.md-91----
+content/starter-tier-survival-plan.md-92-
+content/starter-tier-survival-plan.md:93:## Step 5: Handle bad conditions with earlier mode shifts
+content/starter-tier-survival-plan.md-94-On Tier 1, bad conditions are not a surprise—they’re a trigger.
+content/starter-tier-survival-plan.md-95-
+--
+content/starter-tier-survival-plan.md-104----
+content/starter-tier-survival-plan.md-105-
+content/starter-tier-survival-plan.md:106:## Step 6: If you share the rig, use scripts (Tier 1 fights are common)
+content/starter-tier-survival-plan.md-107-Tier 1 failures often show up as conflict.
+content/starter-tier-survival-plan.md-108-
+--
+content/starter-tier-survival-plan.md-114----
+content/starter-tier-survival-plan.md-115-
+content/starter-tier-survival-plan.md:116:## Step 7: Know when Tier 1 is no longer the right tier
+content/starter-tier-survival-plan.md-117-If you are doing the routine and still spiraling, it’s not character. It’s capacity + recovery window mismatch.
+content/starter-tier-survival-plan.md-118-
+
+SECTION C — Quick Link Integrity Spot Scan (not a full verify; just sanity)
+----------------------------------------
+content/fast-charging-vs-bigger-battery.md:12:If you're shopping, start with the **[Buyer Checklist](/fast-charging-power-station-buyer-checklist/)**, then pick the guide that matches your situation in **[Fast-Charging Buyer Guides](/fast-charging-buyer-guides/)**.
+content/fast-charging-vs-bigger-battery.md:15:- **[Van Power Stability Scorecard](/van-power-stability-scorecard/)**
+content/fast-charging-vs-bigger-battery.md:16:- **[Van Power Upgrade Decision Tree](/van-power-upgrade-decision-tree/)**
+content/fast-charging-vs-bigger-battery.md:29:- **[Recovery Window Priority Map](/recovery-window-priority-map/)**
+content/fast-charging-vs-bigger-battery.md:30:- **[Tier 2 Bad Week Protocol](/tier-2-bad-week-protocol/)**
+content/fast-charging-vs-bigger-battery.md:31:- **[Fast-Charging Power Station Buyer Checklist](/fast-charging-power-station-buyer-checklist/)**
+content/fast-charging-vs-bigger-battery.md:32:- **[Best Fast-Charging Power Stations](/best-fast-charging-power-stations/)**
+content/fast-charging-vs-bigger-battery.md:40:- **[Van Power Upgrade Checklist](/van-power-upgrade-checklist/)**
+content/fast-charging-vs-bigger-battery.md:41:- **[What 700Wh Actually Runs](/what-700wh-actually-runs/)**
+content/fast-charging-vs-bigger-battery.md:42:- **[Recovery Mode Load Priorities](/recovery-mode-load-priorities/)**
+content/fast-charging-vs-bigger-battery.md:51:- **[Inverter On or Off Workflow](/inverter-on-or-off-workflow/)**
+content/fast-charging-vs-bigger-battery.md:52:- **[DC vs AC in Van Life Workflows](/dc-vs-ac-in-van-life-workflows/)**
+content/fast-charging-vs-bigger-battery.md:53:- **[Van Power Comfort Budget](/van-power-comfort-budget/)**
+content/fast-charging-vs-bigger-battery.md:54:- **[Van Power Upgrade Mistakes](/van-power-upgrade-mistakes/)**
+content/fast-charging-vs-bigger-battery.md:61:- **[Van Power Recovery Stack](/van-power-recovery-stack/)**
+content/fast-charging-vs-bigger-battery.md:62:- **[Van Power Upgrade Paths](/van-power-upgrade-paths/)**
+content/fast-charging-vs-bigger-battery.md:66:Next step: use the **[Van Power Upgrade Decision Tree](/van-power-upgrade-decision-tree/)**.
+content/fast-charging-vs-bigger-battery.md:70:- **[Best Fast-Charging Power Stations](/best-fast-charging-power-stations/)**
+content/fast-charging-vs-bigger-battery.md:71:- **[Van Battery Drift Diagnosis](/van-battery-drift-diagnosis/)**
+content/fast-charging-vs-bigger-battery.md:72:- **[Van Power Upgrade Mistakes](/van-power-upgrade-mistakes/)**
+content/fast-charging-vs-bigger-battery.md:73:- **[Van Power Upgrade Decision Tree](/van-power-upgrade-decision-tree/)**
+content/fast-charging-vs-bigger-battery.md:74:- **[Fast-Charging Power Station Buyer Checklist](/fast-charging-power-station-buyer-checklist/)**
+content/fast-charging-vs-bigger-battery.md:75:- **[Van Power Upgrade Checklist](/van-power-upgrade-checklist/)**
+content/fast-charging-vs-bigger-battery.md:76:- **[Tier 2 Bad Week Protocol](/tier-2-bad-week-protocol/)**
+content/fast-charging-buyer-guides.md:11:If any terms feel fuzzy (AC input, surge, pass-through), use the **[Fast-Charging Power Station Glossary](/fast-charging-power-station-glossary/)**.
+content/fast-charging-buyer-guides.md:23:- **[Fast-Charging Power Station Buyer Checklist](/fast-charging-power-station-buyer-checklist/)**
+content/fast-charging-buyer-guides.md:24:- **[Best Fast-Charging Power Stations](/best-fast-charging-power-stations/)**
+content/fast-charging-buyer-guides.md:28:- **[Best Fast-Charging Power Stations](/best-fast-charging-power-stations/)** — main buyer guide.
+content/fast-charging-buyer-guides.md:29:- **[Fast-Charging Power Station Buyer Checklist](/fast-charging-power-station-buyer-checklist/)** — how to choose without hype.
+content/fast-charging-buyer-guides.md:33:- **[Best Fast-Charging Power Stations Under $1000](/best-fast-charging-power-stations-under-1000/)**
+content/fast-charging-buyer-guides.md:34:- **[Under-$1000 Upgrade Plan](/under-1000-upgrade-plan/)**
+content/fast-charging-buyer-guides.md:35:- **[Under-$500 to Tier 2 Upgrade Bridge](/under-500-to-tier-2-upgrade-bridge/)** — when starter tier limits become consistent.
+content/fast-charging-buyer-guides.md:36:- **[Portable Power Stations Under $500](/best-of/power-stations-under-500/)** — starter-tier entry path before Tier 2.
+content/fast-charging-buyer-guides.md:40:- **[Best Fast-Charging Power Stations for Essentials](/best-fast-charging-power-stations-for-essentials/)**
+content/fast-charging-buyer-guides.md:43:- **[CPAP Power Stability in Van Life](/cpap-power-stability-van-life/)**
+content/fast-charging-buyer-guides.md:44:- **[Van Fridge Power Stability](/van-fridge-power-stability/)**
+content/fast-charging-buyer-guides.md:45:- **[Van Cooling Power Stability](/van-cooling-power-stability/)**
+content/fast-charging-buyer-guides.md:49:- **[Best Fast-Charging Power Stations for Work](/best-fast-charging-power-stations-for-work/)**
+content/fast-charging-buyer-guides.md:52:- **[Work Pressure Van Power Recovery](/work-pressure-van-power-recovery/)**
+content/fast-charging-buyer-guides.md:53:- **[Starlink + Internet Power Stability](/starlink-and-internet-power-stability/)**
+content/fast-charging-buyer-guides.md:57:- **[Best Fast-Charging Power Stations for Heat + Humidity](/best-fast-charging-power-stations-for-heat-and-humidity/)**
+content/fast-charging-buyer-guides.md:60:- **[Heat + Humidity Van Power Recovery](/heat-and-humidity-van-power-recovery/)**
+content/fast-charging-buyer-guides.md:61:- **[Van Cooling Power Stability](/van-cooling-power-stability/)**
+content/fast-charging-buyer-guides.md:62:- **[Coastal Humidity Electronics Care](/coastal-humidity-electronics-care/)**
+content/fast-charging-buyer-guides.md:66:- **[Best Fast-Charging Power Stations for Cold Weather](/best-fast-charging-power-stations-for-cold-weather/)**
+content/fast-charging-buyer-guides.md:70:Next step: pick your recovery move for tomorrow: **[Recovery Moves Index](/recovery-moves-index/)**.
+content/fast-charging-buyer-guides.md:71:For a direct budget-tier comparison, use: **[Under-$500 vs Under-$1000 Van Power](/under-500-vs-under-1000-van-power/)**.
+content/fast-charging-buyer-guides.md:72:If you're deciding between solar and fast charging, use: **[Solar vs Fast Charging for Van Life](/solar-vs-fast-charging-for-van-life/)**.
+content/fast-charging-buyer-guides.md:73:If you are unsure what to fix first before shopping, run **[Van Power Stability Scorecard](/van-power-stability-scorecard/)**.
+content/fast-charging-buyer-guides.md:74:For sourcing standards and ranking rules, see: **[How We Test and Source Van Power](/how-we-test-and-source-van-power/)**.
+
+========================================
+SUMMARY
+----------------------------------------
+A) Wiring-risk term matches: 41
+B) Step-by-step/procedural matches: 201
+C) Internal link occurrences ('](/'): 2292
+
+Report written to: audit/weekly-compliance-scan-2026-02-25.txt

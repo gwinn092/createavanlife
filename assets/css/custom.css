@@ -132,28 +132,6 @@ h1,
   color: var(--vf-brand-hover);
 }
 
-/* CTA buttons */
-a[role="button"],
-.prose a[role="button"] {
-  border-radius: 999px;
-  border: 1px solid rgba(11, 74, 109, 0.25);
-  background: linear-gradient(120deg, var(--vf-cta), #0e7490);
-  font-weight: 700;
-  text-decoration: none !important;
-  box-shadow: 0 10px 20px rgba(15, 94, 138, 0.2);
-  transition: transform 0.15s ease, box-shadow 0.15s ease, filter 0.15s ease;
-  color: #ffffff !important;
-}
-
-a[role="button"]:hover,
-.prose a[role="button"]:hover {
-  background: linear-gradient(120deg, var(--vf-cta-hover), #155e75);
-  transform: translateY(-1px);
-  box-shadow: 0 14px 24px rgba(15, 94, 138, 0.28);
-  filter: saturate(1.08);
-  color: #fff;
-}
-
 /* Homepage hero */
 .home-hero {
   background: linear-gradient(135deg, #0a1f35, #10365c 56%, #0f6a74);
@@ -839,18 +817,6 @@ body {
   color: var(--calv-text);
 }
 
-a {
-  color: var(--calv-accent);
-}
-
-a:hover {
-  color: var(--calv-link-hover);
-}
-
-a:visited {
-  color: var(--calv-accent-2);
-}
-
 h1,
 h2,
 h3,
@@ -1067,9 +1033,6 @@ strong {
   color: #64748b;
   line-height: 1.35;
 }
-.storefront-card a:hover .storefront-card-title {
-  color: #0f766e;
-}
 .storefront-card a:focus-visible {
   outline: 2px solid rgba(45, 212, 191, 0.85);
   outline-offset: -2px;
@@ -1228,68 +1191,6 @@ pre code {
   border: 1px solid var(--calv-border);
   border-radius: 12px;
   background: rgba(15, 23, 42, 0.02);
-}
-
-.calv-cta {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.35rem;
-  padding: 0.56rem 0.78rem;
-  border-radius: 10px;
-  border: 1px solid rgba(37, 99, 235, 0.2);
-  background: var(--calv-accent);
-  color: var(--calv-cta-text) !important;
-  text-decoration: none !important;
-  font-weight: 650;
-  font-size: 0.92rem;
-  line-height: 1.15;
-  box-shadow: 0 1px 2px rgba(15, 23, 42, 0.08);
-  transition: background-color 0.15s ease, border-color 0.15s ease, transform 0.15s ease;
-}
-
-.calv-cta:hover {
-  background: var(--calv-accent-hover);
-  border-color: rgba(29, 78, 216, 0.32);
-  transform: translateY(-1px);
-}
-
-.calv-cta:focus-visible {
-  outline: 3px solid var(--calv-focus);
-  outline-offset: 3px;
-}
-
-.calv-cta-secondary {
-  background: #ffffff;
-  color: var(--calv-accent) !important;
-  border: 1px solid rgba(37, 99, 235, 0.35);
-}
-
-.calv-cta-secondary:hover {
-  background: rgba(37, 99, 235, 0.08);
-  border-color: rgba(37, 99, 235, 0.5);
-}
-
-.home-hero a[role="button"],
-.main-menu a[role="button"],
-.calv-home-hero a[role="button"] {
-  color: #ffffff !important;
-  background: var(--calv-accent);
-  border: 1px solid rgba(11, 79, 145, 0.35);
-  box-shadow: 0 10px 22px rgba(15, 94, 138, 0.2);
-}
-
-.home-hero a[role="button"]:hover,
-.main-menu a[role="button"]:hover,
-.calv-home-hero a[role="button"]:hover {
-  background: var(--calv-accent-hover);
-  transform: translateY(-1px);
-}
-
-.home-hero a[role="button"]:focus-visible,
-.main-menu a[role="button"]:focus-visible,
-.calv-home-hero a[role="button"]:focus-visible {
-  outline: 3px solid var(--calv-focus);
-  outline-offset: 2px;
 }
 
 .calv-home-hero {
@@ -3672,7 +3573,7 @@ END DISABLED */
   --calv-accent: #c87910;
   --calv-accent-hover: #a6620b;
   --calv-accent-fg: #fffaf0;
-  --calv-link: #1f2937;
+  --calv-link: #a6620b;
   --calv-link-hover: #a6620b;
   --calv-focus: rgba(200, 121, 16, 0.34);
 }
@@ -3786,72 +3687,351 @@ END DISABLED */
   background: var(--calv-accent-hover) !important;
 }
 
-/* Global link standardization: neutral by default, amber on interaction */
-a[href]:not([role="button"]):not(.calv-btn):not(.storefront-btn) {
+.storefront-card {
+  position: relative;
+}
+
+.storefront-card a {
+  position: relative;
+  z-index: 1;
+  pointer-events: auto;
+}
+
+/* =========================================================
+   UNIFORM UI CONTRACT — edit interactive styles here; legacy rules above should not style hover colors.
+   Authoritative; overrides theme/storefront drift.
+   ========================================================= */
+
+/* Group A — Buttons / CTAs */
+main :where(
+  a[role="button"],
+  .storefront-btn,
+  .calv-cta,
+  .btn,
+  .btn-primary,
+  .btn-secondary,
+  a.button,
+  .button,
+  .btn-shortcode
+) {
+  background: var(--calv-accent) !important;
+  border-color: rgba(166, 98, 11, 0.5) !important;
+  color: var(--calv-accent-fg) !important;
+  text-decoration: none !important;
+}
+
+main :where(
+  a[role="button"],
+  .storefront-btn,
+  .calv-cta,
+  .btn,
+  .btn-primary,
+  .btn-secondary,
+  a.button,
+  .button,
+  .btn-shortcode
+):hover,
+main :where(
+  a[role="button"],
+  .storefront-btn,
+  .calv-cta,
+  .btn,
+  .btn-primary,
+  .btn-secondary,
+  a.button,
+  .button,
+  .btn-shortcode
+):focus-visible {
+  background: var(--calv-accent-hover) !important;
+  border-color: rgba(122, 67, 5, 0.52) !important;
+  color: var(--calv-accent-fg) !important;
+  text-decoration: none !important;
+  outline: 3px solid var(--calv-focus);
+  outline-offset: 2px;
+}
+
+main :where(
+  a[role="button"],
+  .storefront-btn,
+  .calv-cta,
+  .btn,
+  .btn-primary,
+  .btn-secondary,
+  a.button,
+  .button,
+  .btn-shortcode
+) * {
+  color: var(--calv-accent-fg) !important;
+}
+
+/* Group B — UI links (cards/tiles/modules), neutral by default -> amber on hover */
+main :where(
+  .home-storefront,
+  .storefront-grid-wrap,
+  .storefront-card,
+  .storefront-picks,
+  .vf-list-wrap,
+  .home-feature-card,
+  .home-pick-card,
+  .home-post-card,
+  .gear-feature-card,
+  .gear-review-card
+) a:not([role="button"]) {
+  color: var(--calv-fg);
+  text-decoration: none;
+}
+
+main :where(
+  .home-storefront,
+  .storefront-grid-wrap,
+  .storefront-card,
+  .storefront-picks,
+  .vf-list-wrap,
+  .home-feature-card,
+  .home-pick-card,
+  .home-post-card,
+  .gear-feature-card,
+  .gear-review-card
+) a:not([role="button"]):hover,
+main :where(
+  .home-storefront,
+  .storefront-grid-wrap,
+  .storefront-card,
+  .storefront-picks,
+  .vf-list-wrap,
+  .home-feature-card,
+  .home-pick-card,
+  .home-post-card,
+  .gear-feature-card,
+  .gear-review-card
+) a:not([role="button"]):focus-visible {
+  color: var(--calv-link-hover);
+  text-decoration: none;
+}
+
+main .storefront-card .storefront-card-title {
+  color: var(--calv-fg);
+}
+
+main .storefront-card a:hover .storefront-card-title,
+main .storefront-card a:focus-visible .storefront-card-title {
+  color: var(--calv-link-hover);
+}
+
+/* Group C — Prose/article links only */
+main :where(.article-content, .prose, .calv-article-shell .article-content) a[href]:not([role="button"]) {
   color: var(--calv-link);
   text-decoration: none;
   text-decoration-thickness: 2px;
   text-underline-offset: 2px;
 }
 
-a[href]:not([role="button"]):not(.calv-btn):not(.storefront-btn):hover {
+main :where(.article-content, .prose, .calv-article-shell .article-content) a[href]:not([role="button"]):visited {
+  color: var(--calv-link);
+}
+
+main :where(.article-content, .prose, .calv-article-shell .article-content) a[href]:not([role="button"]):hover,
+main :where(.article-content, .prose, .calv-article-shell .article-content) a[href]:not([role="button"]):focus-visible {
   color: var(--calv-link-hover);
   text-decoration: underline;
   text-decoration-color: currentColor;
 }
 
-a[href]:not([role="button"]):not(.calv-btn):not(.storefront-btn):focus-visible {
-  color: var(--calv-link-hover);
-  text-decoration: underline;
-  text-decoration-color: currentColor;
-  outline: 3px solid var(--calv-focus);
-  outline-offset: 2px;
-  border-radius: 0.25rem;
+/* Nav safety: keep nav text neutral while preserving existing amber pill backgrounds */
+.main-menu nav > a,
+.main-menu .nested-menu > .cursor-pointer > a {
+  color: var(--calv-fg) !important;
 }
 
-/* Keep article typography/theme rules from forcing legacy blue */
-.calv-article-shell .article-content.prose a:not([role="button"]) {
-  color: var(--calv-link) !important;
-  text-decoration: none !important;
+.main-menu nav > a:hover,
+.main-menu .nested-menu > .cursor-pointer > a:hover,
+.main-menu nav > a:focus-visible,
+.main-menu .nested-menu > .cursor-pointer > a:focus-visible {
+  color: var(--calv-fg) !important;
 }
 
-.calv-article-shell .article-content.prose a:not([role="button"]):hover {
-  color: var(--calv-link-hover) !important;
-  text-decoration: underline !important;
+.main-menu nav > a[aria-current="page"],
+.main-menu a:has(span.active) {
+  color: var(--calv-fg) !important;
 }
 
-.calv-article-shell .article-content.prose a:not([role="button"]):focus-visible {
-  color: var(--calv-link-hover) !important;
-  text-decoration: underline !important;
-  outline: 3px solid var(--calv-focus) !important;
-  outline-offset: 2px;
-}
-
-/* Header brand link: neutral default, hover/focus underline only */
-.main-menu > a.text-base.font-medium {
-  color: var(--calv-link) !important;
-  text-decoration: none !important;
-}
-
+.main-menu > a.text-base.font-medium,
 .main-menu > a.text-base.font-medium:hover,
 .main-menu > a.text-base.font-medium:focus-visible {
-  color: var(--calv-link-hover) !important;
-  text-decoration: underline !important;
-  text-decoration-thickness: 2px;
-  text-underline-offset: 3px;
+  color: var(--calv-fg) !important;
 }
 
-/* Footer and home tiles/picks follow the same interaction model */
-#site-footer a,
-.storefront-card a,
-.home-storefront a {
-  color: var(--calv-link);
-  text-decoration: none;
+.main-menu nav > a,
+.main-menu nav > a:hover,
+.main-menu nav > a:focus-visible,
+.main-menu nav > a[aria-current="page"],
+.main-menu a:has(span.active),
+.main-menu nav > a *,
+.main-menu nav > a:hover *,
+.main-menu nav > a:focus-visible *,
+.main-menu nav > a[aria-current="page"] * {
+  color: var(--calv-fg) !important;
+  opacity: 1 !important;
+  filter: none !important;
 }
 
-#site-footer a:hover,
-.storefront-card a:hover,
-.home-storefront a:hover {
-  color: var(--calv-link-hover) !important;
-  text-decoration: underline;
+/* Content pill/button contrast lock: off-white text in all states */
+main :where(
+  .article-content,
+  .prose,
+  .calv-article-shell .article-content
+) :is(
+  .calv-cta,
+  .calv-cta-secondary,
+  .storefront-btn,
+  .btn,
+  .btn-primary,
+  .btn-secondary,
+  a.button,
+  .button,
+  .btn-shortcode
+) {
+  color: var(--calv-accent-fg) !important;
+  text-decoration: none !important;
+}
+
+main :where(
+  .article-content,
+  .prose,
+  .calv-article-shell .article-content
+) :is(
+  .calv-cta,
+  .calv-cta-secondary,
+  .storefront-btn,
+  .btn,
+  .btn-primary,
+  .btn-secondary,
+  a.button,
+  .button,
+  .btn-shortcode
+):hover,
+main :where(
+  .article-content,
+  .prose,
+  .calv-article-shell .article-content
+) :is(
+  .calv-cta,
+  .calv-cta-secondary,
+  .storefront-btn,
+  .btn,
+  .btn-primary,
+  .btn-secondary,
+  a.button,
+  .button,
+  .btn-shortcode
+):focus-visible {
+  color: var(--calv-accent-fg) !important;
+  text-decoration: none !important;
+}
+
+main :where(
+  .article-content,
+  .prose,
+  .calv-article-shell .article-content
+) :is(
+  .calv-cta,
+  .calv-cta-secondary,
+  .storefront-btn,
+  .btn,
+  .btn-primary,
+  .btn-secondary,
+  a.button,
+  .button,
+  .btn-shortcode
+) * {
+  color: var(--calv-accent-fg) !important;
+}
+
+main :where(.article-content, .prose, .calv-article-shell .article-content) .calv-cta,
+main :where(.article-content, .prose, .calv-article-shell .article-content) .calv-cta.calv-cta-secondary,
+main :where(.article-content, .prose, .calv-article-shell .article-content) .calv-cta:hover,
+main :where(.article-content, .prose, .calv-article-shell .article-content) .calv-cta:focus-visible,
+main :where(.article-content, .prose, .calv-article-shell .article-content) .calv-cta.calv-cta-secondary:hover,
+main :where(.article-content, .prose, .calv-article-shell .article-content) .calv-cta.calv-cta-secondary:focus-visible {
+  color: var(--calv-accent-fg) !important;
+  text-decoration: none !important;
+}
+
+main :where(.article-content, .prose, .calv-article-shell .article-content) .calv-cta *,
+main :where(.article-content, .prose, .calv-article-shell .article-content) .calv-cta.calv-cta-secondary * {
+  color: var(--calv-accent-fg) !important;
+  opacity: 1 !important;
+}
+
+/* Hard safety locks for the specific still-broken elements */
+.main-menu nav > a.bf-icon-color-hover,
+.main-menu nav > a.bf-icon-color-hover > span,
+.main-menu nav > a.bf-icon-color-hover:hover,
+.main-menu nav > a.bf-icon-color-hover:hover > span,
+.main-menu nav > a.bf-icon-color-hover:focus-visible,
+.main-menu nav > a.bf-icon-color-hover:focus-visible > span,
+.main-menu nav > a.bf-icon-color-hover[aria-current="page"],
+.main-menu nav > a.bf-icon-color-hover[aria-current="page"] > span {
+  color: var(--calv-fg) !important;
+  -webkit-text-fill-color: var(--calv-fg) !important;
+  opacity: 1 !important;
+  filter: none !important;
+}
+
+main :where(
+  .storefront-btn.storefront-btn-primary,
+  .storefront-btn.storefront-btn-ghost,
+  .calv-cta,
+  .calv-cta.calv-cta-secondary,
+  .btn-shortcode,
+  .btn-primary,
+  .btn-secondary,
+  a[role="button"]
+) {
+  color: var(--calv-accent-fg) !important;
+  -webkit-text-fill-color: var(--calv-accent-fg) !important;
+  opacity: 1 !important;
+  filter: none !important;
+}
+
+main :where(
+  .storefront-btn.storefront-btn-primary,
+  .storefront-btn.storefront-btn-ghost,
+  .calv-cta,
+  .calv-cta.calv-cta-secondary,
+  .btn-shortcode,
+  .btn-primary,
+  .btn-secondary,
+  a[role="button"]
+):hover,
+main :where(
+  .storefront-btn.storefront-btn-primary,
+  .storefront-btn.storefront-btn-ghost,
+  .calv-cta,
+  .calv-cta.calv-cta-secondary,
+  .btn-shortcode,
+  .btn-primary,
+  .btn-secondary,
+  a[role="button"]
+):focus-visible {
+  color: var(--calv-accent-fg) !important;
+  -webkit-text-fill-color: var(--calv-accent-fg) !important;
+  opacity: 1 !important;
+  filter: none !important;
+  text-decoration: none !important;
+}
+
+main :where(
+  .storefront-btn.storefront-btn-primary,
+  .storefront-btn.storefront-btn-ghost,
+  .calv-cta,
+  .calv-cta.calv-cta-secondary,
+  .btn-shortcode,
+  .btn-primary,
+  .btn-secondary,
+  a[role="button"]
+) * {
+  color: var(--calv-accent-fg) !important;
+  -webkit-text-fill-color: var(--calv-accent-fg) !important;
+  opacity: 1 !important;
 }

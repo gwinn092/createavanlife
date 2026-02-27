@@ -1,23 +1,143 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags/Site Map on Create A Van Life</title>
-    <link>http://localhost:1313/tags/site-map/</link>
-    <description>Recent content in Tags/Site Map on Create A Van Life</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>© 2026 Moments in the Miles</copyright>
-    <lastBuildDate>Sun, 22 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/site-map/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Site Map: All Guides</title>
-      <link>http://localhost:1313/site-map/</link>
-      <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/site-map/</guid>
-      <description>&lt;p&gt;If you are new, start with &lt;strong&gt;&lt;a href=&#34;http://localhost:1313/start-here/&#34; &gt;Start Here&lt;/a&gt;&lt;/strong&gt; first, then use this page as a full index.&lt;/p&gt;&#xA;&lt;p&gt;Use:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/start-here/&#34; &gt;Start Here&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/how-we-test-and-source-van-power/&#34; &gt;How We Test and Source Van Power&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Start here + core hubs&#xA;    &lt;div id=&#34;start-here--core-hubs&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#start-here--core-hubs&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/start-here/&#34; &gt;Start Here&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/van-power-stability-scorecard/&#34; &gt;Van Power Stability Scorecard&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/recovery-moves-index/&#34; &gt;Recovery Moves Index&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/van-power-conditions-index/&#34; &gt;Van Power Conditions Index&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/fast-charging-buyer-guides/&#34; &gt;Fast-Charging Buyer Guides&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Buyer guides&#xA;    &lt;div id=&#34;buyer-guides&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#buyer-guides&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/best-fast-charging-power-stations/&#34; &gt;Best Fast-Charging Power Stations&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/best-fast-charging-power-stations-under-1000/&#34; &gt;Best Fast-Charging Power Stations Under $1000&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/best-fast-charging-power-stations-for-essentials/&#34; &gt;Best Fast-Charging Power Stations for Essentials&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/best-fast-charging-power-stations-for-work/&#34; &gt;Best Fast-Charging Power Stations for Work&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/best-fast-charging-power-stations-for-heat-and-humidity/&#34; &gt;Best Fast-Charging Power Stations for Heat + Humidity&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/best-fast-charging-power-stations-for-cold-weather/&#34; &gt;Best Fast-Charging Power Stations for Cold Weather&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/fast-charging-power-station-buyer-checklist/&#34; &gt;Fast-Charging Power Station Buyer Checklist&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/best-of/power-stations-under-500/&#34; &gt;Portable Power Stations Under $500&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/under-500-to-tier-2-upgrade-bridge/&#34; &gt;Under-$500 to Tier 2 Upgrade Bridge&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Routines + system spine&#xA;    &lt;div id=&#34;routines--system-spine&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#routines--system-spine&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/van-power-recovery-stack/&#34; &gt;Van Power Recovery Stack&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/daily-van-power-mode-system/&#34; &gt;Daily Van Power Mode System&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/morning-van-power-check/&#34; &gt;Morning Van Power Check&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/midday-power-check/&#34; &gt;Midday Van Power Check&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/overnight-van-power-checklist/&#34; &gt;Overnight Van Power Checklist&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/van-power-weekly-reset-routine/&#34; &gt;Van Power Weekly Reset Routine&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/quiet-hours-recovery-plan/&#34; &gt;Quiet Hours Recovery Plan&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/van-power-planning-mistakes/&#34; &gt;Van Power Planning Mistakes&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Conditions (top)&#xA;    &lt;div id=&#34;conditions-top&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#conditions-top&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/van-power-conditions-index/&#34; &gt;Van Power Conditions Index&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/heat-and-humidity-van-power-recovery/&#34; &gt;Heat + Humidity Van Power Recovery&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/hot-and-cloudy-van-power-recovery/&#34; &gt;Hot + Cloudy Van Power Recovery&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/cold-and-cloudy-van-power-recovery/&#34; &gt;Cold + Cloudy Van Power Recovery&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/parking-constraints-van-power-recovery/&#34; &gt;Parking Constraints Van Power Recovery&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/work-pressure-van-power-recovery/&#34; &gt;Work Pressure Van Power Recovery&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/generator-free-van-power-recovery/&#34; &gt;Generator-Free Van Power Recovery&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/coastal-humidity-electronics-care/&#34; &gt;Coastal Humidity Electronics Care&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Essentials baseline&#xA;    &lt;div id=&#34;essentials-baseline&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#essentials-baseline&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/van-fridge-power-stability/&#34; &gt;Van Fridge Power Stability&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/van-cooling-power-stability/&#34; &gt;Van Cooling Power Stability&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/cpap-power-stability-van-life/&#34; &gt;CPAP Power Stability in Van Life&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/dog-comfort-power-stability-van-life/&#34; &gt;Dog Comfort Power Stability in Van Life&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/starlink-and-internet-power-stability/&#34; &gt;Starlink + Internet Power Stability&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Upgrade guidance&#xA;    &lt;div id=&#34;upgrade-guidance&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#upgrade-guidance&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/van-power-upgrade-decision-tree/&#34; &gt;Van Power Upgrade Decision Tree&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/van-power-upgrade-checklist/&#34; &gt;Van Power Upgrade Checklist&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/van-power-upgrade-paths/&#34; &gt;Van Power Upgrade Paths&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/van-power-upgrade-mistakes/&#34; &gt;Van Power Upgrade Mistakes&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/tier-2-bad-week-protocol/&#34; &gt;Tier 2 Bad Week Protocol&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/under-1000-upgrade-plan/&#34; &gt;Under-$1000 Upgrade Plan&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Gear (no wiring)&#xA;    &lt;div id=&#34;gear-no-wiring&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#gear-no-wiring&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/gear-that-improves-van-power-stability/&#34; &gt;Gear That Improves Van Power Stability&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Next step&#xA;    &lt;div id=&#34;next-step&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#next-step&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Next step: start with &lt;strong&gt;&lt;a href=&#34;http://localhost:1313/start-here/&#34; &gt;Start Here&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;</description>
-      
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags/Site Map on Create A Van Life</title><link>https://gwinn092.github.io/van.affiliation/tags/site-map/</link><description>Recent content in Tags/Site Map on Create A Van Life</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2026 Create A Van Life</copyright><lastBuildDate>Sun, 22 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://gwinn092.github.io/van.affiliation/tags/site-map/index.xml" rel="self" type="application/rss+xml"/><item><title>Site Map: All Guides</title><link>https://gwinn092.github.io/van.affiliation/site-map/</link><pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate><guid>https://gwinn092.github.io/van.affiliation/site-map/</guid><description>&lt;p&gt;If you are new, start with &lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/start-here/" &gt;Start Here&lt;/a&gt;&lt;/strong&gt; first, then use this page as a full index.&lt;/p&gt;
+&lt;p&gt;Use:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/start-here/" &gt;Start Here&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/how-we-test-and-source-van-power/" &gt;How We Test and Source Van Power&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class="relative group"&gt;Start here + core hubs
+ &lt;div id="start-here--core-hubs" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#start-here--core-hubs" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/start-here/" &gt;Start Here&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/van-power-stability-scorecard/" &gt;Van Power Stability Scorecard&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/recovery-moves-index/" &gt;Recovery Moves Index&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/van-power-conditions-index/" &gt;Van Power Conditions Index&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/fast-charging-buyer-guides/" &gt;Fast-Charging Buyer Guides&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class="relative group"&gt;Buyer guides
+ &lt;div id="buyer-guides" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#buyer-guides" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/best-fast-charging-power-stations/" &gt;Best Fast-Charging Power Stations&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/best-fast-charging-power-stations-under-1000/" &gt;Best Fast-Charging Power Stations Under $1000&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/best-fast-charging-power-stations-for-essentials/" &gt;Best Fast-Charging Power Stations for Essentials&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/best-fast-charging-power-stations-for-work/" &gt;Best Fast-Charging Power Stations for Work&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/best-fast-charging-power-stations-for-heat-and-humidity/" &gt;Best Fast-Charging Power Stations for Heat + Humidity&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/best-fast-charging-power-stations-for-cold-weather/" &gt;Best Fast-Charging Power Stations for Cold Weather&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/fast-charging-power-station-buyer-checklist/" &gt;Fast-Charging Power Station Buyer Checklist&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/best-of/power-stations-under-500/" &gt;Portable Power Stations Under $500&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/under-500-to-tier-2-upgrade-bridge/" &gt;Under-$500 to Tier 2 Upgrade Bridge&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class="relative group"&gt;Routines + system spine
+ &lt;div id="routines--system-spine" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#routines--system-spine" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/van-power-recovery-stack/" &gt;Van Power Recovery Stack&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/daily-van-power-mode-system/" &gt;Daily Van Power Mode System&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/morning-van-power-check/" &gt;Morning Van Power Check&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/midday-power-check/" &gt;Midday Van Power Check&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/overnight-van-power-checklist/" &gt;Overnight Van Power Checklist&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/van-power-weekly-reset-routine/" &gt;Van Power Weekly Reset Routine&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/quiet-hours-recovery-plan/" &gt;Quiet Hours Recovery Plan&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/van-power-planning-mistakes/" &gt;Van Power Planning Mistakes&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class="relative group"&gt;Conditions (top)
+ &lt;div id="conditions-top" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#conditions-top" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/van-power-conditions-index/" &gt;Van Power Conditions Index&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/heat-and-humidity-van-power-recovery/" &gt;Heat + Humidity Van Power Recovery&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/hot-and-cloudy-van-power-recovery/" &gt;Hot + Cloudy Van Power Recovery&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/cold-and-cloudy-van-power-recovery/" &gt;Cold + Cloudy Van Power Recovery&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/parking-constraints-van-power-recovery/" &gt;Parking Constraints Van Power Recovery&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/work-pressure-van-power-recovery/" &gt;Work Pressure Van Power Recovery&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/generator-free-van-power-recovery/" &gt;Generator-Free Van Power Recovery&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/coastal-humidity-electronics-care/" &gt;Coastal Humidity Electronics Care&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class="relative group"&gt;Essentials baseline
+ &lt;div id="essentials-baseline" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#essentials-baseline" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/van-fridge-power-stability/" &gt;Van Fridge Power Stability&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/van-cooling-power-stability/" &gt;Van Cooling Power Stability&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/cpap-power-stability-van-life/" &gt;CPAP Power Stability in Van Life&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/dog-comfort-power-stability-van-life/" &gt;Dog Comfort Power Stability in Van Life&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/starlink-and-internet-power-stability/" &gt;Starlink + Internet Power Stability&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class="relative group"&gt;Upgrade guidance
+ &lt;div id="upgrade-guidance" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#upgrade-guidance" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/van-power-upgrade-decision-tree/" &gt;Van Power Upgrade Decision Tree&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/van-power-upgrade-checklist/" &gt;Van Power Upgrade Checklist&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/van-power-upgrade-paths/" &gt;Van Power Upgrade Paths&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/van-power-upgrade-mistakes/" &gt;Van Power Upgrade Mistakes&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/tier-2-bad-week-protocol/" &gt;Tier 2 Bad Week Protocol&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/under-1000-upgrade-plan/" &gt;Under-$1000 Upgrade Plan&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class="relative group"&gt;Gear (no wiring)
+ &lt;div id="gear-no-wiring" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#gear-no-wiring" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/gear-that-improves-van-power-stability/" &gt;Gear That Improves Van Power Stability&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class="relative group"&gt;Next step
+ &lt;div id="next-step" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#next-step" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;Next step: start with &lt;strong&gt;&lt;a href="https://gwinn092.github.io/van.affiliation/start-here/" &gt;Start Here&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;</description></item></channel></rss>

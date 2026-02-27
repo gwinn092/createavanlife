@@ -1,83 +1,150 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Categories/Best-Of on Create A Van Life</title>
-    <link>http://localhost:1313/categories/best-of/</link>
-    <description>Recent content in Categories/Best-Of on Create A Van Life</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>© 2026 Moments in the Miles</copyright>
-    <lastBuildDate>Sun, 22 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/best-of/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Best High-Capacity Portable Power Stations for Van Life</title>
-      <link>http://localhost:1313/best-of/high-capacity-power-stations/</link>
-      <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/best-of/high-capacity-power-stations/</guid>
-      <description>&lt;p&gt;High-capacity portable stations are for van setups that have moved past occasional charging and into daily, sustained energy use. If your workflow includes long laptop blocks, Starlink time, or electric cooking bursts, this is the tier where power stops feeling tight.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Best Budget Build Tools for a First Van Conversion</title>
-      <link>http://localhost:1313/best-of/budget-build-tools/</link>
-      <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/best-of/budget-build-tools/</guid>
-      <description>&lt;p&gt;You do not need a garage full of tools for a strong first build. You need a small set of reliable tools and a clear sequence.&lt;/p&gt;&#xA;&#xA;&lt;div class=&#34;callout-shortcode&#34;&gt;&#xA;  &lt;p class=&#34;callout-title&#34;&gt;Quick Answer&lt;/p&gt;&#xA;  &lt;div class=&#34;callout-body&#34;&gt;Buy fewer tools but buy reliable core tools: drill/driver, jigsaw, rivnut tool, crimper, torque wrench, and safety gear.&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;We’re keeping this high-level—no wiring instructions here. For installs, follow manufacturer guidance or work with a qualified installer.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Best Budget Solar for Van Life</title>
-      <link>http://localhost:1313/best-of/van-solar/</link>
-      <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/best-of/van-solar/</guid>
-      <description>&lt;p&gt;If you want the quick answer: most budget builders should start with a &lt;strong&gt;200W to 400W system&lt;/strong&gt; paired with a battery bank sized for one day of normal use. Oversizing too early is one of the fastest ways to blow a build budget.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Best Budget Van Kitchen Gear</title>
-      <link>http://localhost:1313/best-of/van-kitchen/</link>
-      <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/best-of/van-kitchen/</guid>
-      <description>&lt;p&gt;A smart van kitchen should reduce daily spend and friction. Complicated builds often fail because they are harder to clean and maintain.&lt;/p&gt;&#xA;&#xA;&lt;div class=&#34;callout-shortcode&#34;&gt;&#xA;  &lt;p class=&#34;callout-title&#34;&gt;Quick Answer&lt;/p&gt;&#xA;  &lt;div class=&#34;callout-body&#34;&gt;Start with a two-burner stove, compact food prep tools, and a cleanup flow you can run in under 10 minutes.&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;comparetable-wrap my-6&#34;&gt;&#xA;  &lt;div class=&#34;overflow-x-auto hidden md:block&#34;&gt;&#xA;    &lt;table class=&#34;min-w-full border-collapse text-sm&#34;&gt;&#xA;      &lt;thead&gt;&#xA;        &lt;tr&gt;&#xA;          &lt;th class=&#34;border-b p-3 text-left&#34;&gt;Product&lt;/th&gt;&#xA;          &lt;th class=&#34;border-b p-3 text-left&#34;&gt;Best For&lt;/th&gt;&#xA;          &lt;th class=&#34;border-b p-3 text-left&#34;&gt;Price&lt;/th&gt;&#xA;          &lt;th class=&#34;border-b p-3 text-left&#34;&gt;Pros&lt;/th&gt;&#xA;          &lt;th class=&#34;border-b p-3 text-left&#34;&gt;Cons&lt;/th&gt;&#xA;          &lt;th class=&#34;border-b p-3 text-left&#34;&gt;CTA&lt;/th&gt;&#xA;        &lt;/tr&gt;&#xA;      &lt;/thead&gt;&#xA;      &lt;tbody&gt;&lt;tr&gt;&#xA;            &lt;td class=&#34;border-b p-3 font-semibold&#34;&gt;Two-Burner Camp Stove&lt;/td&gt;&#xA;            &lt;td class=&#34;border-b p-3&#34;&gt;Daily meal prep&lt;/td&gt;&#xA;            &lt;td class=&#34;border-b p-3&#34;&gt;$$&lt;/td&gt;&#xA;            &lt;td class=&#34;border-b p-3&#34;&gt;Fast and simple cooking&lt;/td&gt;&#xA;            &lt;td class=&#34;border-b p-3&#34;&gt;Fuel management required&lt;/td&gt;&#xA;            &lt;td class=&#34;border-b p-3&#34;&gt;&lt;span class=&#34;inline-flex items-center justify-center rounded-md px-4 py-2 font-semibold shadow-sm border border-neutral-300 bg-transparent text-neutral-500 opacity-70 cursor-not-allowed&#34; aria-disabled=&#34;true&#34;&gt;Link coming soon&lt;/span&gt;&lt;/td&gt;&#xA;          &lt;/tr&gt;&lt;tr&gt;&#xA;            &lt;td class=&#34;border-b p-3 font-semibold&#34;&gt;Compact Cookware Kit&lt;/td&gt;&#xA;            &lt;td class=&#34;border-b p-3&#34;&gt;Small storage builds&lt;/td&gt;&#xA;            &lt;td class=&#34;border-b p-3&#34;&gt;$$&lt;/td&gt;&#xA;            &lt;td class=&#34;border-b p-3&#34;&gt;Space-saving and easy cleanup&lt;/td&gt;&#xA;            &lt;td class=&#34;border-b p-3&#34;&gt;Some kits trade durability&lt;/td&gt;&#xA;            &lt;td class=&#34;border-b p-3&#34;&gt;&lt;span class=&#34;inline-flex items-center justify-center rounded-md px-4 py-2 font-semibold shadow-sm border border-neutral-300 bg-transparent text-neutral-500 opacity-70 cursor-not-allowed&#34; aria-disabled=&#34;true&#34;&gt;Link coming soon&lt;/span&gt;&lt;/td&gt;&#xA;          &lt;/tr&gt;&lt;tr&gt;&#xA;            &lt;td class=&#34;border-b p-3 font-semibold&#34;&gt;Van Fridge &amp;#43; Pantry Combo&lt;/td&gt;&#xA;            &lt;td class=&#34;border-b p-3&#34;&gt;Full-time convenience&lt;/td&gt;&#xA;            &lt;td class=&#34;border-b p-3&#34;&gt;$$$&lt;/td&gt;&#xA;            &lt;td class=&#34;border-b p-3&#34;&gt;Better food quality and savings&lt;/td&gt;&#xA;            &lt;td class=&#34;border-b p-3&#34;&gt;Higher upfront cost&lt;/td&gt;&#xA;            &lt;td class=&#34;border-b p-3&#34;&gt;&lt;span class=&#34;inline-flex items-center justify-center rounded-md px-4 py-2 font-semibold shadow-sm border border-neutral-300 bg-transparent text-neutral-500 opacity-70 cursor-not-allowed&#34; aria-disabled=&#34;true&#34;&gt;Link coming soon&lt;/span&gt;&lt;/td&gt;&#xA;          &lt;/tr&gt;&lt;/tbody&gt;&#xA;    &lt;/table&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &lt;div class=&#34;space-y-3 md:hidden&#34;&gt;&lt;article class=&#34;rounded-lg border p-4&#34;&gt;&#xA;        &lt;h3 class=&#34;text-base font-semibold&#34;&gt;Two-Burner Camp Stove&lt;/h3&gt;&#xA;        &lt;p class=&#34;mt-2 text-sm&#34;&gt;&lt;strong&gt;Best For:&lt;/strong&gt; Daily meal prep&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Best Internet Setup for Van Life</title>
-      <link>http://localhost:1313/best-of/van-internet/</link>
-      <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/best-of/van-internet/</guid>
-      <description>&lt;p&gt;The best van internet setup is not one device. It is a layered strategy: carrier diversity, antenna quality, and power-aware hardware.&lt;/p&gt;&#xA;&#xA;&lt;div class=&#34;callout-shortcode&#34;&gt;&#xA;  &lt;p class=&#34;callout-title&#34;&gt;Quick Answer&lt;/p&gt;&#xA;  &lt;div class=&#34;callout-body&#34;&gt;For most remote workers: start with a quality hotspot, an external antenna path, and a backup SIM/network. Reliability beats peak speed.&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;comparetable-wrap my-6&#34;&gt;&#xA;  &lt;div class=&#34;overflow-x-auto hidden md:block&#34;&gt;&#xA;    &lt;table class=&#34;min-w-full border-collapse text-sm&#34;&gt;&#xA;      &lt;thead&gt;&#xA;        &lt;tr&gt;&#xA;          &lt;th class=&#34;border-b p-3 text-left&#34;&gt;Product&lt;/th&gt;&#xA;          &lt;th class=&#34;border-b p-3 text-left&#34;&gt;Best For&lt;/th&gt;&#xA;          &lt;th class=&#34;border-b p-3 text-left&#34;&gt;Price&lt;/th&gt;&#xA;          &lt;th class=&#34;border-b p-3 text-left&#34;&gt;Pros&lt;/th&gt;&#xA;          &lt;th class=&#34;border-b p-3 text-left&#34;&gt;Cons&lt;/th&gt;&#xA;          &lt;th class=&#34;border-b p-3 text-left&#34;&gt;CTA&lt;/th&gt;&#xA;        &lt;/tr&gt;&#xA;      &lt;/thead&gt;&#xA;      &lt;tbody&gt;&lt;tr&gt;&#xA;            &lt;td class=&#34;border-b p-3 font-semibold&#34;&gt;Van Hotspot Router Setup&lt;/td&gt;&#xA;            &lt;td class=&#34;border-b p-3&#34;&gt;Full-time remote work&lt;/td&gt;&#xA;            &lt;td class=&#34;border-b p-3&#34;&gt;$$&lt;/td&gt;&#xA;            &lt;td class=&#34;border-b p-3&#34;&gt;Reliable uplink and flexible install&lt;/td&gt;&#xA;            &lt;td class=&#34;border-b p-3&#34;&gt;More setup complexity&lt;/td&gt;&#xA;            &lt;td class=&#34;border-b p-3&#34;&gt;&lt;span class=&#34;inline-flex items-center justify-center rounded-md px-4 py-2 font-semibold shadow-sm border border-neutral-300 bg-transparent text-neutral-500 opacity-70 cursor-not-allowed&#34; aria-disabled=&#34;true&#34;&gt;Link coming soon&lt;/span&gt;&lt;/td&gt;&#xA;          &lt;/tr&gt;&lt;tr&gt;&#xA;            &lt;td class=&#34;border-b p-3 font-semibold&#34;&gt;Signal Booster Kit&lt;/td&gt;&#xA;            &lt;td class=&#34;border-b p-3&#34;&gt;Weak-signal zones&lt;/td&gt;&#xA;            &lt;td class=&#34;border-b p-3&#34;&gt;$$$&lt;/td&gt;&#xA;            &lt;td class=&#34;border-b p-3&#34;&gt;Better call/data stability&lt;/td&gt;&#xA;            &lt;td class=&#34;border-b p-3&#34;&gt;Can amplify weak/noisy signal&lt;/td&gt;&#xA;            &lt;td class=&#34;border-b p-3&#34;&gt;&lt;span class=&#34;inline-flex items-center justify-center rounded-md px-4 py-2 font-semibold shadow-sm border border-neutral-300 bg-transparent text-neutral-500 opacity-70 cursor-not-allowed&#34; aria-disabled=&#34;true&#34;&gt;Link coming soon&lt;/span&gt;&lt;/td&gt;&#xA;          &lt;/tr&gt;&lt;tr&gt;&#xA;            &lt;td class=&#34;border-b p-3 font-semibold&#34;&gt;Phone Tether Backup Setup&lt;/td&gt;&#xA;            &lt;td class=&#34;border-b p-3&#34;&gt;Tight budgets&lt;/td&gt;&#xA;            &lt;td class=&#34;border-b p-3&#34;&gt;$&lt;/td&gt;&#xA;            &lt;td class=&#34;border-b p-3&#34;&gt;Lowest-cost backup strategy&lt;/td&gt;&#xA;            &lt;td class=&#34;border-b p-3&#34;&gt;Inconsistent under heavy work use&lt;/td&gt;&#xA;            &lt;td class=&#34;border-b p-3&#34;&gt;&lt;span class=&#34;inline-flex items-center justify-center rounded-md px-4 py-2 font-semibold shadow-sm border border-neutral-300 bg-transparent text-neutral-500 opacity-70 cursor-not-allowed&#34; aria-disabled=&#34;true&#34;&gt;Link coming soon&lt;/span&gt;&lt;/td&gt;&#xA;          &lt;/tr&gt;&lt;/tbody&gt;&#xA;    &lt;/table&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &lt;div class=&#34;space-y-3 md:hidden&#34;&gt;&lt;article class=&#34;rounded-lg border p-4&#34;&gt;&#xA;        &lt;h3 class=&#34;text-base font-semibold&#34;&gt;Van Hotspot Router Setup&lt;/h3&gt;&#xA;        &lt;p class=&#34;mt-2 text-sm&#34;&gt;&lt;strong&gt;Best For:&lt;/strong&gt; Full-time remote work&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Best Van Fans and Ventilation Setups</title>
-      <link>http://localhost:1313/best-of/best-van-fans/</link>
-      <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/best-of/best-van-fans/</guid>
-      <description>&lt;p&gt;Ventilation is not optional. It protects sleep quality, reduces mold risk, and keeps summer trips manageable.&lt;/p&gt;&#xA;&#xA;&lt;div class=&#34;callout-shortcode&#34;&gt;&#xA;  &lt;p class=&#34;callout-title&#34;&gt;Quick Answer&lt;/p&gt;&#xA;  &lt;div class=&#34;callout-body&#34;&gt;Best all-around performance for full-time use: &lt;strong&gt;MaxxAir MaxxFan Deluxe 7500&lt;/strong&gt;. Best budget option: &lt;strong&gt;MaxxAir 4500&lt;/strong&gt; if you can live without premium controls.&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;comparetable-wrap my-6&#34;&gt;&#xA;  &lt;div class=&#34;overflow-x-auto hidden md:block&#34;&gt;&#xA;    &lt;table class=&#34;min-w-full border-collapse text-sm&#34;&gt;&#xA;      &lt;thead&gt;&#xA;        &lt;tr&gt;&#xA;          &lt;th class=&#34;border-b p-3 text-left&#34;&gt;Product&lt;/th&gt;&#xA;          &lt;th class=&#34;border-b p-3 text-left&#34;&gt;Best For&lt;/th&gt;&#xA;          &lt;th class=&#34;border-b p-3 text-left&#34;&gt;Price&lt;/th&gt;&#xA;          &lt;th class=&#34;border-b p-3 text-left&#34;&gt;Pros&lt;/th&gt;&#xA;          &lt;th class=&#34;border-b p-3 text-left&#34;&gt;Cons&lt;/th&gt;&#xA;          &lt;th class=&#34;border-b p-3 text-left&#34;&gt;CTA&lt;/th&gt;&#xA;        &lt;/tr&gt;&#xA;      &lt;/thead&gt;&#xA;      &lt;tbody&gt;&lt;tr&gt;&#xA;            &lt;td class=&#34;border-b p-3 font-semibold&#34;&gt;MaxxAir MaxxFan Deluxe 7500&lt;/td&gt;&#xA;            &lt;td class=&#34;border-b p-3&#34;&gt;Full-time comfort&lt;/td&gt;&#xA;            &lt;td class=&#34;border-b p-3&#34;&gt;$$&lt;/td&gt;&#xA;            &lt;td class=&#34;border-b p-3&#34;&gt;Strong airflow and weather usability&lt;/td&gt;&#xA;            &lt;td class=&#34;border-b p-3&#34;&gt;Higher upfront cost&lt;/td&gt;&#xA;            &lt;td class=&#34;border-b p-3&#34;&gt;&lt;span class=&#34;inline-flex items-center justify-center rounded-md px-4 py-2 font-semibold shadow-sm border border-neutral-300 bg-transparent text-neutral-500 opacity-70 cursor-not-allowed&#34; aria-disabled=&#34;true&#34;&gt;Link coming soon&lt;/span&gt;&lt;/td&gt;&#xA;          &lt;/tr&gt;&lt;tr&gt;&#xA;            &lt;td class=&#34;border-b p-3 font-semibold&#34;&gt;MaxxAir 4500&lt;/td&gt;&#xA;            &lt;td class=&#34;border-b p-3&#34;&gt;Budget builds&lt;/td&gt;&#xA;            &lt;td class=&#34;border-b p-3&#34;&gt;$$&lt;/td&gt;&#xA;            &lt;td class=&#34;border-b p-3&#34;&gt;Reliable core airflow at lower price&lt;/td&gt;&#xA;            &lt;td class=&#34;border-b p-3&#34;&gt;Fewer convenience features&lt;/td&gt;&#xA;            &lt;td class=&#34;border-b p-3&#34;&gt;&lt;span class=&#34;inline-flex items-center justify-center rounded-md px-4 py-2 font-semibold shadow-sm border border-neutral-300 bg-transparent text-neutral-500 opacity-70 cursor-not-allowed&#34; aria-disabled=&#34;true&#34;&gt;Link coming soon&lt;/span&gt;&lt;/td&gt;&#xA;          &lt;/tr&gt;&lt;tr&gt;&#xA;            &lt;td class=&#34;border-b p-3 font-semibold&#34;&gt;CRL T-Vent Window (ProMaster)&lt;/td&gt;&#xA;            &lt;td class=&#34;border-b p-3&#34;&gt;Passive airflow boosts&lt;/td&gt;&#xA;            &lt;td class=&#34;border-b p-3&#34;&gt;$$$&lt;/td&gt;&#xA;            &lt;td class=&#34;border-b p-3&#34;&gt;Better crossflow and condensation control&lt;/td&gt;&#xA;            &lt;td class=&#34;border-b p-3&#34;&gt;Extra install complexity&lt;/td&gt;&#xA;            &lt;td class=&#34;border-b p-3&#34;&gt;&lt;span class=&#34;inline-flex items-center justify-center rounded-md px-4 py-2 font-semibold shadow-sm border border-neutral-300 bg-transparent text-neutral-500 opacity-70 cursor-not-allowed&#34; aria-disabled=&#34;true&#34;&gt;Link coming soon&lt;/span&gt;&lt;/td&gt;&#xA;          &lt;/tr&gt;&lt;/tbody&gt;&#xA;    &lt;/table&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &lt;div class=&#34;space-y-3 md:hidden&#34;&gt;&lt;article class=&#34;rounded-lg border p-4&#34;&gt;&#xA;        &lt;h3 class=&#34;text-base font-semibold&#34;&gt;MaxxAir MaxxFan Deluxe 7500&lt;/h3&gt;&#xA;        &lt;p class=&#34;mt-2 text-sm&#34;&gt;&lt;strong&gt;Best For:&lt;/strong&gt; Full-time comfort&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Portable Power Stations Under $500 for Van Life (Recovery-First)</title>
-      <link>http://localhost:1313/best-of/power-stations-under-500/</link>
-      <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/best-of/power-stations-under-500/</guid>
-      <description>&lt;p&gt;Portable power stations under $500 are one of the smartest entry points into van life — &lt;strong&gt;if you understand their limits&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;After 8 years full-time living in a van through Colorado winters, Florida humidity, Arizona sun, and long cross-country seasons, here’s the honest truth:&lt;/p&gt;</description>
-      
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories/Best-Of on Create A Van Life</title><link>https://gwinn092.github.io/van.affiliation/categories/best-of/</link><description>Recent content in Categories/Best-Of on Create A Van Life</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2026 Create A Van Life</copyright><lastBuildDate>Sun, 22 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://gwinn092.github.io/van.affiliation/categories/best-of/index.xml" rel="self" type="application/rss+xml"/><item><title>Best High-Capacity Portable Power Stations for Van Life</title><link>https://gwinn092.github.io/van.affiliation/best-of/high-capacity-power-stations/</link><pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate><guid>https://gwinn092.github.io/van.affiliation/best-of/high-capacity-power-stations/</guid><description>&lt;p&gt;High-capacity portable stations are for van setups that have moved past occasional charging and into daily, sustained energy use. If your workflow includes long laptop blocks, Starlink time, or electric cooking bursts, this is the tier where power stops feeling tight.&lt;/p&gt;</description></item><item><title>Best Budget Build Tools for a First Van Conversion</title><link>https://gwinn092.github.io/van.affiliation/best-of/budget-build-tools/</link><pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate><guid>https://gwinn092.github.io/van.affiliation/best-of/budget-build-tools/</guid><description>&lt;p&gt;You do not need a garage full of tools for a strong first build. You need a small set of reliable tools and a clear sequence.&lt;/p&gt;
+
+&lt;div class="callout-shortcode"&gt;
+ &lt;p class="callout-title"&gt;Quick Answer&lt;/p&gt;
+ &lt;div class="callout-body"&gt;Buy fewer tools but buy reliable core tools: drill/driver, jigsaw, rivnut tool, crimper, torque wrench, and safety gear.&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;We’re keeping this high-level—no wiring instructions here. For installs, follow manufacturer guidance or work with a qualified installer.&lt;/p&gt;</description></item><item><title>Best Budget Solar for Van Life</title><link>https://gwinn092.github.io/van.affiliation/best-of/van-solar/</link><pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate><guid>https://gwinn092.github.io/van.affiliation/best-of/van-solar/</guid><description>&lt;p&gt;If you want the quick answer: most budget builders should start with a &lt;strong&gt;200W to 400W system&lt;/strong&gt; paired with a battery bank sized for one day of normal use. Oversizing too early is one of the fastest ways to blow a build budget.&lt;/p&gt;</description></item><item><title>Best Budget Van Kitchen Gear</title><link>https://gwinn092.github.io/van.affiliation/best-of/van-kitchen/</link><pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate><guid>https://gwinn092.github.io/van.affiliation/best-of/van-kitchen/</guid><description>&lt;p&gt;A smart van kitchen should reduce daily spend and friction. Complicated builds often fail because they are harder to clean and maintain.&lt;/p&gt;
+
+&lt;div class="callout-shortcode"&gt;
+ &lt;p class="callout-title"&gt;Quick Answer&lt;/p&gt;
+ &lt;div class="callout-body"&gt;Start with a two-burner stove, compact food prep tools, and a cleanup flow you can run in under 10 minutes.&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="comparetable-wrap my-6"&gt;
+ &lt;div class="overflow-x-auto hidden md:block"&gt;
+ &lt;table class="min-w-full border-collapse text-sm"&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th class="border-b p-3 text-left"&gt;Product&lt;/th&gt;
+ &lt;th class="border-b p-3 text-left"&gt;Best For&lt;/th&gt;
+ &lt;th class="border-b p-3 text-left"&gt;Price&lt;/th&gt;
+ &lt;th class="border-b p-3 text-left"&gt;Pros&lt;/th&gt;
+ &lt;th class="border-b p-3 text-left"&gt;Cons&lt;/th&gt;
+ &lt;th class="border-b p-3 text-left"&gt;CTA&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;&lt;tr&gt;
+ &lt;td class="border-b p-3 font-semibold"&gt;Two-Burner Camp Stove&lt;/td&gt;
+ &lt;td class="border-b p-3"&gt;Daily meal prep&lt;/td&gt;
+ &lt;td class="border-b p-3"&gt;$$&lt;/td&gt;
+ &lt;td class="border-b p-3"&gt;Fast and simple cooking&lt;/td&gt;
+ &lt;td class="border-b p-3"&gt;Fuel management required&lt;/td&gt;
+ &lt;td class="border-b p-3"&gt;&lt;span class="inline-flex items-center justify-center rounded-md px-4 py-2 font-semibold shadow-sm border border-neutral-300 bg-transparent text-neutral-500 opacity-70 cursor-not-allowed" aria-disabled="true"&gt;Link coming soon&lt;/span&gt;&lt;/td&gt;
+ &lt;/tr&gt;&lt;tr&gt;
+ &lt;td class="border-b p-3 font-semibold"&gt;Compact Cookware Kit&lt;/td&gt;
+ &lt;td class="border-b p-3"&gt;Small storage builds&lt;/td&gt;
+ &lt;td class="border-b p-3"&gt;$$&lt;/td&gt;
+ &lt;td class="border-b p-3"&gt;Space-saving and easy cleanup&lt;/td&gt;
+ &lt;td class="border-b p-3"&gt;Some kits trade durability&lt;/td&gt;
+ &lt;td class="border-b p-3"&gt;&lt;span class="inline-flex items-center justify-center rounded-md px-4 py-2 font-semibold shadow-sm border border-neutral-300 bg-transparent text-neutral-500 opacity-70 cursor-not-allowed" aria-disabled="true"&gt;Link coming soon&lt;/span&gt;&lt;/td&gt;
+ &lt;/tr&gt;&lt;tr&gt;
+ &lt;td class="border-b p-3 font-semibold"&gt;Van Fridge &amp;#43; Pantry Combo&lt;/td&gt;
+ &lt;td class="border-b p-3"&gt;Full-time convenience&lt;/td&gt;
+ &lt;td class="border-b p-3"&gt;$$$&lt;/td&gt;
+ &lt;td class="border-b p-3"&gt;Better food quality and savings&lt;/td&gt;
+ &lt;td class="border-b p-3"&gt;Higher upfront cost&lt;/td&gt;
+ &lt;td class="border-b p-3"&gt;&lt;span class="inline-flex items-center justify-center rounded-md px-4 py-2 font-semibold shadow-sm border border-neutral-300 bg-transparent text-neutral-500 opacity-70 cursor-not-allowed" aria-disabled="true"&gt;Link coming soon&lt;/span&gt;&lt;/td&gt;
+ &lt;/tr&gt;&lt;/tbody&gt;
+ &lt;/table&gt;
+ &lt;/div&gt;
+
+ &lt;div class="space-y-3 md:hidden"&gt;&lt;article class="rounded-lg border p-4"&gt;
+ &lt;h3 class="text-base font-semibold"&gt;Two-Burner Camp Stove&lt;/h3&gt;
+ &lt;p class="mt-2 text-sm"&gt;&lt;strong&gt;Best For:&lt;/strong&gt; Daily meal prep&lt;/p&gt;</description></item><item><title>Best Internet Setup for Van Life</title><link>https://gwinn092.github.io/van.affiliation/best-of/van-internet/</link><pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate><guid>https://gwinn092.github.io/van.affiliation/best-of/van-internet/</guid><description>&lt;p&gt;The best van internet setup is not one device. It is a layered strategy: carrier diversity, antenna quality, and power-aware hardware.&lt;/p&gt;
+
+&lt;div class="callout-shortcode"&gt;
+ &lt;p class="callout-title"&gt;Quick Answer&lt;/p&gt;
+ &lt;div class="callout-body"&gt;For most remote workers: start with a quality hotspot, an external antenna path, and a backup SIM/network. Reliability beats peak speed.&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="comparetable-wrap my-6"&gt;
+ &lt;div class="overflow-x-auto hidden md:block"&gt;
+ &lt;table class="min-w-full border-collapse text-sm"&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th class="border-b p-3 text-left"&gt;Product&lt;/th&gt;
+ &lt;th class="border-b p-3 text-left"&gt;Best For&lt;/th&gt;
+ &lt;th class="border-b p-3 text-left"&gt;Price&lt;/th&gt;
+ &lt;th class="border-b p-3 text-left"&gt;Pros&lt;/th&gt;
+ &lt;th class="border-b p-3 text-left"&gt;Cons&lt;/th&gt;
+ &lt;th class="border-b p-3 text-left"&gt;CTA&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;&lt;tr&gt;
+ &lt;td class="border-b p-3 font-semibold"&gt;Van Hotspot Router Setup&lt;/td&gt;
+ &lt;td class="border-b p-3"&gt;Full-time remote work&lt;/td&gt;
+ &lt;td class="border-b p-3"&gt;$$&lt;/td&gt;
+ &lt;td class="border-b p-3"&gt;Reliable uplink and flexible install&lt;/td&gt;
+ &lt;td class="border-b p-3"&gt;More setup complexity&lt;/td&gt;
+ &lt;td class="border-b p-3"&gt;&lt;span class="inline-flex items-center justify-center rounded-md px-4 py-2 font-semibold shadow-sm border border-neutral-300 bg-transparent text-neutral-500 opacity-70 cursor-not-allowed" aria-disabled="true"&gt;Link coming soon&lt;/span&gt;&lt;/td&gt;
+ &lt;/tr&gt;&lt;tr&gt;
+ &lt;td class="border-b p-3 font-semibold"&gt;Signal Booster Kit&lt;/td&gt;
+ &lt;td class="border-b p-3"&gt;Weak-signal zones&lt;/td&gt;
+ &lt;td class="border-b p-3"&gt;$$$&lt;/td&gt;
+ &lt;td class="border-b p-3"&gt;Better call/data stability&lt;/td&gt;
+ &lt;td class="border-b p-3"&gt;Can amplify weak/noisy signal&lt;/td&gt;
+ &lt;td class="border-b p-3"&gt;&lt;span class="inline-flex items-center justify-center rounded-md px-4 py-2 font-semibold shadow-sm border border-neutral-300 bg-transparent text-neutral-500 opacity-70 cursor-not-allowed" aria-disabled="true"&gt;Link coming soon&lt;/span&gt;&lt;/td&gt;
+ &lt;/tr&gt;&lt;tr&gt;
+ &lt;td class="border-b p-3 font-semibold"&gt;Phone Tether Backup Setup&lt;/td&gt;
+ &lt;td class="border-b p-3"&gt;Tight budgets&lt;/td&gt;
+ &lt;td class="border-b p-3"&gt;$&lt;/td&gt;
+ &lt;td class="border-b p-3"&gt;Lowest-cost backup strategy&lt;/td&gt;
+ &lt;td class="border-b p-3"&gt;Inconsistent under heavy work use&lt;/td&gt;
+ &lt;td class="border-b p-3"&gt;&lt;span class="inline-flex items-center justify-center rounded-md px-4 py-2 font-semibold shadow-sm border border-neutral-300 bg-transparent text-neutral-500 opacity-70 cursor-not-allowed" aria-disabled="true"&gt;Link coming soon&lt;/span&gt;&lt;/td&gt;
+ &lt;/tr&gt;&lt;/tbody&gt;
+ &lt;/table&gt;
+ &lt;/div&gt;
+
+ &lt;div class="space-y-3 md:hidden"&gt;&lt;article class="rounded-lg border p-4"&gt;
+ &lt;h3 class="text-base font-semibold"&gt;Van Hotspot Router Setup&lt;/h3&gt;
+ &lt;p class="mt-2 text-sm"&gt;&lt;strong&gt;Best For:&lt;/strong&gt; Full-time remote work&lt;/p&gt;</description></item><item><title>Best Van Fans and Ventilation Setups</title><link>https://gwinn092.github.io/van.affiliation/best-of/best-van-fans/</link><pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate><guid>https://gwinn092.github.io/van.affiliation/best-of/best-van-fans/</guid><description>&lt;p&gt;Ventilation is not optional. It protects sleep quality, reduces mold risk, and keeps summer trips manageable.&lt;/p&gt;
+
+&lt;div class="callout-shortcode"&gt;
+ &lt;p class="callout-title"&gt;Quick Answer&lt;/p&gt;
+ &lt;div class="callout-body"&gt;Best all-around performance for full-time use: &lt;strong&gt;MaxxAir MaxxFan Deluxe 7500&lt;/strong&gt;. Best budget option: &lt;strong&gt;MaxxAir 4500&lt;/strong&gt; if you can live without premium controls.&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="comparetable-wrap my-6"&gt;
+ &lt;div class="overflow-x-auto hidden md:block"&gt;
+ &lt;table class="min-w-full border-collapse text-sm"&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th class="border-b p-3 text-left"&gt;Product&lt;/th&gt;
+ &lt;th class="border-b p-3 text-left"&gt;Best For&lt;/th&gt;
+ &lt;th class="border-b p-3 text-left"&gt;Price&lt;/th&gt;
+ &lt;th class="border-b p-3 text-left"&gt;Pros&lt;/th&gt;
+ &lt;th class="border-b p-3 text-left"&gt;Cons&lt;/th&gt;
+ &lt;th class="border-b p-3 text-left"&gt;CTA&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;&lt;tr&gt;
+ &lt;td class="border-b p-3 font-semibold"&gt;MaxxAir MaxxFan Deluxe 7500&lt;/td&gt;
+ &lt;td class="border-b p-3"&gt;Full-time comfort&lt;/td&gt;
+ &lt;td class="border-b p-3"&gt;$$&lt;/td&gt;
+ &lt;td class="border-b p-3"&gt;Strong airflow and weather usability&lt;/td&gt;
+ &lt;td class="border-b p-3"&gt;Higher upfront cost&lt;/td&gt;
+ &lt;td class="border-b p-3"&gt;&lt;span class="inline-flex items-center justify-center rounded-md px-4 py-2 font-semibold shadow-sm border border-neutral-300 bg-transparent text-neutral-500 opacity-70 cursor-not-allowed" aria-disabled="true"&gt;Link coming soon&lt;/span&gt;&lt;/td&gt;
+ &lt;/tr&gt;&lt;tr&gt;
+ &lt;td class="border-b p-3 font-semibold"&gt;MaxxAir 4500&lt;/td&gt;
+ &lt;td class="border-b p-3"&gt;Budget builds&lt;/td&gt;
+ &lt;td class="border-b p-3"&gt;$$&lt;/td&gt;
+ &lt;td class="border-b p-3"&gt;Reliable core airflow at lower price&lt;/td&gt;
+ &lt;td class="border-b p-3"&gt;Fewer convenience features&lt;/td&gt;
+ &lt;td class="border-b p-3"&gt;&lt;span class="inline-flex items-center justify-center rounded-md px-4 py-2 font-semibold shadow-sm border border-neutral-300 bg-transparent text-neutral-500 opacity-70 cursor-not-allowed" aria-disabled="true"&gt;Link coming soon&lt;/span&gt;&lt;/td&gt;
+ &lt;/tr&gt;&lt;tr&gt;
+ &lt;td class="border-b p-3 font-semibold"&gt;CRL T-Vent Window (ProMaster)&lt;/td&gt;
+ &lt;td class="border-b p-3"&gt;Passive airflow boosts&lt;/td&gt;
+ &lt;td class="border-b p-3"&gt;$$$&lt;/td&gt;
+ &lt;td class="border-b p-3"&gt;Better crossflow and condensation control&lt;/td&gt;
+ &lt;td class="border-b p-3"&gt;Extra install complexity&lt;/td&gt;
+ &lt;td class="border-b p-3"&gt;&lt;span class="inline-flex items-center justify-center rounded-md px-4 py-2 font-semibold shadow-sm border border-neutral-300 bg-transparent text-neutral-500 opacity-70 cursor-not-allowed" aria-disabled="true"&gt;Link coming soon&lt;/span&gt;&lt;/td&gt;
+ &lt;/tr&gt;&lt;/tbody&gt;
+ &lt;/table&gt;
+ &lt;/div&gt;
+
+ &lt;div class="space-y-3 md:hidden"&gt;&lt;article class="rounded-lg border p-4"&gt;
+ &lt;h3 class="text-base font-semibold"&gt;MaxxAir MaxxFan Deluxe 7500&lt;/h3&gt;
+ &lt;p class="mt-2 text-sm"&gt;&lt;strong&gt;Best For:&lt;/strong&gt; Full-time comfort&lt;/p&gt;</description></item><item><title>Portable Power Stations Under $500 for Van Life (Recovery-First)</title><link>https://gwinn092.github.io/van.affiliation/best-of/power-stations-under-500/</link><pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate><guid>https://gwinn092.github.io/van.affiliation/best-of/power-stations-under-500/</guid><description>&lt;p&gt;Portable power stations under $500 are one of the smartest entry points into van life — &lt;strong&gt;if you understand their limits&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;After 8 years full-time living in a van through Colorado winters, Florida humidity, Arizona sun, and long cross-country seasons, here’s the honest truth:&lt;/p&gt;</description></item></channel></rss>
