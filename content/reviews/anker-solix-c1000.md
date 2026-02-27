@@ -10,6 +10,10 @@ tags: ["review", "fast charging", "under-1000", "cloudy-weeks", "value-route"]
 
 **Verdict:** Anker SOLIX C1000 is a strong value-route model when you want balanced recovery speed and enough margin to reduce weekly stress.
 
+## Product snapshot
+
+{{< calvproduct id="anker-solix-c1000" >}}
+
 ## Best for
 
 - Value-focused buyers who still want recovery-first behavior

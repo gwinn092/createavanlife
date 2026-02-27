@@ -10,6 +10,10 @@ tags: ["review", "fast charging", "generator-free", "cloudy-weeks", "high-margin
 
 **Verdict:** EcoFlow DELTA 2 Max is best for van lifers who are already disciplined and need extra margin for rough stretches while keeping recharge recovery practical.
 
+## Product snapshot
+
+{{< calvproduct id="ecoflow-delta-2-max" >}}
+
 ## Best for
 
 - Multi-day heat or cloudy stretches where margin prevents panic

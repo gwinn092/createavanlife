@@ -67,35 +67,35 @@ Hot nights increase fan runtime and shrink margin fast. This page is for recover
     </thead>
     <tbody>
       <tr>
-        <td><a href="/reviews/ecoflow-delta-2/">EcoFlow DELTA 2 (1024Wh)</a></td>
+        <td>{{< calvproduct id="ecoflow-delta-2" mode="name_link" >}}</td>
         <td>Fast post-night catch-up</td>
         <td>Fast AC recovery class helps erase fan-driven drift quickly.</td>
         <td>Spec / Reported</td>
         <td><a href="/best-fast-charging-power-stations-for-hot-nights/#bucket-a--erase-drift-fast-after-hot-nights">See Bucket A</a></td>
       </tr>
       <tr>
-        <td><a href="/reviews/bluetti-ac180/">BLUETTI AC180 (1152Wh)</a></td>
+        <td>{{< calvproduct id="bluetti-ac180" mode="name_link" >}}</td>
         <td>Predictable heat routine</td>
         <td>Balanced recovery speed and margin for repeatable warm-night cycles.</td>
         <td>Spec / Reported</td>
         <td><a href="/best-fast-charging-power-stations-for-hot-nights/#bucket-b--predictable-heat-routine">See Bucket B</a></td>
       </tr>
       <tr>
-        <td><a href="/reviews/anker-solix-c1000/">Anker SOLIX C1000 (1056Wh)</a></td>
+        <td>{{< calvproduct id="anker-solix-c1000" mode="name_link" >}}</td>
         <td>Value route with margin</td>
         <td>Solid recovery-to-size profile for stable weekly resets.</td>
         <td>Spec / Reported</td>
         <td><a href="/best-fast-charging-power-stations-for-hot-nights/#bucket-c--add-margin-for-multi-night-heat">See Bucket C</a></td>
       </tr>
       <tr>
-        <td><a href="/reviews/ecoflow-delta-2-max/">EcoFlow DELTA 2 Max (2048Wh)</a></td>
+        <td>{{< calvproduct id="ecoflow-delta-2-max" mode="name_link" >}}</td>
         <td>Heat-wave margin</td>
         <td>Larger buffer for multi-night heat events; usually a watch-list move.</td>
         <td>Spec / Reported</td>
         <td><a href="/best-fast-charging-power-stations-for-hot-nights/#bucket-c--add-margin-for-multi-night-heat">See Bucket C</a></td>
       </tr>
       <tr>
-        <td><a href="/reviews/jackery-explorer-1000-plus/">Jackery Explorer 1000 Plus (1264Wh)</a></td>
+        <td>{{< calvproduct id="jackery-explorer-1000-plus" mode="name_link" >}}</td>
         <td>Quiet-hours + warm nights</td>
         <td>Useful when timing rules and warm nights stack together.</td>
         <td>Spec / Reported</td>

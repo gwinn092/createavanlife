@@ -87,7 +87,7 @@ If your week goes sideways, the goal is simple: **recover quickly and get back t
     </thead>
     <tbody>
       <tr>
-        <td><a href="/reviews/ecoflow-delta-2/">EcoFlow DELTA 2 (1024Wh)</a></td>
+        <td>{{< calvproduct id="ecoflow-delta-2" mode="name_link" >}}</td>
         <td>Fast bad-week recovery</td>
         <td>Under-now to watch-list range</td>
         <td>Strong short-window recharge class (Spec/Reported)</td>
@@ -95,7 +95,7 @@ If your week goes sideways, the goal is simple: **recover quickly and get back t
         <td><a href="/best-fast-charging-power-stations-for-generator-free-van-life/#bucket-a--recover-fast-even-on-bad-weeks">See Bucket A</a></td>
       </tr>
       <tr>
-        <td><a href="/reviews/bluetti-ac200l/">BLUETTI AC200L (2048Wh)</a></td>
+        <td>{{< calvproduct id="bluetti-ac200l" mode="name_link" >}}</td>
         <td>High headroom recovery</td>
         <td>Watch-list</td>
         <td>Large recovery headroom class (Spec/Reported)</td>
@@ -103,7 +103,7 @@ If your week goes sideways, the goal is simple: **recover quickly and get back t
         <td><a href="/best-fast-charging-power-stations-for-generator-free-van-life/#bucket-a--recover-fast-even-on-bad-weeks">See Bucket A</a></td>
       </tr>
       <tr>
-        <td><a href="/reviews/jackery-explorer-1000-plus/">Jackery Explorer 1000 Plus (1264Wh)</a></td>
+        <td>{{< calvproduct id="jackery-explorer-1000-plus" mode="name_link" >}}</td>
         <td>Quiet-hours-compatible generator-free routine</td>
         <td>Under-now to watch-list range</td>
         <td>Predictable refill profile for constrained windows (Spec/Reported)</td>
@@ -111,7 +111,7 @@ If your week goes sideways, the goal is simple: **recover quickly and get back t
         <td><a href="/best-fast-charging-power-stations-for-generator-free-van-life/#bucket-b--quiet-hours-friendly-recovery">See Bucket B</a></td>
       </tr>
       <tr>
-        <td>Anker SOLIX F2000 / 767 (2048Wh)</td>
+        <td>{{< calvproduct id="anker-solix-f2000-767" mode="name_link" >}}</td>
         <td>Quiet-hours recovery with extra buffer</td>
         <td>Watch-list</td>
         <td>Strong reported recovery class for refill windows (Spec/Reported)</td>
@@ -119,7 +119,7 @@ If your week goes sideways, the goal is simple: **recover quickly and get back t
         <td><a href="/best-fast-charging-power-stations-for-generator-free-van-life/#bucket-b--quiet-hours-friendly-recovery">See Bucket B</a></td>
       </tr>
       <tr>
-        <td><a href="/reviews/bluetti-ac180/">BLUETTI AC180 (1152Wh)</a></td>
+        <td>{{< calvproduct id="bluetti-ac180" mode="name_link" >}}</td>
         <td>Value margin for stable weeks</td>
         <td>Under-now</td>
         <td>Balanced margin and refill class for repeatable routines (Spec/Reported)</td>
@@ -127,7 +127,7 @@ If your week goes sideways, the goal is simple: **recover quickly and get back t
         <td><a href="/best-fast-charging-power-stations-for-generator-free-van-life/#bucket-c--if-youre-already-close-to-stable">See Bucket C</a></td>
       </tr>
       <tr>
-        <td><a href="/reviews/ecoflow-delta-2-max/">EcoFlow DELTA 2 Max (2048Wh)</a></td>
+        <td>{{< calvproduct id="ecoflow-delta-2-max" mode="name_link" >}}</td>
         <td>Extra margin, fewer panic days</td>
         <td>Watch-list</td>
         <td>High-margin recovery behavior for rough weeks (Spec/Reported)</td>

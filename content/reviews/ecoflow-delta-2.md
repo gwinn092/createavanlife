@@ -10,6 +10,10 @@ tags: ["review", "fast charging", "under-1000", "quiet-hours", "generator-free"]
 
 **Verdict:** EcoFlow DELTA 2 is a strong fit for van lifers who need fast wall recovery in short windows and want a routine that is easy to repeat.
 
+## Product snapshot
+
+{{< calvproduct id="ecoflow-delta-2" >}}
+
 ## Best for
 
 - Short refill windows where speed determines whether you erase drift

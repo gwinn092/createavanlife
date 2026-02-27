@@ -10,6 +10,10 @@ tags: ["review", "fast charging", "generator-free", "cloudy-weeks", "high-headro
 
 **Verdict:** BLUETTI AC200L is a high-headroom option for people who need larger buffer and can still maintain consistent recovery windows.
 
+## Product snapshot
+
+{{< calvproduct id="bluetti-ac200l" >}}
+
 ## Best for
 
 - Generator-free users with heavier daily draw and planned recovery windows

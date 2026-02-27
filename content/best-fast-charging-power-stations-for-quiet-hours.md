@@ -89,7 +89,7 @@ We recommend **700Wh+ minimum** and prioritize **time-to-recover** over raw capa
     </thead>
     <tbody>
       <tr>
-        <td><a href="/reviews/ecoflow-delta-2/">EcoFlow DELTA 2 (1024Wh)</a></td>
+        <td>{{< calvproduct id="ecoflow-delta-2" mode="name_link" >}}</td>
         <td>Short, repeatable refill windows</td>
         <td>Under-now to watch-list range</td>
         <td>Fast AC recovery class for constrained windows (Spec/Reported)</td>
@@ -97,7 +97,7 @@ We recommend **700Wh+ minimum** and prioritize **time-to-recover** over raw capa
         <td><a href="/best-fast-charging-power-stations-for-quiet-hours/#bucket-a--short-repeatable-refill-windows">See Bucket A</a></td>
       </tr>
       <tr>
-        <td><a href="/reviews/jackery-explorer-1000-plus/">Jackery Explorer 1000 Plus (1264Wh)</a></td>
+        <td>{{< calvproduct id="jackery-explorer-1000-plus" mode="name_link" >}}</td>
         <td>Predictable rule-heavy routines</td>
         <td>Watch-list</td>
         <td>Routine-friendly refill class when access is consistent (Spec/Reported)</td>
@@ -105,7 +105,7 @@ We recommend **700Wh+ minimum** and prioritize **time-to-recover** over raw capa
         <td><a href="/best-fast-charging-power-stations-for-quiet-hours/#bucket-a--short-repeatable-refill-windows">See Bucket A</a></td>
       </tr>
       <tr>
-        <td><a href="/reviews/bluetti-ac180/">BLUETTI AC180 (1152Wh)</a></td>
+        <td>{{< calvproduct id="bluetti-ac180" mode="name_link" >}}</td>
         <td>Quiet-hours predictability</td>
         <td>Under-now</td>
         <td>Strong refill rhythm for rule-constrained windows (Spec/Reported)</td>
@@ -113,7 +113,7 @@ We recommend **700Wh+ minimum** and prioritize **time-to-recover** over raw capa
         <td><a href="/best-fast-charging-power-stations-for-quiet-hours/#bucket-b--rule-heavy--inconsistent-access-predictability-first">See Bucket B</a></td>
       </tr>
       <tr>
-        <td>Anker SOLIX F2000 / 767 (2048Wh)</td>
+        <td>{{< calvproduct id="anker-solix-f2000-767" mode="name_link" >}}</td>
         <td>Rule-heavy recovery with extra headroom</td>
         <td>Watch-list</td>
         <td>High recovery class when access windows are available (Spec/Reported)</td>
@@ -121,7 +121,7 @@ We recommend **700Wh+ minimum** and prioritize **time-to-recover** over raw capa
         <td><a href="/best-fast-charging-power-stations-for-quiet-hours/#bucket-b--rule-heavy--inconsistent-access-predictability-first">See Bucket B</a></td>
       </tr>
       <tr>
-        <td><a href="/reviews/ecoflow-delta-2-max/">EcoFlow DELTA 2 Max (2048Wh)</a></td>
+        <td>{{< calvproduct id="ecoflow-delta-2-max" mode="name_link" >}}</td>
         <td>Mostly stable users adding margin</td>
         <td>Watch-list</td>
         <td>Bigger margin and strong refill behavior (Spec/Reported)</td>

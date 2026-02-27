@@ -10,6 +10,10 @@ tags: ["review", "fast charging", "quiet-hours", "generator-free", "watch-list"]
 
 **Verdict:** Jackery Explorer 1000 Plus is a useful fit for rule-constrained routines where predictable recovery matters more than chasing the absolute fastest claim.
 
+## Product snapshot
+
+{{< calvproduct id="jackery-explorer-1000-plus" >}}
+
 ## Best for
 
 - Quiet-hours workflows with stable, predictable refill windows

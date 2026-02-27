@@ -10,6 +10,10 @@ tags: ["review", "fast charging", "quiet-hours", "under-1000", "generator-free"]
 
 **Verdict:** BLUETTI AC180 is a reliable pick for people who care more about repeatable recovery rhythm than chasing top-end spec claims.
 
+## Product snapshot
+
+{{< calvproduct id="bluetti-ac180" >}}
+
 ## Best for
 
 - Quiet-hours workflows where predictability matters

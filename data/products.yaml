@@ -75,3 +75,15 @@ jackery-explorer-1000-plus:
   image_path: "/img/picks/under-1000-quiet-hours.jpg"
   credits_ref: "audit/pick-card-images-credits.md:under-1000-quiet-hours"
   notes_short: "Routine-friendly option for timing-constrained charging windows."
+
+anker-solix-f2000-767:
+  id: "anker-solix-f2000-767"
+  name: "Anker SOLIX F2000 / 767 (2048Wh)"
+  brand: "Anker"
+  wh: 2048
+  ac_input_w: 1440
+  weight_lb: 67
+  tags: ["quiet-hours", "generator-free"]
+  image_path: "/img/picks/under-1000-fastest-recovery.jpg"
+  credits_ref: "audit/pick-card-images-credits.md:under-1000-fastest-recovery"
+  notes_short: "High-buffer option for rule-heavy recovery windows."

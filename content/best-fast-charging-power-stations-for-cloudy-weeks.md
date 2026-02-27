@@ -67,35 +67,35 @@ Cloudy weeks are usually a recovery-window problem, not a “buy the biggest bat
     </thead>
     <tbody>
       <tr>
-        <td><a href="/reviews/ecoflow-delta-2/">EcoFlow DELTA 2 (1024Wh)</a></td>
+        <td>{{< calvproduct id="ecoflow-delta-2" mode="name_link" >}}</td>
         <td>Fast cloudy-week catch-up</td>
         <td>Fast AC recovery class to erase drift when solar misses stack.</td>
         <td>Spec / Reported</td>
         <td><a href="/best-fast-charging-power-stations-for-cloudy-weeks/#bucket-a--recover-fast-when-solar-drops">See Bucket A</a></td>
       </tr>
       <tr>
-        <td><a href="/reviews/bluetti-ac180/">BLUETTI AC180 (1152Wh)</a></td>
+        <td>{{< calvproduct id="bluetti-ac180" mode="name_link" >}}</td>
         <td>Predictable refill rhythm</td>
         <td>Reliable balance between recovery speed and usable margin.</td>
         <td>Spec / Reported</td>
         <td><a href="/best-fast-charging-power-stations-for-cloudy-weeks/#bucket-b--steady-weekly-recovery-rhythm">See Bucket B</a></td>
       </tr>
       <tr>
-        <td><a href="/reviews/anker-solix-c1000/">Anker SOLIX C1000 (1056Wh)</a></td>
+        <td>{{< calvproduct id="anker-solix-c1000" mode="name_link" >}}</td>
         <td>Value path for cloudy seasons</td>
         <td>Strong recovery-to-size fit for routine weekly use.</td>
         <td>Spec / Reported</td>
         <td><a href="/best-fast-charging-power-stations-for-cloudy-weeks/#bucket-b--steady-weekly-recovery-rhythm">See Bucket B</a></td>
       </tr>
       <tr>
-        <td><a href="/reviews/ecoflow-delta-2-max/">EcoFlow DELTA 2 Max (2048Wh)</a></td>
+        <td>{{< calvproduct id="ecoflow-delta-2-max" mode="name_link" >}}</td>
         <td>Long cloudy stretches</td>
         <td>Higher margin when forecast uncertainty lasts multiple days.</td>
         <td>Spec / Reported</td>
         <td><a href="/best-fast-charging-power-stations-for-cloudy-weeks/#bucket-c--add-weather-margin-without-overbuying">See Bucket C</a></td>
       </tr>
       <tr>
-        <td><a href="/reviews/bluetti-ac200l/">BLUETTI AC200L (2048Wh)</a></td>
+        <td>{{< calvproduct id="bluetti-ac200l" mode="name_link" >}}</td>
         <td>High headroom route</td>
         <td>Useful watch-list option when you need large weather buffer.</td>
         <td>Spec / Reported</td>
