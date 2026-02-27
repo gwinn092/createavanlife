@@ -8,7 +8,7 @@
   {{- $specs := slice -}}
   {{- with $product.wh }}{{ $specs = $specs | append (printf "%dWh (Spec)" .) }}{{ end -}}
   {{- with $product.ac_input_w }}{{ $specs = $specs | append (printf "%dW AC input (Spec)" .) }}{{ end -}}
-  {{- with $product.weight_lb }}{{ $specs = $specs | append (printf "%g lb (Spec)" .) }}{{ end -}}
+  {{- with $product.weight_lb }}{{ $specs = $specs | append (printf "%v lb (Spec)" .) }}{{ end -}}
   {{- if eq $mode "name_link" -}}
     {{- if $product.review_url -}}
       <a href="{{ $product.review_url }}">{{ $product.name }}</a>
