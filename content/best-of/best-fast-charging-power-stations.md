@@ -2,6 +2,7 @@
 title: "Best Fast-Charging Power Stations for Van Life (Recovery-First, 700Wh+)"
 description: "Recovery-first fast-charging picks for van life with clear claim labels, sourcing, and routing so you can choose a stable refill path without guesswork."
 slug: "best-fast-charging-power-stations"
+aliases: ["/best-fast-charging-power-stations/"]
 date: 2026-02-22
 draft: false
 categories: ["Power"]

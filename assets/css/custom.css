@@ -4035,3 +4035,147 @@ main :where(
   -webkit-text-fill-color: var(--calv-accent-fg) !important;
   opacity: 1 !important;
 }
+
+/* =========================================================
+   DESIGN MODERNISATION — Deep Green + Amber palette v1
+   Token overrides win by cascade order (last-defined wins).
+   Card hover overrides use higher specificity than the
+   :where() flat-surface rules above.
+   ========================================================= */
+
+/* ── 1. Token overrides ──────────────────────────────────── */
+:root {
+  --calv-green:        #1a3c2e;
+  --calv-green-dark:   #122a1f;
+  --calv-amber:        #e8a020;
+  --calv-amber-dark:   #c8881a;
+  --calv-off-white:    #f8f5f0;
+
+  /* Override palette tokens */
+  --vf-bg:             #f8f5f0;
+  --vf-brand:          #1a3c2e;
+  --vf-brand-hover:    #122a1f;
+
+  /* Accent → amber */
+  --calv-accent:       #e8a020;
+  --calv-accent-hover: #c8881a;
+  --calv-accent-fg:    #1a1a0a;  /* dark text on amber — good contrast */
+  --calv-focus:        rgba(232, 160, 32, 0.35);
+
+  /* Links → green */
+  --calv-link:         #1a3c2e;
+  --calv-link-hover:   #122a1f;
+
+  /* Typography */
+  --calv-serif: 'Playfair Display', Georgia, 'Times New Roman', serif;
+  --calv-sans:  'Inter', ui-sans-serif, -apple-system, BlinkMacSystemFont,
+                'Segoe UI', Helvetica, Arial, sans-serif;
+}
+
+/* ── 2. Body background — off-white, remove blue radial blobs ── */
+body {
+  background: var(--calv-off-white);
+}
+
+/* ── 3. Display typography ───────────────────────────────── */
+/* h1 globally + homepage h2s → Playfair Display */
+h1 {
+  font-family: var(--calv-serif);
+  letter-spacing: -0.02em;
+  color: var(--calv-green);
+}
+
+.home-storefront h2 {
+  font-family: var(--calv-serif);
+  letter-spacing: -0.015em;
+  color: var(--calv-green);
+}
+
+/* ── 4. Hero — deep green ────────────────────────────────── */
+.storefront-hero {
+  background: linear-gradient(155deg, #1a3c2e 0%, #1e4a35 100%);
+  border-color: rgba(26, 60, 46, 0.2);
+  color: var(--calv-off-white);
+  box-shadow: 0 12px 36px rgba(26, 60, 46, 0.22);
+}
+
+.storefront-hero h1 {
+  font-family: var(--calv-serif);
+  font-size: clamp(1.75rem, 4vw, 2.6rem);
+  color: var(--calv-off-white);
+  letter-spacing: -0.02em;
+}
+
+.storefront-kicker {
+  color: var(--calv-amber);
+  letter-spacing: 0.1em;
+}
+
+.storefront-subhead {
+  color: rgba(248, 245, 240, 0.82);
+}
+
+.storefront-search-note {
+  color: rgba(248, 245, 240, 0.55);
+}
+
+/* Ghost button on dark hero: transparent + amber outline */
+/* !important needed to override Uniform UI Contract Group A locks */
+.storefront-hero .storefront-btn-ghost {
+  background: transparent !important;
+  border-color: rgba(232, 160, 32, 0.55) !important;
+  color: var(--calv-off-white) !important;
+  -webkit-text-fill-color: var(--calv-off-white) !important;
+}
+.storefront-hero .storefront-btn-ghost:hover,
+.storefront-hero .storefront-btn-ghost:focus-visible {
+  background: rgba(232, 160, 32, 0.14) !important;
+  border-color: var(--calv-amber) !important;
+  color: var(--calv-off-white) !important;
+  -webkit-text-fill-color: var(--calv-off-white) !important;
+}
+
+/* ── 5. Card hover effects ───────────────────────────────── */
+/* transition on base (no !important conflict here) */
+.storefront-card {
+  transition: transform 0.22s ease, box-shadow 0.22s ease;
+}
+
+/* Lift on hover — .storefront-card:hover specificity (0,1,1) > :where():hover (0,0,1)
+   Both have !important; higher specificity wins even when declared later */
+.storefront-card:hover {
+  transform: translateY(-4px) !important;
+  box-shadow: 0 14px 32px rgba(26, 60, 46, 0.14) !important;
+}
+
+/* Image zoom */
+.storefront-card img {
+  transition: transform 0.3s ease;
+}
+.storefront-card:hover img {
+  transform: scale(1.04);
+}
+
+/* ── 6. Mobile polish ────────────────────────────────────── */
+/* Rounder cards on mobile (max-width 768px matches flat-surface system above;
+   .storefront-card specificity 0,1,0 beats :where() 0 → wins with !important) */
+@media (max-width: 768px) {
+  .storefront-card {
+    border-radius: 0.75rem !important;
+  }
+}
+
+/* Narrow mobile: hero text scale + stacked CTA buttons */
+@media (max-width: 640px) {
+  .storefront-hero h1 {
+    font-size: clamp(1.6rem, 7vw, 2rem);
+  }
+  .storefront-cta-row {
+    flex-direction: column;
+  }
+  .storefront-btn {
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+  }
+}
