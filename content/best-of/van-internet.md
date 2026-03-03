@@ -9,7 +9,7 @@ categories: ["best-of"]
 tags: ["internet", "wifi", "remote-work"]
 ---
 
-The best van internet setup is not one device. It is a layered strategy: carrier diversity, antenna quality, and power-aware hardware.
+The best van internet setup is not one device. It is a layered strategy: carrier diversity, antenna quality, and power-aware hardware. For a realistic breakdown of why each layer matters and what a budget setup actually looks like, see [Van Internet: What Actually Works Off-Grid](/blog/van-internet-what-actually-works-off-grid/).
 
 {{< callout title="Quick Answer" >}}
 For most remote workers: start with a quality hotspot, an external antenna path, and a backup SIM/network. Reliability beats peak speed.

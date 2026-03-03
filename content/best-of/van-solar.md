@@ -9,7 +9,7 @@ categories: ["best-of"]
 tags: ["solar", "power", "budget"]
 ---
 
-If you want the quick answer: most budget builders should start with a **200W to 400W system** paired with a battery bank sized for one day of normal use. Oversizing too early is one of the fastest ways to blow a build budget.
+If you want the quick answer: most budget builders should start with a **200W to 400W system** paired with a battery bank sized for one day of normal use. Oversizing too early is one of the fastest ways to blow a build budget. New to solar? Start with [Solar Power for Van Life Beginners](/blog/solar-power-for-van-life-beginners/) for sizing context before picking hardware.
 
 {{< callout title="Quick Answer" >}}
 Best all-around value for new builders: **Renogy 100W Slim panels in a modular 2-4 panel setup**, paired with a quality MPPT controller and a battery system you can expand later.

@@ -152,6 +152,7 @@ Fast AC recovery matters most. Use:
 
 ### If your life is mostly move days
 Drive recovery may matter more than "fastest wall charge":
+- **[Alternator Charging for Power Stations](/blog/alternator-charging-for-power-stations/)**
 - **[Solar vs Alternator Charging](/solar-vs-alternator-charging/)**
 
 ---
@@ -169,6 +170,8 @@ Drive recovery may matter more than "fastest wall charge":
 ## If you're budget-constrained
 Start here first (price-drift safe structure):
 - **[Portable Power Stations Under $500](/best-of/power-stations-under-500/)**
+
+Not sure whether a portable station is the right choice for your situation? Compare both paths: **[Portable Power vs Full Electrical Build](/blog/portable-power-vs-full-electrical-build/)**.
 
 Baseline context (why CAVL won't go smaller than 700Wh):
 - **[What 700Wh Actually Runs](/what-700wh-actually-runs/)**

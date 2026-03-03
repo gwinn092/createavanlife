@@ -63,7 +63,7 @@ For most van setups, this starts around the point where you can cover a full wor
 
 ### Is this better than a full fixed electrical build?
 
-Not always. If you need integrated solar, large inverter loads, and multi-day autonomy, compare this path with [Portable Power vs Full Electrical Build](/blog/portable-power-vs-full-electrical-build/).
+Not always. If you need integrated solar, large inverter loads, and multi-day autonomy, compare this path with [Portable Power vs Full Electrical Build](/blog/portable-power-vs-full-electrical-build/). For understanding how solar input actually performs with these stations, see [Solar Input Explained for Power Stations](/blog/solar-input-explained-for-power-stations/).
 
 ### Is older gear like the Goal Zero Yeti 1400 still competitive?
 

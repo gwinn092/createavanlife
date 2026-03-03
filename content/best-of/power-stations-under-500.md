@@ -191,7 +191,7 @@ See:
 
 ## Budget vs Full Electrical Build
 
-Portable power stations are often the smartest first step. Many builders should start portable, collect real usage data, and only upgrade when limits are consistently reached.
+Portable power stations are often the smartest first step. Many builders should start portable, collect real usage data, and only upgrade when limits are consistently reached. For a clear comparison of the tradeoffs between these two paths, see [Budget Van Electrical: Simple vs DIY](/blog/budget-van-electrical-simple-vs-diy/).
 
 Full electrical builds make sense when:
 - You require multi-day autonomy.
