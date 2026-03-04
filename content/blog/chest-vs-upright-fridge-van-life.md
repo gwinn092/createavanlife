@@ -1,14 +1,20 @@
 ---
-title: "Chest Fridge vs. Upright Fridge for Van Life — The Honest Answer After 8 Years"
+title: "Chest Fridge vs. Upright Fridge for Van Life — My Girlfriend Was Right"
 date: 2026-03-04
-description: "Chest fridges win on efficiency. Upright fridges win on daily usability. After 8 years of living with a chest fridge, here's my honest take."
+description: "I chose the chest fridge. She wanted upright from day one. After 8 years of daily use, she was right — and here's exactly why."
 featureimage: "/images/featured/van-kitchen.svg"
 featured_image: "/images/featured/van-kitchen.svg"
 categories: ["blog"]
 tags: ["fridge", "van-life", "kitchen", "gear"]
 ---
 
-The spec-sheet argument for chest fridges is real. Cold air sinks — when you open a chest lid, the cold air stays at the bottom. Open an upright door, and it falls out onto the floor. Chest fridges retain cold better per opening, which means the compressor cycles less, which means lower average power draw.
+When we were building out the van, I chose the chest fridge. The spec-sheet argument was clear: cold air sinks, chest fridges retain cold better per opening, the compressor cycles less, lower average power draw. My girlfriend wanted an upright from the beginning. She couldn't point to a spec. She just knew, from using fridges her whole life, that reaching into a chest every day would get old.
+
+She was right. I was wrong. This is that story.
+
+## Why the Chest Fridge Argument Sounds Convincing
+
+Cold air sinks — when you open a chest lid, the cold air stays at the bottom. Open an upright door, and it falls out onto the floor. Chest fridges retain cold better per opening, which means the compressor cycles less, which means lower average power draw.
 
 That's true. It's also incomplete.
 
