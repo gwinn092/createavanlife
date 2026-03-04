@@ -6,11 +6,13 @@ date: 2026-03-04
 draft: false
 ---
 
-I've been living full-time in a van for 8 years. Not weekends. Not a gap year. Eight years straight, in a black 2017 Ram ProMaster 2500, across Colorado, Arizona, Florida, California, and New York.
+We didn't quit tech jobs to do this. We worked — restaurants, bartending, construction — saved money, and built a life around freedom instead of stuff. Eight years in a van, season to season, region to region. San Diego winters, Colorado summers, Florida when we needed warmth, New York when we needed family. We just got back from eight months in Southeast Asia. Now we're building this — because after all of it, we actually have something worth saying.
+
+I've been living full-time in a van for 8 years — in a black 2017 Ram ProMaster 2500, across Colorado, Arizona, Florida, California, and New York. My girlfriend has been in the van the whole time. This site is the gear and power half of what we know. The stories and travel half live at **Moments in the Miles**.
 
 When I started in 2018, there were maybe three power stations worth buying. The choices were simple — good products or bad products, not much in between. Today there are dozens of brands, hundreds of models, and most of the review sites covering them have never spent a night in a van.
 
-This site exists because I have.
+This site exists because we have.
 
 ## What I Actually Run
 
