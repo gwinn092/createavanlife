@@ -1,6 +1,6 @@
 ---
 title: "BLUETTI Elite 200 V2 Review for Van Life: Fast Recovery, Real Breathing Room"
-description: "A climate-tested, recovery-first review of the BLUETTI Elite 200 V2 for van life. Best for van lifers who want stable daily power with less energy babysitting."
+description: "A climate-tested, recovery-first review of the BLUETTI Elite 200 V2 for van life. Best for van lifers who want stable daily power with less babysitting."
 slug: "elite-200-v2-review"
 date: 2026-02-22
 draft: false

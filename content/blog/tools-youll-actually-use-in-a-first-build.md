@@ -1,6 +1,6 @@
 ---
 title: "Tools You'll Actually Use in a First Build"
-date: 2026-02-21
+date: 2025-12-17
 description: "The highest-value tools for a first van conversion and which tools to borrow instead of buy."
 featureimage: "/images/featured/build-tools.svg"
 categories: ["blog"]

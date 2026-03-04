@@ -1,0 +1,202 @@
+{{ define "main" }}
+<div class="calv-calc-page mx-auto max-w-2xl px-4 py-8 md:py-12">
+
+  <p class="calv-kicker" style="color:var(--calv-amber);font-size:.75rem;letter-spacing:.1em;text-transform:uppercase;font-weight:700;margin-bottom:.5rem;">Free Tool</p>
+  <h1 style="font-family:var(--calv-serif);color:var(--calv-green);margin-top:0;">Van Power Sizing Calculator</h1>
+  <p class="calv-calc-intro">Check the devices you plan to run. Adjust hours per day. Get a recommended battery size, solar wattage, and a setup path — all labeled as estimates so you know what you're working with.</p>
+
+  <div class="calv-calc-card" id="calc-step-1">
+    <h2 class="calv-calc-section-title">Your devices</h2>
+    <p class="calv-calc-hint">Check the devices you use. Drag the slider to set hours per day.</p>
+    <div id="calc-device-list" class="calv-calc-device-list"></div>
+
+    <div class="calv-calc-custom-row">
+      <p class="calv-calc-custom-label">Add a device not listed:</p>
+      <div class="calv-calc-custom-inputs">
+        <input type="text"   id="calc-custom-name"  placeholder="Device name"    class="calv-calc-input">
+        <input type="number" id="calc-custom-watts" placeholder="Watts (e.g. 60)" class="calv-calc-input" min="1" max="5000">
+        <input type="number" id="calc-custom-hours" placeholder="Hours/day"       class="calv-calc-input" min="0" max="24" step="0.5">
+        <button class="calv-calc-add-btn" onclick="addCustomDevice()">Add</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="calv-calc-results-panel" id="calc-results" aria-live="polite">
+    <p class="calv-calc-empty">Select at least one device above to see your estimate.</p>
+  </div>
+
+  <p class="calv-calc-disclaimer">All outputs are <strong>Estimate</strong> — your real usage depends on specific devices, temperature, and behavior. Use these as a starting point for planning, not a final specification.</p>
+
+  {{ .Content }}
+</div>
+
+<script>
+(function () {
+  'use strict';
+
+  const DEVICES = [
+    { id: 'laptop',   label: 'Laptop',               watts: 50,  defaultHours: 6,   checked: true  },
+    { id: 'fan',      label: 'Roof fan (overnight)',  watts: 15,  defaultHours: 8,   checked: true  },
+    { id: 'lights',   label: 'LED lights',            watts: 10,  defaultHours: 4,   checked: true  },
+    { id: 'phone',    label: 'Phone charging',        watts: 10,  defaultHours: 2,   checked: true  },
+    { id: 'hotspot',  label: 'Hotspot / router',      watts: 10,  defaultHours: 10,  checked: false },
+    { id: 'fridge',   label: 'Compressor fridge',     watts: 35,  defaultHours: 24,  checked: false },
+    { id: 'monitor',  label: 'External monitor',      watts: 45,  defaultHours: 6,   checked: false },
+    { id: 'cpap',     label: 'CPAP machine',          watts: 20,  defaultHours: 8,   checked: false },
+    { id: 'blender',  label: 'Blender (occasional)',  watts: 300, defaultHours: 0.1, checked: false },
+    { id: 'misc',     label: 'Other / misc devices',  watts: 20,  defaultHours: 2,   checked: false },
+  ];
+
+  let customDevices = [];
+
+  function allDevices() { return [...DEVICES, ...customDevices]; }
+
+  function buildDeviceList() {
+    const container = document.getElementById('calc-device-list');
+    container.innerHTML = '';
+    allDevices().forEach(function(device) {
+      const row = document.createElement('div');
+      row.className = 'calv-calc-device-row';
+      const hoursDisplay = device.defaultHours >= 1
+        ? device.defaultHours + 'h/day'
+        : (device.defaultHours * 60).toFixed(0) + 'min/day';
+      row.innerHTML =
+        '<label class="calv-calc-device-label">' +
+          '<input type="checkbox" data-id="' + device.id + '" ' + (device.checked ? 'checked' : '') + ' onchange="recalculate()">' +
+          '<span class="calv-calc-device-name">' + device.label + '</span>' +
+          '<span class="calv-calc-device-watts">' + device.watts + 'W</span>' +
+        '</label>' +
+        '<div class="calv-calc-hours-row">' +
+          '<input type="range" min="0" max="24" step="0.5" value="' + device.defaultHours + '" ' +
+            'data-id="' + device.id + '" class="calv-calc-slider" oninput="updateHours(this)">' +
+          '<span class="calv-calc-hours-display" id="hours-' + device.id + '">' + hoursDisplay + '</span>' +
+        '</div>';
+      container.appendChild(row);
+    });
+    recalculate();
+  }
+
+  window.updateHours = function(slider) {
+    var val = parseFloat(slider.value);
+    var display = val >= 1 ? val + 'h/day' : (val * 60).toFixed(0) + 'min/day';
+    document.getElementById('hours-' + slider.dataset.id).textContent = display;
+    recalculate();
+  };
+
+  window.addCustomDevice = function() {
+    var name  = document.getElementById('calc-custom-name').value.trim();
+    var watts = parseFloat(document.getElementById('calc-custom-watts').value);
+    var hours = parseFloat(document.getElementById('calc-custom-hours').value);
+    if (!watts || !hours) { alert('Enter both watts and hours per day.'); return; }
+    var label = name || ('Custom device (' + watts + 'W)');
+    var id = 'custom_' + Date.now();
+    customDevices.push({ id: id, label: label, watts: watts, defaultHours: hours, checked: true });
+    document.getElementById('calc-custom-name').value  = '';
+    document.getElementById('calc-custom-watts').value = '';
+    document.getElementById('calc-custom-hours').value = '';
+    buildDeviceList();
+  };
+
+  window.recalculate = function() {
+    var dailyWh = 0;
+    allDevices().forEach(function(device) {
+      var cb     = document.querySelector('input[type=checkbox][data-id="' + device.id + '"]');
+      var slider = document.querySelector('input[type=range][data-id="'    + device.id + '"]');
+      if (cb && cb.checked && slider) {
+        dailyWh += device.watts * parseFloat(slider.value);
+      }
+    });
+    renderResults(Math.round(dailyWh));
+  };
+
+  function renderResults(dailyWh) {
+    var panel = document.getElementById('calc-results');
+    if (dailyWh === 0) {
+      panel.innerHTML = '<p class="calv-calc-empty">Select at least one device above to see your estimate.</p>';
+      return;
+    }
+
+    /* Battery: daily × 1.5 for 80% DoD lithium, rounded up to nearest 100 Wh */
+    var batteryWh = Math.ceil((dailyWh * 1.5) / 100) * 100;
+    /* Solar: daily ÷ 4 peak sun hours × 1.25 efficiency buffer, rounded to 50W */
+    var solarW    = Math.ceil((dailyWh / 4 * 1.25) / 50) * 50;
+
+    var tier, tierBorder, tierDesc, tierLinks;
+
+    if (dailyWh < 350) {
+      tier = 'Minimal use';
+      tierBorder = '#2d7a4f';
+      tierDesc = 'A 500–700 Wh portable station covers this load comfortably. Alternator charging while driving may be enough — solar is a nice supplement, not a requirement.';
+      tierLinks = [
+        { label: 'Portable Stations Under $500 →', url: '/best-of/power-stations-under-500/' },
+        { label: 'Simple vs DIY Electrical: Which to choose →', url: '/blog/budget-van-electrical-simple-vs-diy/' },
+      ];
+    } else if (dailyWh < 750) {
+      tier = 'Moderate use';
+      tierBorder = '#e8a020';
+      tierDesc = 'A 700–1,000 Wh portable station fits well here. Add 100–200W of solar and you handle most sunny days without shore power. Alternator charging fills gaps on driving days.';
+      tierLinks = [
+        { label: 'Best Fast-Charging Stations Under $1,000 →', url: '/best-fast-charging-power-stations-under-1000/' },
+        { label: 'Best Budget Solar for Van Life →', url: '/best-of/van-solar/' },
+        { label: 'How Much Solar Do You Need? →', url: '/blog/how-much-solar-do-you-need-in-a-van/' },
+      ];
+    } else if (dailyWh < 1400) {
+      tier = 'Heavy use';
+      tierBorder = '#d97706';
+      tierDesc = 'You are in the 1,000–1,500 Wh range. A high-capacity portable station or small DIY fixed system handles this. Plan for 300–400W of solar and reliable alternator charging — solar alone will not keep up.';
+      tierLinks = [
+        { label: 'High-Capacity Power Stations →', url: '/best-of/high-capacity-power-stations/' },
+        { label: 'How Much Solar Do You Need? →', url: '/blog/how-much-solar-do-you-need-in-a-van/' },
+        { label: 'Simple vs DIY Electrical →', url: '/blog/budget-van-electrical-simple-vs-diy/' },
+      ];
+    } else {
+      tier = 'Very heavy use';
+      tierBorder = '#c0392b';
+      tierDesc = 'At ' + dailyWh + ' Wh/day, a portable station will struggle to keep up. A full DIY electrical system — fixed battery bank, MPPT controller, robust alternator charger, and 400W+ solar — is the right foundation here.';
+      tierLinks = [
+        { label: 'Budget Van Electrical: Simple vs DIY →', url: '/blog/budget-van-electrical-simple-vs-diy/' },
+        { label: 'High-Capacity Power Stations →', url: '/best-of/high-capacity-power-stations/' },
+        { label: 'How Much Solar Do You Need? →', url: '/blog/how-much-solar-do-you-need-in-a-van/' },
+      ];
+    }
+
+    var linksHtml = tierLinks.map(function(l) {
+      return '<a href="' + l.url + '" class="calv-calc-result-link">' + l.label + '</a>';
+    }).join('');
+
+    panel.innerHTML =
+      '<div class="calv-calc-result-card">' +
+        '<h2 class="calv-calc-result-title">Your power estimate</h2>' +
+
+        '<div class="calv-calc-metrics">' +
+          '<div class="calv-calc-metric">' +
+            '<div class="calv-calc-metric-value">' + dailyWh + ' Wh</div>' +
+            '<div class="calv-calc-metric-label">Daily use</div>' +
+          '</div>' +
+          '<div class="calv-calc-metric">' +
+            '<div class="calv-calc-metric-value">' + batteryWh + ' Wh</div>' +
+            '<div class="calv-calc-metric-label">Min battery size</div>' +
+          '</div>' +
+          '<div class="calv-calc-metric">' +
+            '<div class="calv-calc-metric-value">' + solarW + 'W</div>' +
+            '<div class="calv-calc-metric-label">Solar (4hr sun day)</div>' +
+          '</div>' +
+        '</div>' +
+        '<p class="calv-calc-estimate-note">All values are <strong>Estimate</strong> — based on typical device draws and conservative solar assumptions.</p>' +
+
+        '<div class="calv-calc-tier-block" style="border-left:4px solid ' + tierBorder + '">' +
+          '<div class="calv-calc-tier-label">' + tier + '</div>' +
+          '<p class="calv-calc-tier-desc">' + tierDesc + '</p>' +
+        '</div>' +
+
+        '<div class="calv-calc-result-links">' +
+          '<p class="calv-calc-links-header">Where to go from here:</p>' +
+          linksHtml +
+        '</div>' +
+      '</div>';
+  }
+
+  buildDeviceList();
+}());
+</script>
+{{ end }}

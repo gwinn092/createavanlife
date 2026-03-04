@@ -75,6 +75,7 @@ If you want recovery-first fast-charging picks for winter conditions, use: **[Be
 
 ## Related reads
 
+- **[Van Life Heating on a Budget](/blog/van-life-heating-budget/)**
 - **[Tier 2 Bad Week Protocol](/tier-2-bad-week-protocol/)**
 - **[Van Power Stability Scorecard](/van-power-stability-scorecard/)**
 - **[Recovery Window Priority Map](/recovery-window-priority-map/)**

@@ -1,6 +1,6 @@
 ---
 title: "Alternator Charging for Portable Power Stations"
-date: 2026-02-22
+date: 2026-02-10
 description: "A practical guide to alternator charging strategy, limits, and why charging speed changes system quality."
 featureimage: "/images/featured/power-stations.svg"
 featured_image: "/images/featured/power-stations.svg"

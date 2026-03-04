@@ -4179,3 +4179,466 @@ h1 {
     justify-content: center;
   }
 }
+
+/* =========================================================
+   VAN POWER CALCULATOR — Sprint 15
+   ========================================================= */
+
+.calv-calc-page {
+  font-family: var(--calv-sans);
+}
+
+.calv-calc-intro {
+  color: #4a5568;
+  font-size: 1.05rem;
+  line-height: 1.7;
+  margin-bottom: 1.75rem;
+}
+
+.calv-calc-card {
+  background: #fff;
+  border: 1px solid #e2e8e4;
+  border-radius: 1rem;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 2px 12px rgba(26,60,46,.06);
+}
+
+.calv-calc-section-title {
+  font-family: var(--calv-serif);
+  color: var(--calv-green);
+  font-size: 1.25rem;
+  margin-top: 0;
+  margin-bottom: .4rem;
+}
+
+.calv-calc-hint {
+  color: #718096;
+  font-size: .875rem;
+  margin-bottom: 1.25rem;
+}
+
+.calv-calc-device-list {
+  display: flex;
+  flex-direction: column;
+  gap: .75rem;
+}
+
+.calv-calc-device-row {
+  display: flex;
+  flex-direction: column;
+  gap: .35rem;
+  padding: .75rem 1rem;
+  border: 1px solid #e9f0ec;
+  border-radius: .625rem;
+  background: #f9fbfa;
+  transition: background .15s;
+}
+
+.calv-calc-device-row:has(input[type=checkbox]:checked) {
+  background: #eef6f1;
+  border-color: #c3dece;
+}
+
+.calv-calc-device-label {
+  display: flex;
+  align-items: center;
+  gap: .6rem;
+  cursor: pointer;
+  font-weight: 500;
+  color: #2d3748;
+}
+
+.calv-calc-device-label input[type=checkbox] {
+  width: 1.1rem;
+  height: 1.1rem;
+  accent-color: var(--calv-green);
+  cursor: pointer;
+  flex-shrink: 0;
+}
+
+.calv-calc-device-name {
+  flex: 1;
+  font-size: .95rem;
+}
+
+.calv-calc-device-watts {
+  font-size: .8rem;
+  color: #718096;
+  font-weight: 400;
+  white-space: nowrap;
+}
+
+.calv-calc-hours-row {
+  display: flex;
+  align-items: center;
+  gap: .75rem;
+  padding-left: 1.7rem;
+}
+
+.calv-calc-slider {
+  flex: 1;
+  accent-color: var(--calv-amber);
+  height: .35rem;
+  cursor: pointer;
+}
+
+.calv-calc-hours-display {
+  font-size: .8rem;
+  color: var(--calv-green);
+  font-weight: 600;
+  min-width: 5rem;
+  text-align: right;
+}
+
+.calv-calc-custom-row {
+  margin-top: 1.25rem;
+  padding-top: 1.25rem;
+  border-top: 1px dashed #d1e0d8;
+}
+
+.calv-calc-custom-label {
+  font-size: .875rem;
+  color: #718096;
+  margin-bottom: .6rem;
+}
+
+.calv-calc-custom-inputs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .5rem;
+  align-items: center;
+}
+
+.calv-calc-input {
+  border: 1px solid #cbd5e0;
+  border-radius: .4rem;
+  padding: .4rem .65rem;
+  font-size: .875rem;
+  width: auto;
+  max-width: 150px;
+  background: #fff;
+  color: #2d3748;
+}
+
+.calv-calc-add-btn {
+  background: var(--calv-green);
+  color: #fff;
+  border: none;
+  border-radius: .4rem;
+  padding: .4rem .9rem;
+  font-size: .875rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background .2s;
+}
+
+.calv-calc-add-btn:hover { background: var(--calv-green-dark); }
+
+/* Results panel */
+.calv-calc-results-panel {
+  margin-bottom: 1.5rem;
+}
+
+.calv-calc-empty {
+  color: #a0aec0;
+  font-style: italic;
+  text-align: center;
+  padding: 2rem 1rem;
+}
+
+.calv-calc-result-card {
+  background: #fff;
+  border: 1px solid #c3dece;
+  border-radius: 1rem;
+  padding: 1.5rem;
+  box-shadow: 0 4px 20px rgba(26,60,46,.09);
+}
+
+.calv-calc-result-title {
+  font-family: var(--calv-serif);
+  color: var(--calv-green);
+  font-size: 1.25rem;
+  margin-top: 0;
+  margin-bottom: 1.25rem;
+}
+
+.calv-calc-metrics {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  margin-bottom: 1.25rem;
+}
+
+@media (max-width: 480px) {
+  .calv-calc-metrics { grid-template-columns: 1fr 1fr; }
+}
+
+.calv-calc-metric {
+  text-align: center;
+  padding: .75rem .5rem;
+  background: #f0f7f3;
+  border-radius: .625rem;
+}
+
+.calv-calc-metric-value {
+  font-family: var(--calv-serif);
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--calv-green);
+  line-height: 1.2;
+}
+
+.calv-calc-metric-label {
+  font-size: .75rem;
+  color: #718096;
+  margin-top: .25rem;
+  font-weight: 500;
+}
+
+.calv-calc-estimate-note {
+  font-size: .8rem;
+  color: #718096;
+  background: #fffbeb;
+  border: 1px solid #fde68a;
+  border-radius: .4rem;
+  padding: .5rem .75rem;
+  margin-bottom: 1.25rem;
+}
+
+.calv-calc-tier-block {
+  padding: .875rem 1rem;
+  border-radius: .5rem;
+  background: #f9fbfa;
+  margin-bottom: 1.25rem;
+}
+
+.calv-calc-tier-label {
+  font-weight: 700;
+  font-size: .875rem;
+  text-transform: uppercase;
+  letter-spacing: .05em;
+  color: #2d3748;
+  margin-bottom: .4rem;
+}
+
+.calv-calc-tier-desc {
+  font-size: .9rem;
+  color: #4a5568;
+  line-height: 1.6;
+  margin: 0;
+}
+
+.calv-calc-result-links {
+  border-top: 1px solid #e9f0ec;
+  padding-top: 1rem;
+}
+
+.calv-calc-links-header {
+  font-size: .8rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .05em;
+  color: #718096;
+  margin-bottom: .6rem;
+}
+
+.calv-calc-result-link {
+  display: block;
+  color: var(--calv-green) !important;
+  font-size: .9rem;
+  font-weight: 500;
+  padding: .3rem 0;
+  text-decoration: none;
+  border-bottom: 1px solid #e9f0ec;
+}
+
+.calv-calc-result-link:last-child { border-bottom: none; }
+.calv-calc-result-link:hover { color: var(--calv-amber) !important; }
+
+.calv-calc-disclaimer {
+  font-size: .8rem;
+  color: #a0aec0;
+  text-align: center;
+  margin-top: .5rem;
+}
+
+/* =========================================================
+   EMAIL CAPTURE — always-visible module
+   ========================================================= */
+
+.calv-email-inline {
+  background: linear-gradient(135deg, #1a3c2e 0%, #1e4a35 100%);
+  border-radius: 1rem;
+  padding: 1.5rem;
+  margin: 2rem 0;
+  color: var(--calv-off-white);
+}
+
+.calv-email-inline__eyebrow {
+  font-size: .7rem;
+  font-weight: 700;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: var(--calv-amber);
+  margin-bottom: .5rem;
+}
+
+.calv-email-inline__heading {
+  font-family: var(--calv-serif);
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: var(--calv-off-white);
+  margin: 0 0 .4rem;
+}
+
+.calv-email-inline__sub {
+  font-size: .875rem;
+  color: rgba(248,245,240,.75);
+  margin: 0 0 1rem;
+}
+
+.calv-email-inline__form {
+  display: flex;
+  gap: .5rem;
+  flex-wrap: wrap;
+}
+
+.calv-email-inline__input {
+  flex: 1;
+  min-width: 180px;
+  border: 1px solid rgba(255,255,255,.25);
+  border-radius: .4rem;
+  padding: .55rem .75rem;
+  font-size: .875rem;
+  background: rgba(255,255,255,.12);
+  color: var(--calv-off-white);
+}
+
+.calv-email-inline__input::placeholder { color: rgba(248,245,240,.5); }
+
+.calv-email-inline__btn {
+  background: var(--calv-amber);
+  color: #1a1a0a;
+  border: none;
+  border-radius: .4rem;
+  padding: .55rem 1.1rem;
+  font-size: .875rem;
+  font-weight: 700;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: background .2s;
+}
+
+.calv-email-inline__btn:hover { background: var(--calv-amber-dark); }
+
+.calv-email-inline__fine {
+  font-size: .72rem;
+  color: rgba(248,245,240,.45);
+  margin-top: .5rem;
+}
+
+/* =========================================================
+   FAQ SECTION — Sprint 15
+   ========================================================= */
+
+.calv-faq-section {
+  margin: 2.5rem 0 1.5rem;
+  border-top: 2px solid #e2e8e4;
+  padding-top: 1.75rem;
+}
+
+.calv-faq-heading {
+  font-family: var(--calv-serif);
+  color: var(--calv-green);
+  font-size: 1.35rem;
+  margin-top: 0;
+  margin-bottom: 1.25rem;
+}
+
+.calv-faq-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.calv-faq-item {
+  border-bottom: 1px solid #e9f0ec;
+  padding: 1rem 0;
+}
+
+.calv-faq-item:last-child { border-bottom: none; }
+
+.calv-faq-question {
+  font-weight: 700;
+  color: #2d3748;
+  font-size: .95rem;
+  margin-bottom: .4rem;
+}
+
+.calv-faq-answer {
+  color: #4a5568;
+  font-size: .9rem;
+  line-height: 1.65;
+  margin: 0;
+}
+
+.calv-faq-answer p { margin: 0; }
+
+/* =========================================================
+   AUTHOR BOX — Sprint 15
+   ========================================================= */
+
+.calv-author-box {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+  background: #fff;
+  border: 1px solid #e2e8e4;
+  border-radius: 1rem;
+  padding: 1.25rem 1.5rem;
+  margin-top: 2rem;
+  box-shadow: 0 2px 8px rgba(26,60,46,.05);
+}
+
+.calv-author-avatar {
+  flex-shrink: 0;
+}
+
+.calv-author-svg {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+}
+
+.calv-author-content {
+  flex: 1;
+}
+
+.calv-author-byline {
+  font-size: .8rem;
+  text-transform: uppercase;
+  letter-spacing: .07em;
+  color: #718096;
+  margin: 0 0 .3rem;
+}
+
+.calv-author-byline strong {
+  color: var(--calv-green);
+}
+
+.calv-author-bio {
+  font-size: .875rem;
+  color: #4a5568;
+  line-height: 1.6;
+  margin: 0;
+}
+
+.calv-author-bio a {
+  color: var(--calv-green);
+  font-weight: 600;
+}
+
+@media (max-width: 480px) {
+  .calv-author-box { flex-direction: column; gap: .75rem; }
+}

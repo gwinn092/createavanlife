@@ -1,13 +1,16 @@
 ---
 title: "Best Internet Setup for Van Life"
 slug: "van-internet"
-date: 2026-02-21
+date: 2026-01-12
 description: "Reliable budget internet setups for van life remote work, streaming, and daily communication."
 featureimage: "/images/featured/van-internet.svg"
 featured_image: "/images/featured/van-internet.svg"
 categories: ["best-of"]
 tags: ["internet", "wifi", "remote-work"]
+last_reviewed: 2026-03-03
 ---
+
+**Last reviewed:** March 2026
 
 The best van internet setup is not one device. It is a layered strategy: carrier diversity, antenna quality, and power-aware hardware. For a realistic breakdown of why each layer matters and what a budget setup actually looks like, see [Van Internet: What Actually Works Off-Grid](/blog/van-internet-what-actually-works-off-grid/).
 

@@ -1,12 +1,15 @@
 ---
 title: "Portable Power Stations Under $500 for Van Life (Recovery-First)"
 slug: "power-stations-under-500"
-date: 2026-02-21
+date: 2025-12-20
 description: "Recovery-first guidance for portable power stations under $500 in van life, with price-drift-safe routing and a clear path to Tier 2 when drift repeats."
 featured_image: "/images/featured/power-stations.svg"
 categories: ["best-of"]
 tags: ["power", "battery", "budget", "van life", "portable power"]
+last_reviewed: 2026-03-03
 ---
+
+**Last reviewed:** March 2026
 
 Portable power stations under $500 are one of the smartest entry points into van life — **if you understand their limits**.
 

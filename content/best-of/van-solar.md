@@ -1,13 +1,16 @@
 ---
 title: "Best Budget Solar for Van Life"
 slug: "van-solar"
-date: 2026-02-21
+date: 2025-10-22
 description: "Best value van solar setups for beginners, including starter kits, upgrade paths, and real-world tradeoffs."
 featureimage: "/images/featured/van-solar.svg"
 featured_image: "/images/featured/van-solar.svg"
 categories: ["best-of"]
 tags: ["solar", "power", "budget"]
+last_reviewed: 2026-03-03
 ---
+
+**Last reviewed:** March 2026
 
 If you want the quick answer: most budget builders should start with a **200W to 400W system** paired with a battery bank sized for one day of normal use. Oversizing too early is one of the fastest ways to blow a build budget. New to solar? Start with [Solar Power for Van Life Beginners](/blog/solar-power-for-van-life-beginners/) for sizing context before picking hardware.
 
@@ -94,5 +97,5 @@ If you are weighing solar against fast charging for drift control, use this comp
 ## Related Reading
 
 - [How Much Solar Do You Need in a Van?](/blog/how-much-solar-do-you-need-in-a-van/)
-- [Portable Power Stations vs Full Electrical Build](/blog/portable-power-stations-vs-full-electrical-build/)
+- [Portable Power vs Full Electrical Build](/blog/portable-power-vs-full-electrical-build/)
 - [Bluetti Elite 200 V2 Review](/gear/bluetti-elite-200-v2-power-station-review/)

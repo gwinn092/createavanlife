@@ -1,13 +1,16 @@
 ---
 title: "Best Budget Van Kitchen Gear"
 slug: "van-kitchen"
-date: 2026-02-21
+date: 2025-11-05
 description: "Budget kitchen gear for van life that saves space, reduces food costs, and stays practical on the road."
 featureimage: "/images/featured/van-kitchen.svg"
 featured_image: "/images/featured/van-kitchen.svg"
 categories: ["best-of"]
 tags: ["kitchen", "cooking", "budget"]
+last_reviewed: 2026-03-03
 ---
+
+**Last reviewed:** March 2026
 
 A smart van kitchen should reduce daily spend and friction. Complicated builds often fail because they are harder to clean and maintain.
 
@@ -63,3 +66,4 @@ Next step: use the recovery-first onboarding flow here: [Start Here](/start-here
 - [Budget Kitchen Setup for Van Life](/blog/budget-kitchen-setup-for-van-life/)
 - [Tools You’ll Actually Use in a First Build](/blog/tools-youll-actually-use-in-a-first-build/)
 - [Best Van Fans and Ventilation](/best-of/best-van-fans/)
+- [Best Budget Van Lighting](/best-of/best-van-lighting/)

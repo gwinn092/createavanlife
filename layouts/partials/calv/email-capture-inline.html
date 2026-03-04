@@ -1,0 +1,33 @@
+{{/*
+  Inline email capture — shown at end of every article.
+  If email_provider + email_form_action_or_embed are set: real form.
+  Otherwise: CTA to buyer checklist (always useful, never broken).
+*/}}
+{{- $provider := default "" .Site.Params.email_provider -}}
+{{- $action   := default "" .Site.Params.email_form_action_or_embed -}}
+{{- $localLangParams := dict -}}
+{{- range site.Languages -}}
+  {{- if eq (lower .Lang) "local" -}}
+    {{- with .Params -}}{{- $localLangParams = . -}}{{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- if not $provider -}}{{- $provider = default "" (index $localLangParams "email_provider") -}}{{- end -}}
+{{- if not $action   -}}{{- $action   = default "" (index $localLangParams "email_form_action_or_embed") -}}{{- end -}}
+
+<div class="calv-email-inline">
+  <p class="calv-email-inline__eyebrow">Free resource</p>
+  <p class="calv-email-inline__heading">Van Power Sizing Checklist</p>
+  <p class="calv-email-inline__sub">The practical checklist for sizing your power system — battery, solar, and charging strategy. No wiring procedures.</p>
+  {{ if and $provider $action }}
+  <form action="{{ $action }}" method="post" class="calv-email-inline__form" data-calv-email-provider="{{ $provider }}">
+    <input name="email_address" type="email" required placeholder="your@email.com" class="calv-email-inline__input">
+    <button type="submit" class="calv-email-inline__btn">Get it free</button>
+  </form>
+  {{ else }}
+  <div class="calv-email-inline__form">
+    <a href="/fast-charging-power-station-buyer-checklist/" class="calv-email-inline__btn" style="text-decoration:none;">View Buyer Checklist →</a>
+    <a href="/van-power-calculator/" class="calv-email-inline__btn" style="text-decoration:none;background:transparent;border:1px solid rgba(232,160,32,.5);color:var(--calv-off-white);">Try the Calculator →</a>
+  </div>
+  {{ end }}
+  <p class="calv-email-inline__fine">No spam. Unsubscribe any time. See our <a href="/privacy-policy/" style="color:rgba(248,245,240,.6);">Privacy Policy</a>.</p>
+</div>

@@ -1,13 +1,16 @@
 ---
 title: "Best High-Capacity Portable Power Stations for Van Life"
-date: 2026-02-22
+date: 2026-01-28
 description: "A system-tier guide for van lifers who need large-capacity portable power with faster recharge and longer run time."
 slug: "high-capacity-power-stations"
 featureimage: "/images/featured/power-stations.svg"
 featured_image: "/images/featured/power-stations.svg"
 categories: ["best-of"]
 tags: ["power", "portable-power", "lifepo4", "van-life"]
+last_reviewed: 2026-03-03
 ---
+
+**Last reviewed:** March 2026
 
 High-capacity portable stations are for van setups that have moved past occasional charging and into daily, sustained energy use. If your workflow includes long laptop blocks, Starlink time, or electric cooking bursts, this is the tier where power stops feeling tight.
 

@@ -1,6 +1,6 @@
 ---
 title: "How Many Watt-Hours Do I Need in a Van?"
-date: 2026-02-22
+date: 2026-02-14
 description: "A practical sizing framework for portable power systems based on real daily van loads."
 featureimage: "/images/featured/power-stations.svg"
 featured_image: "/images/featured/power-stations.svg"

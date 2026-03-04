@@ -1,6 +1,6 @@
 ---
-title: "Create A Van Life"
-description: "Budget van life gear guides, real-world reviews, and beginner-friendly build advice."
+title: "Create A Van Life | Recovery-First Van Power for Budget Builds"
+description: "Calm, constraint-based van power guidance. Budget picks, buyer checklists, and recovery routes for real van life — not ideal-day specs."
 featureimage: "/images/hero/homepage-hero.svg"
 featured_image: "/images/hero/homepage-hero.svg"
 keywords: ["budget van life", "van life gear", "van build"]

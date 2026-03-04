@@ -1,6 +1,6 @@
 ---
 title: "Ventilation Mistakes New Van Lifers Make"
-date: 2026-02-21
+date: 2026-01-22
 description: "Top airflow mistakes that lead to condensation, poor sleep, and comfort issues in van builds."
 featureimage: "/images/featured/van-fans.svg"
 categories: ["blog"]
@@ -29,5 +29,6 @@ Moisture doesn't disappear — it condenses on the coldest surfaces available, w
 
 Related reading:
 - [Best Van Fans and Ventilation](/best-of/best-van-fans/)
+- [Staying Cool in a Van Without AC](/blog/van-life-summer-heat-no-ac/)
 - [MaxxFan Deluxe 7500 Review](/gear/maxxair-maxxfan-deluxe-7500k-review/)
 - [CRL T-Vent Window Review](/gear/crl-t-vent-windows-for-promaster-review/)

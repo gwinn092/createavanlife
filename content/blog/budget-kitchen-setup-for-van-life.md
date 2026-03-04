@@ -1,6 +1,6 @@
 ---
 title: "Budget Kitchen Setup for Van Life"
-date: 2026-02-21
+date: 2025-10-30
 description: "Budget van kitchen setup with practical gear picks, space-saving tips, and what actually works for cooking and eating well on the road."
 featureimage: "/images/featured/van-kitchen.svg"
 categories: ["blog"]

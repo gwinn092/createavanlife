@@ -1,13 +1,16 @@
 ---
 title: "Best Van Fans and Ventilation Setups"
 slug: "best-van-fans"
-date: 2026-02-21
+date: 2025-12-08
 description: "Best roof fans and airflow upgrades for budget van life comfort and moisture control."
 featureimage: "/images/featured/van-fans.svg"
 featured_image: "/images/featured/van-fans.svg"
 categories: ["best-of"]
 tags: ["ventilation", "fans", "comfort"]
+last_reviewed: 2026-03-03
 ---
+
+**Last reviewed:** March 2026
 
 Ventilation is not optional. It protects sleep quality, reduces mold risk, and keeps summer trips manageable.
 
@@ -43,7 +46,7 @@ We scored fan setups by airflow performance, reliability over time, install comp
 Best overall for people who live in the van regularly.
 
 ### MaxxAir 4500
-Best budget-first roof fan that still does the core job.
+Best budget-first roof fan that still does the core job. See the full breakdown: [MaxxAir 4500K Fan Review](/gear/maxxair-4500k-fan-review/).
 
 ### Crossflow Upgrade: Add CRL T-Vent Windows
 A roof fan without crossflow leaves comfort on the table.

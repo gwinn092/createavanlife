@@ -1,39 +1,39 @@
+{{/*
+  Email capture module — rail version (sidebar).
+  If email_provider + email_form_action_or_embed are set in params, uses real form action.
+  Otherwise renders with a mailto fallback so the design is always visible.
+  To wire up: add email_provider and email_form_action_or_embed to params.toml or hugo.local.toml.
+*/}}
 {{- $provider := default "" .Site.Params.email_provider -}}
-{{- $action := default "" .Site.Params.email_form_action_or_embed -}}
+{{- $action   := default "" .Site.Params.email_form_action_or_embed -}}
 {{- $localLangParams := dict -}}
 {{- range site.Languages -}}
   {{- if eq (lower .Lang) "local" -}}
-    {{- with .Params -}}
-      {{- $localLangParams = . -}}
-    {{- end -}}
+    {{- with .Params -}}{{- $localLangParams = . -}}{{- end -}}
   {{- end -}}
 {{- end -}}
-{{- if not $provider -}}
-  {{- $provider = default "" (index $localLangParams "email_provider") -}}
-{{- end -}}
-{{- if not $action -}}
-  {{- $action = default "" (index $localLangParams "email_form_action_or_embed") -}}
-{{- end -}}
-{{- if and $provider $action -}}
-  <section class="calv-rail-card calv-email-capture">
-    <div class="calv-rail-eyebrow">RECOVERY CHECKLIST</div>
-    <p class="calv-rail-note" style="margin-top:0;">
-      Get the Recovery Window Checklist: fast, practical, and no wiring procedures.
-    </p>
-    <form action="{{ $action }}" method="post" class="mt-3 grid gap-2" data-calv-email-provider="{{ $provider }}">
-      <label class="text-xs font-semibold uppercase tracking-wide opacity-75" for="calv-email-capture">Email</label>
-      <input
-        id="calv-email-capture"
-        name="email"
-        type="email"
-        required
-        placeholder="you@example.com"
-        class="w-full rounded-md border border-neutral-300 bg-white/95 px-3 py-2 text-sm text-neutral-900">
-      <button type="submit" class="calv-btn w-full">Get checklist</button>
-    </form>
-    <p class="mt-2 text-xs opacity-80">
-      By subscribing, you agree to receive recovery-first updates. See our
-      <a href="/privacy-policy/">Privacy Policy</a>.
-    </p>
-  </section>
-{{- end -}}
+{{- if not $provider -}}{{- $provider = default "" (index $localLangParams "email_provider") -}}{{- end -}}
+{{- if not $action   -}}{{- $action   = default "" (index $localLangParams "email_form_action_or_embed") -}}{{- end -}}
+
+<section class="calv-rail-card calv-email-capture">
+  <div class="calv-rail-eyebrow">FREE GUIDE</div>
+  <p class="calv-rail-note" style="margin-top:0;font-weight:600;color:#1a3c2e;">
+    Van Power Checklist
+  </p>
+  <p class="calv-rail-note" style="margin-top:.25rem;">
+    The sizing worksheet and recovery checklist — practical, no wiring procedures.
+  </p>
+  {{ if and $provider $action }}
+  <form action="{{ $action }}" method="post" class="mt-3 grid gap-2" data-calv-email-provider="{{ $provider }}">
+    <label class="text-xs font-semibold uppercase tracking-wide opacity-75" for="calv-email-capture">Email</label>
+    <input id="calv-email-capture" name="email_address" type="email" required placeholder="you@example.com"
+      class="w-full rounded-md border border-neutral-300 bg-white/95 px-3 py-2 text-sm text-neutral-900">
+    <button type="submit" class="calv-btn w-full">Get checklist</button>
+  </form>
+  {{ else }}
+  <a href="/fast-charging-power-station-buyer-checklist/" class="calv-btn" style="display:block;text-align:center;margin-top:.75rem;">View Buyer Checklist →</a>
+  {{ end }}
+  <p class="mt-2 text-xs opacity-70">
+    No spam. See our <a href="/privacy-policy/">Privacy Policy</a>.
+  </p>
+</section>

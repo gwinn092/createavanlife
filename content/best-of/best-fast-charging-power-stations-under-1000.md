@@ -2,11 +2,14 @@
 title: "Best Fast-Charging Power Stations Under $1000 for Van Life (700Wh+)"
 description: "Price-drift safe, recovery-first fast-charging picks under $1000 for van life, with clear under-now vs More Picks routing and a stable upgrade path."
 slug: "best-fast-charging-power-stations-under-1000"
-date: 2026-02-22
+date: 2026-02-19
 draft: false
 categories: ["Power"]
 tags: ["van life", "portable power station", "fast charging", "recovery", "budget", "best-of"]
+last_reviewed: 2026-03-03
 ---
+
+**Last reviewed:** March 2026
 
 Fast charging is how you **recover** when van life gets real: heat, clouds, humid nights, quiet hours, workdays, and missed solar.
 

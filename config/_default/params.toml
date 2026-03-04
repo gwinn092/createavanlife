@@ -7,6 +7,9 @@ disableTextInHeader = false
 defaultSocialImage = "/images/featured/van-solar.svg"
 
 description = "Budget van life gear guides, real-world reviews, and beginner-friendly build advice."
+
+email_provider = "kit"
+email_form_action_or_embed = "https://app.kit.com/forms/9158537/subscriptions"
 keywords = ["budget van life", "van life gear", "van conversion", "affiliate gear guide", "off-grid van build"]
 mainSections = ["best-of", "gear", "blog", "start-here"]
 

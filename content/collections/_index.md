@@ -3,6 +3,8 @@ title: "Browse"
 description: "Curated fast-charging aisles so you can route by constraint instead of hunting through disconnected pages."
 date: 2026-02-27
 draft: false
+categories: ["Power"]
+tags: ["van life", "power", "budget"]
 ---
 Use this page as your browse map. Pick the aisle that matches your current constraint, then follow the shortest path to a recovery-first decision.
 

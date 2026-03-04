@@ -1,11 +1,12 @@
 ---
 title: "Portable Power vs Full Electrical Build"
-date: 2026-02-22
+date: 2026-02-18
 description: "How to choose between a portable power station strategy and a full fixed electrical system in a van."
 featureimage: "/images/featured/power-stations.svg"
 featured_image: "/images/featured/power-stations.svg"
 categories: ["blog"]
 tags: ["power", "electrical", "build-planning", "van-life"]
+aliases: ["/blog/portable-power-stations-vs-full-electrical-build/"]
 ---
 
 This decision should follow your use pattern, not online hype. Portable systems reduce install risk; fixed systems improve integration and scaling.

@@ -1,13 +1,16 @@
 ---
 title: "Best Budget Build Tools for a First Van Conversion"
 slug: "budget-build-tools"
-date: 2026-02-21
+date: 2025-11-25
 description: "The most useful budget tools for a first van build, including what to skip and what to borrow."
 featureimage: "/images/featured/build-tools.svg"
 featured_image: "/images/featured/build-tools.svg"
 categories: ["best-of"]
 tags: ["tools", "van-build", "budget"]
+last_reviewed: 2026-03-03
 ---
+
+**Last reviewed:** March 2026
 
 You do not need a garage full of tools for a strong first build. You need a small set of reliable tools and a clear sequence.
 

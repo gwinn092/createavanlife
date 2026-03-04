@@ -1,110 +1,115 @@
 ---
-title: "Start Here: Recovery-First Van Power Flow"
-description: "New to Create A Van Life? Use this calm flow to diagnose drift, choose recovery moves, and pick the right buyer path without panic upgrades."
+title: "Start Here"
+description: "New to van life power? Use this page to find the shortest path to what you actually need — whether you're just researching, ready to buy, or troubleshooting an existing setup."
 slug: "start-here"
 date: 2026-02-22
 draft: false
 categories: ["Power"]
-tags: ["van life", "start here", "recovery", "stability", "fast charging"]
+tags: ["van life", "start here", "beginner", "power planning"]
+showTableOfContents: false
 ---
 
-Create A Van Life is a recovery-first framework for van power. The goal is to help you stay stable through real conditions, not just ideal days.
+## Where are you right now?
 
-We use **CAVL** as shorthand for **Create A Van Life**.
+Pick the one that fits. Each path is a short list — not a rabbit hole.
 
-If you follow the routing in this page, you can reduce drift, choose better refill moves, and avoid panic upgrades.
-<div class="calv-cta-module">
-  <div class="calv-cta-row">
-    <a class="calv-cta" href="/fast-charging-power-station-buyer-checklist/">Buyer Checklist</a>
-    <a class="calv-cta calv-cta-secondary" href="/fast-charging-buyer-guides/">Buyer Guides</a>
-  </div>
-</div>
+---
 
-Methodology and sourcing standards:
-- **[How We Test and Source Van Power](/how-we-test-and-source-van-power/)**
-Need everything in one place? Use the full guide index: **[Site Map: All Guides](/site-map/)**.
+### Path 1: I'm new to van life and don't know where to start
 
-## The 3-step flow (everyone)
+Start with the basics before touching any gear.
 
-1. Diagnose:
-   - **[Van Power Stability Scorecard](/van-power-stability-scorecard/)**
-2. Pick recovery:
-   - **[Recovery Moves Index](/recovery-moves-index/)**
-3. Decide upgrades:
-   - **[Van Power Upgrade Decision Tree](/van-power-upgrade-decision-tree/)**
+1. **[How to Choose Your First Van](/blog/how-to-choose-your-first-van/)** — cargo van vs. minivan vs. passenger van. Real tradeoffs, not rankings.
+2. **[How to Start Van Life on a Budget](/blog/how-to-start-van-life-on-a-budget/)** — the sequencing that keeps spending rational. Read this before buying anything.
+3. **[Budget Van Electrical: Simple vs DIY](/blog/budget-van-electrical-simple-vs-diy/)** — plug-and-play power station vs. a built electrical system. Honest cost comparison.
+4. **[Van Power Sizing Calculator](/van-power-calculator/)** — enter your devices, get a recommended battery size and solar wattage. Free, takes 2 minutes.
 
-## Pick your situation
+**After those four, you will know exactly what system tier you need and why.**
 
-- **Heat and humidity:** **[Van Power Conditions Index](/van-power-conditions-index/)** and **[Best Fast-Charging Power Stations for Heat + Humidity](/best-fast-charging-power-stations-for-heat-and-humidity/)**.
-- **Cold weather:** **[Cold Weather Van Power Recovery](/cold-weather-van-power-recovery/)** and **[Best Fast-Charging Power Stations for Cold Weather](/best-fast-charging-power-stations-for-cold-weather/)**.
-- **Work pressure:** **[Work Pressure Van Power Recovery](/work-pressure-van-power-recovery/)** and **[Best Fast-Charging Power Stations for Work](/best-fast-charging-power-stations-for-work/)**.
-- **Essentials baseline:** **[Best Fast-Charging Power Stations for Essentials](/best-fast-charging-power-stations-for-essentials/)**.
-- **Under-$500 start:** **[Portable Power Stations Under $500](/best-of/power-stations-under-500/)** and **[Under-$500 to Tier 2 Upgrade Bridge](/under-500-to-tier-2-upgrade-bridge/)**.
+---
 
-## If you want to buy (fast)
-Sometimes you don't need a philosophy lesson — you need your week back.
+### Path 2: I know what I need — show me the picks
 
-Portable, fast-recharging power wins when the real constraint isn't "How big can I go?" but **how quickly you can recover** in the windows you *actually* get: a short plug-in at a campground, an hour at a friend's driveway, a clean lunch-stop reset, a quick top-up between moves. It's the difference between a calm evening and the low-grade stress of watching your battery line drift downward.
+Go directly to the buyer page that matches your situation:
 
-Start here:
+- **Budget under $500:** [Portable Power Stations Under $500](/best-of/power-stations-under-500/)
+- **Budget under $1,000 (fast-charging priority):** [Best Fast-Charging Stations Under $1,000](/best-fast-charging-power-stations-under-1000/)
+- **Need more capacity (fridge + full workday):** [High-Capacity Power Stations](/best-of/high-capacity-power-stations/)
+- **Solar for your van:** [Best Budget Solar for Van Life](/best-of/van-solar/)
+- **Internet for remote work:** [Best Internet Setup for Van Life](/best-of/van-internet/)
+- **All buyer pages:** [Best Picks](/best-of/)
 
-- **[Fast-Charging Buyer Guides](/fast-charging-buyer-guides/)**  
-- **[Fast-Charging Power Station Buyer Checklist](/fast-charging-power-station-buyer-checklist/)**
+Not sure which tier you need? Use the **[Van Power Sizing Calculator](/van-power-calculator/)** first — it takes 2 minutes and routes you to the right page.
 
-Then, if you want direct "tell me what to buy" pages, go straight to: **[Best Fast-Charging Power Stations](/best-fast-charging-power-stations/)** and **[Best Fast-Charging Power Stations Under $1000](/best-fast-charging-power-stations-under-1000/)**.
+---
 
-### It wins when your life has short refill windows
+### Path 3: I have a setup but it's not keeping up
 
-- **After a long drive day, you still need a working night.**  
-  You're parked, you're tired, and you need laptop time, lights, maybe a fan. A fast refill turns one short plug-in window into a real reset — not a half-measure you spend the evening babysitting.
+Your problem is probably one of three things:
 
-- **You move every 1-2 days.**  
-  Fast recovery fits travel patterns. You don't have to "wait for the perfect solar day" to feel stable again — you just keep the rhythm: arrive, refill, repeat.
+**1. You are using more power than you think.** Use the [Van Power Sizing Calculator](/van-power-calculator/) to check. Most people underestimate their fridge load.
 
-- **Quiet hours are real, and you want to keep them.**  
-  Portable power lets you front-load recovery earlier in the day and stay silent overnight. The win isn't just electricity — it's not negotiating with yourself at 10 p.m.
+**2. Your recharge strategy does not match your usage pattern.** Read [Alternator Charging for Power Stations](/blog/alternator-charging-for-power-stations/) — most power shortfalls are fixed here, not by buying a bigger station.
 
-- **Your build isn't ready for decisions that stick.**  
-  Early-stage builders and renters don't need a permanent plan on day one. Portable-first keeps you functional now, while you learn what your real loads and habits actually are.
+**3. Your solar is underperforming.** [How Much Solar Do You Need in a Van?](/blog/how-much-solar-do-you-need-in-a-van/) walks through the real math. Cloud factor and roof space limits are the most common surprises.
 
-- **Two people share one power routine.**  
-  Predictable refill windows reduce friction. When power becomes a repeatable habit instead of a daily debate, the whole van feels bigger.
+If you are still stuck after those three: [Fast Charging Not Keeping Up? What to Fix First](/fast-charging-not-keeping-up-what-to-fix-first/).
 
-### Quick chooser
+---
 
-- **If you need reliable power *this week*, go portable-first** — because it restores routine immediately.  
-- **If your plug-in windows are short but consistent, go recharge-speed-first** — because recovery time is the bottleneck, not "best specs on paper."  
-- **If you're still learning your loads, go modular** — because it prevents expensive overbuild decisions.  
-- **If your stress is "I'm falling behind," choose the shortest repeatable recharge window first** — then add margin later.
+## How this site works
 
-### When it doesn't win
+**Create A Van Life** covers van power gear honestly — no fake urgency, no padded lists, no undisclosed relationships with brands.
 
-Portable-only starts to feel tight when:
+Every specific number on this site carries a label:
+- **Spec** — manufacturer-published figure
+- **Reported** — cited from a third-party test or review
+- **Measured** — controlled test with cited source
+- **Estimate** — reasoned approximation, not a hard claim
 
-- **You run large, constant AC loads all day.** You may outpace realistic refill windows, no matter how fast the input looks.  
-- **You expect multi-day off-grid in low-sun weather with minimal driving or outlets.** Gaps stack — and drift becomes your default.  
-- **You need whole-van integrated behavior.** Portable systems can be brilliant, but some people outgrow "move it, plug it, manage it" workflows.
+This matters because van life gear marketing is full of numbers that blur those lines. When you see a watt-hour figure here, you know whether it came from the brand, a tester, or a calculation.
 
-### Fast start routes
+We use affiliate links — if you buy through a link, we may earn a small commission at no extra cost to you. That does not change what we recommend or how we label claims.
 
-If you're ready to act, pick the path that matches your week:
+---
 
-- **[Checklist](/fast-charging-power-station-buyer-checklist/)** (buy with fewer regrets)  
-- **[Under-$1000](/best-fast-charging-power-stations-under-1000/)** (budget + recovery speed)  
-- **[Quiet Hours](/best-fast-charging-power-stations-for-quiet-hours/)** (silent overnight stability)  
-- **[Generator-Free](/best-fast-charging-power-stations-for-generator-free-van-life/)** (predictability > luck)  
-- **[Deals](/deals/)** (when timing matters)
+## The recovery-first framework
 
-## Next step
+Most van life power advice is written for good conditions: sunny skies, campground hookups, relaxed schedules. That is not most van life.
 
-Next step: take the **[Van Power Stability Scorecard](/van-power-stability-scorecard/)** in 5 minutes.
+What actually happens is cloudy stretches, campground quiet hours, heavy work weeks, and parking constraints that limit when and where you can recharge. A recovery-first approach asks: **what keeps you stable through your worst week, not your best one?**
 
-## Related reads
+That shifts what matters:
+- Recharge speed often matters more than raw capacity when your windows are short
+- Alternator charging while driving is underrated vs. solar
+- One battery failure on a remote trip matters more than specs on a good day
 
-- **[Van Power Conditions Index](/van-power-conditions-index/)**
-- **[Fast-Charging Buyer Guides](/fast-charging-buyer-guides/)**
-- **[Fast-Charging Power Station Buyer Checklist](/fast-charging-power-station-buyer-checklist/)**
-- **[Van Power Upgrade Checklist](/van-power-upgrade-checklist/)**
-- **[Tier 2 Bad Week Protocol](/tier-2-bad-week-protocol/)**
-- **[Gear That Improves Van Power Stability](/gear-that-improves-van-power-stability/)**
-- **[Van Power Recovery Stack](/van-power-recovery-stack/)**
+If you want to go deep on this framework: [About Create A Van Life](/about/).
+
+---
+
+## Useful starting points by topic
+
+**Build planning:**
+- [How to Choose Your First Van](/blog/how-to-choose-your-first-van/)
+- [Budget Van Electrical: Simple vs DIY](/blog/budget-van-electrical-simple-vs-diy/)
+- [Van Conversion Tools: What to Buy, Borrow, and Skip](/blog/top-10-budget-van-conversion-tools/)
+
+**Power sizing:**
+- [Van Power Sizing Calculator](/van-power-calculator/) ← free tool
+- [How Much Solar Do You Need in a Van?](/blog/how-much-solar-do-you-need-in-a-van/)
+- [How Many Watt-Hours Do I Need?](/blog/how-many-watt-hours-do-i-need/)
+
+**Solar:**
+- [Solar Power for Van Life Beginners](/blog/solar-power-for-van-life-beginners/)
+- [Best Budget Solar for Van Life](/best-of/van-solar/)
+
+**Remote work:**
+- [Remote Work From Your Van: Inexpensive Setup](/blog/remote-work-from-your-van-inexpensive-setup/)
+- [Best Internet Setup for Van Life](/best-of/van-internet/)
+
+**Budget living:**
+- [How to Start Van Life on a Budget](/blog/how-to-start-van-life-on-a-budget/)
+- [Van Life Heating on a Budget](/blog/van-life-heating-budget/)
+- [Van Life Water Setup on a Budget](/blog/van-life-water-setup-budget/)
+- [Van Life Sleep Setup on a Budget](/blog/van-life-sleep-setup-budget/)

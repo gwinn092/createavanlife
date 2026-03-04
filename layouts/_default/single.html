@@ -132,6 +132,7 @@
         {{ if (.Params.showAuthorBottom | default (site.Params.article.showAuthorBottom | default false)) }}
           {{ template "SingleAuthor" . }}
         {{ end }}
+        {{ partial "calv/email-capture-inline.html" . }}
         {{ partial "author-box.html" . }}
         {{ partial "series/series-closed.html" . }}
         {{ partial "sharing-links.html" . }}

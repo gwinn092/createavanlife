@@ -1,14 +1,14 @@
 {{ define "main" }}
   <section class="home-shell home-storefront mx-auto w-full max-w-7xl space-y-7 py-6 md:space-y-8 md:py-9">
     <header class="storefront-hero">
-      <p class="storefront-kicker">Storefront Hub</p>
-      <h1>Pick your van power category and move fast.</h1>
-      <p class="storefront-subhead">Recovery-first routes for under-$1000, quiet-hours constraints, and bad-week catch-up.</p>
+      <p class="storefront-kicker">Honest guides for budget van life</p>
+      <h1>Find the right van power setup — without overbuilding or overspending.</h1>
+      <p class="storefront-subhead">Real-world gear guides, a free power calculator, and beginner-to-full-time advice from 7+ years of full-time van life. Every spec labeled so you can compare clearly.</p>
       <div class="storefront-cta-row">
-        <a href="#shop-by-category" class="storefront-btn storefront-btn-primary" role="button">Shop by category</a>
+        <a href="{{ "/van-power-calculator/" | relLangURL }}" class="storefront-btn storefront-btn-primary" role="button">Size my system →</a>
         <a href="{{ "/start-here/" | relLangURL }}" class="storefront-btn storefront-btn-ghost" role="button">Start Here</a>
       </div>
-      <p class="storefront-search-note">Need something specific? Use the search icon in the header for instant results.</p>
+      <p class="storefront-search-note">Already know what you need? Use the search icon in the header for instant results.</p>
     </header>
 
     <section id="shop-by-category" class="storefront-grid-wrap">

@@ -1,6 +1,6 @@
 ---
 title: "Van Internet: What Actually Works Off-Grid"
-date: 2026-02-21
+date: 2026-01-09
 description: "A realistic internet strategy for van life remote work with redundancy and budget control."
 featureimage: "/images/featured/van-internet.svg"
 categories: ["blog"]

@@ -53,3 +53,8 @@ weight = 30
 name = "Browse"
 pageRef = "/collections"
 weight = 45
+
+[[main]]
+name = "Calculator"
+pageRef = "/van-power-calculator"
+weight = 35
