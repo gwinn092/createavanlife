@@ -1,0 +1,59 @@
+{{ define "main" }}
+  {{ $pages := .RegularPages }}
+  {{ if and (eq (len $pages) 0) .Section }}
+    {{ $pages = where site.RegularPages "Section" .Section }}
+  {{ end }}
+  {{ if eq (len $pages) 0 }}
+    {{ $pages = .Pages }}
+  {{ end }}
+
+  <section class="vf-list-wrap mx-auto w-full max-w-7xl space-y-8 py-6">
+    <header class="vf-collection-hero" style="background-image: url('{{ "/images/photos/van-dirt-road.jpg" | relURL }}');">
+      <div class="vf-collection-hero__overlay" aria-hidden="true"></div>
+      <div class="vf-collection-hero__inner">
+        <p class="vf-collection-hero__kicker">Browse</p>
+        <h1 class="vf-collection-hero__h1">{{ .Title }}</h1>
+        {{ if .Description }}
+          <p class="vf-collection-hero__desc">{{ .Description }}</p>
+        {{ end }}
+      </div>
+    </header>
+
+    {{ if gt (len $pages) 0 }}
+      <div class="vf-list-grid grid gap-6 md:grid-cols-2 xl:grid-cols-4">
+        {{ range $pages.ByDate.Reverse }}
+          {{ $img := "/images/photos/van-dirt-road.jpg" }}
+          {{ $raw := .Params.featureimage | default .Params.featuredImage }}
+          {{ if and $raw (not (strings.HasSuffix (string $raw) ".svg")) (not (strings.HasPrefix (string $raw) "/images/featured/")) }}
+            {{ $img = $raw }}
+          {{ end }}
+          <article class="vf-list-card overflow-hidden rounded-2xl border border-neutral-200 bg-white shadow-sm transition hover:-translate-y-1 hover:shadow-lg">
+            <a href="{{ .RelPermalink }}" aria-label="{{ .Title }}">
+              <img src="{{ $img | relURL }}" alt="{{ .Title }}" class="h-44 w-full object-cover" loading="lazy">
+            </a>
+            <div class="space-y-3 p-5">
+              <h2 class="text-lg font-extrabold text-neutral-900">
+                <a href="{{ .RelPermalink }}" class="hover:text-primary-600">{{ .Title }}</a>
+              </h2>
+              <p class="text-sm leading-6 text-neutral-600">
+                {{ .Params.description | default .Summary | plainify | truncate 120 }}
+              </p>
+              <a href="{{ .RelPermalink }}" class="inline-block rounded-full bg-neutral-900 px-4 py-2 text-xs font-bold text-white hover:bg-neutral-700" role="button">
+                Browse Route
+              </a>
+            </div>
+          </article>
+        {{ end }}
+      </div>
+    {{ end }}
+
+    {{ if .Content }}
+      <div class="vf-browse-more">
+        <div class="vf-browse-more__inner prose prose-neutral max-w-none">
+          {{ .Content }}
+        </div>
+      </div>
+    {{ end }}
+
+  </section>
+{{ end }}

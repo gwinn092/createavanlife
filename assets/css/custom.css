@@ -5682,3 +5682,49 @@ code.calv-label--estimate {
   font-weight: 700;
 }
 
+/* ── Browse more section (collections/_index) ── */
+.vf-browse-more {
+  background: #f8fafc;
+  border: 1px solid #e2eaf6;
+  border-radius: 1rem;
+  padding: 2rem 2.5rem;
+}
+.vf-browse-more__inner h2 {
+  font-size: 1rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #0a1d36;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 2px solid #bae6fd;
+}
+.vf-browse-more__inner h2:first-child {
+  margin-top: 0;
+}
+.vf-browse-more__inner ul {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 0.5rem 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 0.4rem 1.5rem;
+}
+.vf-browse-more__inner ul li {
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: #334155;
+  padding: 0.25rem 0;
+}
+.vf-browse-more__inner ul li a {
+  font-weight: 600;
+  color: #0a1d36;
+  text-decoration: none;
+  border-bottom: 1px solid #bae6fd;
+}
+.vf-browse-more__inner ul li a:hover {
+  color: #0369a1;
+  border-bottom-color: #0369a1;
+}
+
