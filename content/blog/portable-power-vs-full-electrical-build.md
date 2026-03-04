@@ -56,13 +56,39 @@ It is a recovery-first move: get reliable power now, learn your actual pattern, 
 
 ## When Full Electrical Wins
 
-A fixed system usually wins for heavy appliance use, long autonomous stays, and tightly integrated vehicle charging/solar plans.
+A fixed system usually wins once you've collected enough data on your actual usage to know where portable falls short.
 
-> Diagram placeholder: Decision tree for portable-first vs fixed-system builds.
+### It Wins When...
+
+- Your daily load consistently exceeds 800–1,000Wh and you're regularly hitting station limits.
+  Why: a fixed LiFePO4 bank scales to 2,000–5,000Wh in ways portable stations can't match in price per Wh.
+  Example: running a CPAP, full work setup, electric cooking, and climate control in a hot climate.
+- You stay stationary for multi-day stretches without shore access.
+  Why: large fixed banks with rooftop solar arrays can harvest and hold enough for extended autonomous use without drive-day recovery.
+  Example: remote camping four or more nights in the same spot with no hookups.
+- You want deep vehicle integration — alternator charging at high rates, engine-linked battery management, always-on 12V circuits.
+  Why: fixed systems connect directly to vehicle electrical, enabling managed multi-stage charging and cleaner loads on factory wiring.
+  Example: a transit van build with a dedicated 200A alternator upgrade and 2,000W inverter for tools or cooking.
+- You've already been through a portable phase and know exactly what you need more of.
+  Why: the best fixed-system builds come from real usage data, not pre-build assumptions. Portable first, fixed later is a legitimate and common path.
+
+### Decision Shortcut
+
+- If your daily load is consistently above 800Wh and growing, a fixed bank will cost less per Wh than stacking more portable stations. `Estimate`
+- If you do 50%+ of your time stationary in remote spots without power access, solar-fed fixed storage pays off faster. `Estimate`
+- If you've outgrown portable power twice already, stop bridging and build the system you actually need. `Estimate`
+
+### Tradeoffs
+
+- Install complexity is real: wiring, BMS selection, fuse placement, and battery mounting take time and carry risk if done wrong. `Estimate`
+- Fixed systems are harder to move between vehicles or sell off as standalone units.
+- The upfront cost is higher; the payoff comes from lower cost per Wh at scale and better solar input capacity.
 
 ## Real-World Perspective
 
-After years of full-time use, the practical pattern is clear: many builders should start portable, collect usage data, then upgrade only when limits are consistently hit.
+After extended full-time use, the practical pattern is clear: most builders should start portable, collect real usage data through one or two seasons, and upgrade to a fixed system only when limits are consistently hit — not when they anticipate hitting them.
+
+The most expensive builds are the ones that skip the portable phase, install a large fixed system based on guesses, and discover six months later that the actual daily load was half what they assumed.
 
 ## Related Product Pages
 
