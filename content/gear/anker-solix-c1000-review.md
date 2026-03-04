@@ -1,5 +1,6 @@
 ---
 title: "Anker SOLIX C1000 Review for Van Life"
+product_id: "anker-solix-c1000"
 date: 2026-02-22
 description: "A practical framework for evaluating the Anker SOLIX C1000 in van life power systems."
 featureimage: "/images/featured/power-stations.svg"

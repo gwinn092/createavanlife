@@ -1,0 +1,60 @@
+{{- $iso8601 := "2006-01-02T15:04:05-07:00" -}}
+{{- $org := dict "@type" "Organization" "name" site.Title "url" site.Home.Permalink -}}
+
+{{- $product := dict -}}
+{{- with .Params.product_id -}}
+  {{- $product = index site.Data.products . | default dict -}}
+{{- end -}}
+
+{{- $image := "" -}}
+{{- with $product.image_path -}}{{- $image = . | absURL -}}{{- end -}}
+{{- if not $image -}}
+  {{- $fi := .Params.featuredImage | default .Params.featureimage -}}
+  {{- if and $fi (not (strings.HasSuffix (string $fi) ".svg")) -}}
+    {{- $image = $fi | absURL -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* Build itemReviewed (Product) */ -}}
+{{- $productName := .Title -}}
+{{- if $product.name -}}{{- $productName = $product.name -}}{{- end -}}
+{{- $itemReviewed := dict "@type" "Product" "name" $productName "url" .Permalink -}}
+{{- with $product.brand -}}{{- $itemReviewed = merge $itemReviewed (dict "brand" (dict "@type" "Brand" "name" .)) -}}{{- end -}}
+{{- with $image -}}{{- $itemReviewed = merge $itemReviewed (dict "image" .) -}}{{- end -}}
+{{- with $product.notes_short -}}{{- $itemReviewed = merge $itemReviewed (dict "description" .) -}}{{- end -}}
+
+{{- /* Build Review node */ -}}
+{{- $review := dict
+  "@context" "https://schema.org"
+  "@type" "Review"
+  "name" .Title
+  "url" .Permalink
+  "author" $org
+  "publisher" $org
+  "dateModified" (.Lastmod.Format $iso8601)
+  "inLanguage" "en-US"
+  "itemReviewed" $itemReviewed
+-}}
+{{- with .Description -}}{{- $review = merge $review (dict "description" .) -}}{{- end -}}
+{{- with .PublishDate -}}{{- $review = merge $review (dict "datePublished" (.Format $iso8601)) -}}{{- end -}}
+{{- with .Params.rating -}}
+  {{- $rating := dict "@type" "Rating" "ratingValue" .value "bestRating" (.best | default 5) "worstRating" (.worst | default 1) -}}
+  {{- $review = merge $review (dict "reviewRating" $rating) -}}
+{{- end -}}
+
+{{- /* Build output — array if product data exists, single if not */ -}}
+{{- if $product.name -}}
+  {{- /* Build Product node with additionalProperty specs */ -}}
+  {{- $productNode := dict "@context" "https://schema.org" "@type" "Product" "name" $product.name "url" .Permalink -}}
+  {{- with $product.brand -}}{{- $productNode = merge $productNode (dict "brand" (dict "@type" "Brand" "name" .)) -}}{{- end -}}
+  {{- with $image -}}{{- $productNode = merge $productNode (dict "image" .) -}}{{- end -}}
+  {{- with $product.notes_short -}}{{- $productNode = merge $productNode (dict "description" .) -}}{{- end -}}
+  {{- $props := slice -}}
+  {{- with $product.wh_spec -}}{{- $props = $props | append (dict "@type" "PropertyValue" "name" "Capacity (Wh)" "value" .) -}}{{- end -}}
+  {{- with $product.ac_input_w_spec -}}{{- $props = $props | append (dict "@type" "PropertyValue" "name" "AC Input (W)" "value" .) -}}{{- end -}}
+  {{- with $product.weight_lb_spec -}}{{- $props = $props | append (dict "@type" "PropertyValue" "name" "Weight (lb)" "value" .) -}}{{- end -}}
+  {{- if $props -}}{{- $productNode = merge $productNode (dict "additionalProperty" $props) -}}{{- end -}}
+  <script type="application/ld+json">{{ slice $review $productNode | jsonify }}</script>
+{{- else -}}
+  <script type="application/ld+json">{{ $review | jsonify }}</script>
+{{- end -}}

@@ -2,6 +2,7 @@
 title: "BLUETTI AC200L Review (Recovery-First, 700Wh+)"
 description: "A practical review of BLUETTI AC200L for high-headroom generator-free recovery plans in van life."
 slug: "bluetti-ac200l"
+product_id: "bluetti-ac200l"
 date: 2026-02-26
 draft: false
 categories: ["Power"]

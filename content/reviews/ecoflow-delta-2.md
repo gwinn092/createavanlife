@@ -2,6 +2,7 @@
 title: "EcoFlow DELTA 2 Review (Recovery-First, 700Wh+)"
 description: "A calm, recovery-first review of the EcoFlow DELTA 2 for van life routines that depend on fast refill windows."
 slug: "ecoflow-delta-2"
+product_id: "ecoflow-delta-2"
 date: 2026-02-26
 draft: false
 categories: ["Power"]

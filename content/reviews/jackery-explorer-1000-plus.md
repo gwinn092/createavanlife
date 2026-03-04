@@ -2,6 +2,7 @@
 title: "Jackery Explorer 1000 Plus Review (Recovery-First, 700Wh+)"
 description: "A calm review of Jackery Explorer 1000 Plus for quiet-hours and rule-constrained recovery planning in van life."
 slug: "jackery-explorer-1000-plus"
+product_id: "jackery-explorer-1000-plus"
 date: 2026-02-26
 draft: false
 categories: ["Power"]

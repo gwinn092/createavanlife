@@ -1,0 +1,46 @@
+{{- $iso8601 := "2006-01-02T15:04:05-07:00" -}}
+{{- $org := dict "@type" "Organization" "name" site.Title "url" site.Home.Permalink -}}
+
+{{- $image := "" -}}
+{{- $fi := .Params.featuredImage | default .Params.featureimage -}}
+{{- if and $fi (not (strings.HasSuffix (string $fi) ".svg")) -}}
+  {{- $image = $fi | absURL -}}
+{{- end -}}
+
+{{- $lastmod := .Lastmod -}}
+{{- with .Params.last_reviewed -}}{{- $lastmod = . | time -}}{{- end -}}
+
+{{- $schema := dict
+  "@context" "https://schema.org"
+  "@type" "Article"
+  "headline" .Title
+  "name" .Title
+  "url" .Permalink
+  "inLanguage" "en-US"
+  "author" $org
+  "publisher" $org
+  "dateModified" ($lastmod.Format $iso8601)
+  "wordCount" .WordCount
+  "mainEntityOfPage" (dict "@type" "WebPage" "@id" .Permalink)
+-}}
+
+{{- with .Description -}}{{- $schema = merge $schema (dict "description" .) -}}{{- end -}}
+{{- with $image -}}{{- $schema = merge $schema (dict "image" .) -}}{{- end -}}
+{{- with .PublishDate -}}{{- $schema = merge $schema (dict "datePublished" (.Format $iso8601)) -}}{{- end -}}
+{{- with .Params.tags -}}{{- $schema = merge $schema (dict "keywords" .) -}}{{- end -}}
+
+{{- if .Section -}}
+  {{- with site.GetPage .Section -}}
+    {{- $schema = merge $schema (dict "articleSection" .Title) -}}
+  {{- end -}}
+{{- end -}}
+
+{{- with .Params.schema_items -}}
+  {{- $items := slice -}}
+  {{- range $i, $item := . -}}
+    {{- $items = $items | append (dict "@type" "ListItem" "position" (add $i 1) "name" $item.name "url" ($item.url | absURL)) -}}
+  {{- end -}}
+  {{- $schema = merge $schema (dict "itemListElement" $items) -}}
+{{- end -}}
+
+<script type="application/ld+json">{{ $schema | jsonify }}</script>

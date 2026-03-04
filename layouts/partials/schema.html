@@ -1,0 +1,12 @@
+{{- /* CAVL schema dispatcher — overrides themes/blowfish/layouts/partials/schema.html */ -}}
+
+{{ if .IsHome }}
+  {{ partial "calv/schema-website.html" . }}
+{{ else }}
+  {{ partial "calv/schema-breadcrumb.html" . }}
+  {{ if or (eq .Section "gear") (eq .Section "reviews") }}
+    {{ partial "calv/schema-review-product.html" . }}
+  {{ else }}
+    {{ partial "calv/schema-article.html" . }}
+  {{ end }}
+{{ end }}

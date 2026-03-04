@@ -2,6 +2,7 @@
 title: "BLUETTI AC180 Review (Recovery-First, 700Wh+)"
 description: "A practical review of the BLUETTI AC180 for quiet-hours and stable weekly recovery in van life."
 slug: "bluetti-ac180"
+product_id: "bluetti-ac180"
 date: 2026-02-26
 draft: false
 categories: ["Power"]

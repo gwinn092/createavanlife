@@ -1,5 +1,6 @@
 ---
 title: "EcoFlow River 2 Pro Review for Van Life"
+product_id: "ecoflow-river-2-pro"
 date: 2026-02-22
 description: "Practical review architecture for the EcoFlow River 2 Pro in real van power use."
 featureimage: "/images/featured/power-stations.svg"

@@ -1,5 +1,6 @@
 ---
 title: "Goal Zero Yeti 1400 Review: 6 Years Full-Time Van Life"
+product_id: "goal-zero-yeti-1400"
 date: 2026-03-04
 description: "A real long-term review of the Goal Zero Yeti 1400 after 6 years of full-time van life use — what held up, what didn't, and why we upgraded."
 featureimage: "/images/featured/power-stations.svg"

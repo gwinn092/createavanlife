@@ -2,6 +2,7 @@
 title: "Anker SOLIX C1000 Review (Recovery-First, 700Wh+)"
 description: "A calm review of Anker SOLIX C1000 for balanced recharge speed, usable margin, and value-focused recovery planning."
 slug: "anker-solix-c1000"
+product_id: "anker-solix-c1000"
 date: 2026-02-26
 draft: false
 categories: ["Power"]

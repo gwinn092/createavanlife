@@ -2,6 +2,7 @@
 title: "EcoFlow DELTA 2 Max Review (Recovery-First, 700Wh+)"
 description: "A recovery-first review of EcoFlow DELTA 2 Max for van lifers who need more weather and workload margin without losing recharge rhythm."
 slug: "ecoflow-delta-2-max"
+product_id: "ecoflow-delta-2-max"
 date: 2026-02-26
 draft: false
 categories: ["Power"]
