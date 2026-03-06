@@ -81,3 +81,7 @@ If you are new here, start with **[Start Here](/start-here/)** — it walks thro
 If you want to understand how and why we test the way we do, read **[How We Test](/how-we-test-and-label-claims/)**.
 
 Both are free. Neither requires you to buy anything.
+
+---
+
+Want to know what seven years on the road actually feels like? The stories, the lessons, and the honest truth about building a life in motion — that's over at Moments in the Miles. <a href="https://gwinn092.github.io/momentsinthemiles/" target="_blank" rel="noopener">Read the story →</a>

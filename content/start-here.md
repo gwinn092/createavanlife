@@ -115,3 +115,7 @@ We use affiliate links. If you buy through a link, we may earn a commission at n
 - [Van Life Sleep Setup on a Budget](/blog/van-life-sleep-setup-budget/)
 - [Van Life Water Setup on a Budget](/blog/van-life-water-setup-budget/)
 - [How to Stay Cool in Summer Without AC](/blog/van-life-summer-heat-no-ac/)
+
+---
+
+Want to know what seven years on the road actually feels like? The stories, the lessons, and the honest truth about building a life in motion — that's over at Moments in the Miles. <a href="https://gwinn092.github.io/momentsinthemiles/" target="_blank" rel="noopener">Read the story →</a>
