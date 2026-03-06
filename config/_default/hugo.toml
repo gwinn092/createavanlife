@@ -47,7 +47,7 @@ weight = 40
 
 [services]
   [services.googleAnalytics]
-    ID = "" # Add your G-XXXXXXXXXX ID here when ready
+    ID = "G-D886RFQKFZ"
 
 [params]
 plausibleDomain = ""
