@@ -45,7 +45,7 @@
         {{ range .GetTerms "tags" }}
           {{ if in (slice "van-life-reality" "couples" "lifestyle" "mental-health") (lower .Title) }}{{ $kicker = "8 Years in the Van" }}{{ end }}
         {{ end }}
-        <div class="calv-blog-hero mb-5" style="background-image: url('{{ $heroPhoto | relURL }}');">
+        <div class="calv-blog-hero mb-5" style="background-image: url('{{ $heroPhoto | absURL }}');">
           <div class="calv-blog-hero__overlay" aria-hidden="true"></div>
           <span class="calv-blog-hero__kicker">{{ $kicker }}</span>
         </div>
@@ -72,7 +72,7 @@
         {{ range .GetTerms "tags" }}
           {{ if in (slice "measured") (lower .Title) }}{{ $kicker = "Real Data" }}{{ end }}
         {{ end }}
-        <div class="calv-blog-hero mb-5" style="background-image: url('{{ $heroPhoto | relURL }}');">
+        <div class="calv-blog-hero mb-5" style="background-image: url('{{ $heroPhoto | absURL }}');">
           <div class="calv-blog-hero__overlay" aria-hidden="true"></div>
           {{ if $kicker }}<span class="calv-blog-hero__kicker">{{ $kicker }}</span>{{ end }}
         </div>

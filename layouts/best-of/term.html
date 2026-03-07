@@ -2,7 +2,7 @@
   {{ $pages := where site.RegularPages "Section" "best-of" }}
 
   <section class="vf-list-wrap mx-auto w-full max-w-7xl space-y-8 py-6">
-    <header class="vf-collection-hero" style="background-image: url('{{ "/img/home/buyer-guides.jpg" | relURL }}');">
+    <header class="vf-collection-hero" style="background-image: url('{{ "/img/home/buyer-guides.jpg" | absURL }}');">
       <div class="vf-collection-hero__overlay" aria-hidden="true"></div>
       <div class="vf-collection-hero__inner">
         <p class="vf-collection-hero__kicker">Best Picks</p>
