@@ -1,0 +1,10 @@
+{{/* Usage: {{< recoveryscore score="Fast" label="Spec" note="Fills in ~1hr from wall (manufacturer)" >}} */}}
+{{ $score := .Get "score" | default "Moderate" }}
+{{ $label := .Get "label" | default "Spec" }}
+{{ $note  := .Get "note" | default "" }}
+<div class="calv-recovery-score">
+  <span class="calv-recovery-score__heading">Recovery Score</span>
+  <span class="calv-recovery-score__tier calv-recovery-tier--{{ $score | lower }}">{{ $score }}</span>
+  <span class="calv-claim-badge calv-claim-{{ $label | lower }}">{{ $label }}</span>
+  {{ if $note }}<span class="calv-recovery-score__note">{{ $note }}</span>{{ end }}
+</div>

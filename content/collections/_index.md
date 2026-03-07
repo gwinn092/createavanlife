@@ -20,15 +20,6 @@ The best-of pages rank gear by category with methodology, top picks, and a compa
 - **[Best Budget Van Insulation](/best-of/best-van-insulation/)** — materials, vapor barrier, and what to skip
 - **[Best Budget Van Lighting](/best-of/best-van-lighting/)** — LED options, color temp, and wattage reality
 
-## Constraint Choosers
-
-Route by the thing that is actually limiting you right now.
-
-- **[Fast Charging by Constraint](/collections/fast-charging-by-constraint/)** — master chooser: budget, quiet hours, or generator-free
-- **[Under-$1000 Recovery Setups](/collections/under-1000-recovery-setups/)** — budget-first, repeatable recovery
-- **[Quiet Hours Survival Kit](/collections/quiet-hours-survival-kit/)** — charging in rule-constrained windows
-- **[Generator-Free Workflow](/collections/generator-free-workflow/)** — full-time van life without a generator
-
 ## Tools and Reference
 
 - **[Fast-Charging Power Station Buyer Checklist](/fast-charging-power-station-buyer-checklist/)** — confirm fit before checkout

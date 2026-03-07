@@ -18,6 +18,15 @@ If you can refill quickly when the weather turns, you miss a day of solar, or yo
 
 CAVL rule: we only recommend **700Wh+** power stations, and we prioritize **time-to-recover** over raw storage.
 
+## Quick-scan comparison
+
+{{< comparetable >}}
+ecoflow_river_2_pro | Short shore-power windows, fast daily top-off | $$$ | Fastest recharge in 700–800Wh class | Smaller buffer for multi-day stays | amazon
+anker_solix_c1000 | Shortest coffee-shop refill, work-heavy rigs | $$$ | Ultra-fast AC input, strong inverter | Heavier; often above $1000 at full price | amazon
+jackery_1000_v2 | Move days + alternator charging | $$$ | Fast mode for emergencies, ~1kWh buffer | Fast mode best reserved for recovery, not daily | amazon
+bluetti_elite_200_v2 | Balanced full-time power with LFP longevity | $$-$$$ | LFP cycle life, solid recovery on sale | Price fluctuates; heavier footprint | bluetti
+{{< /comparetable >}}
+
 <div class="calv-cta-module">
   <div class="calv-cta-row">
     <a class="calv-cta" href="/fast-charging-power-station-buyer-checklist/">Buyer Checklist</a>

@@ -24,9 +24,22 @@
       {{ $featuredImageAlt := .Params.featuredImageAlt | default .Title }}
       {{ $isSVG := and $featuredImage (or (strings.HasSuffix (string $featuredImage) ".svg") (strings.HasPrefix (string $featuredImage) "/images/featured/")) }}
       {{ if eq .Section "blog" }}
-        {{/* Blog posts: photo hero — use featuredImage or default van photo */}}
+        {{/* Blog posts: photo hero — use featuredImage or category-specific default */}}
         {{ $heroPhoto := "/images/photos/white-van-sunset.jpg" }}
-        {{ if and $featuredImage (not $isSVG) }}{{ $heroPhoto = $featuredImage }}{{ end }}
+        {{ if and $featuredImage (not $isSVG) }}
+          {{ $heroPhoto = $featuredImage }}
+        {{ else }}
+          {{/* Category-specific defaults */}}
+          {{ $tags := .GetTerms "tags" }}
+          {{ range $tags }}
+            {{ $t := lower .Title }}
+            {{ if in (slice "power" "electrical" "solar" "alternator" "battery") $t }}{{ $heroPhoto = "/img/home/buyer-checklist.jpg" }}{{ end }}
+            {{ if in (slice "build" "insulation" "van-build" "conversion") $t }}{{ $heroPhoto = "/img/home/fix-first.jpg" }}{{ end }}
+            {{ if in (slice "van-life-reality" "couples" "lifestyle" "mental-health") $t }}{{ $heroPhoto = "/images/photos/van-interior.jpg" }}{{ end }}
+            {{ if in (slice "gear" "reviews" "product") $t }}{{ $heroPhoto = "/img/home/buyer-guides.jpg" }}{{ end }}
+            {{ if in (slice "getting-started" "beginner" "first-time") $t }}{{ $heroPhoto = "/images/photos/van-parked-road.jpg" }}{{ end }}
+          {{ end }}
+        {{ end }}
         {{ $kicker := "Van Life" }}
         {{ if .Params.hero_kicker }}{{ $kicker = .Params.hero_kicker }}{{ end }}
         {{ range .GetTerms "tags" }}
@@ -119,6 +132,10 @@
       <div class="min-w-0 min-h-0 w-full flex-1 lg:col-span-10">
         {{ partial "series/series.html" . }}
         <div class="article-content max-w-full mb-12 prose dark:prose-invert">
+    {{/* Claim legend — gear/buyer pages only */}}
+    {{ if in (slice "gear" "best-of" "watch-list") .Section }}
+      {{ partial "calv/claim-legend.html" . }}
+    {{ end }}
     {{/* Decision header — gear/buyer pages only, not blog */}}
     {{ if in (slice "gear" "best-of" "collections" "watch-list") .Section }}
     <div class=”calv-decision-header not-prose”>
@@ -212,7 +229,7 @@
     </div>
     {{ end }}
 
-    {{ partial "calv/email-capture-module.html" . }}
+    {{ if ne .Section "blog" }}{{ partial "calv/email-capture-module.html" . }}{{ end }}
   </div>
 
           </div>

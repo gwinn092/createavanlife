@@ -18,6 +18,14 @@ CAVL rules for this page:
 - rank and frame decisions by **time-to-recover** over raw storage
 - **price-drift safe** structure (no “this is always under $1000” promises)
 
+## Quick-scan comparison
+
+{{< comparetable >}}
+ecoflow_river_2_pro | Fast daily top-offs, short shore windows | $$$ | Fastest recharge in class, stays under $1000 | Smaller buffer for longer off-grid stretches | amazon
+jackery_1000_v2 | Move days, alternator-forward rigs | $$$ | ~1kWh buffer, watch for sales under $1000 | Often at or above $1000 at full price | amazon
+anker_solix_c1000 | Shortest refill window, work-heavy rigs | $$$ | Ultra-fast AC input; worth watching for sales | Often above $1000; treat as a sale-window pick | amazon
+{{< /comparetable >}}
+
 If you want the fully sourced deep-dive buyer page (manufacturer claims + third-party tests), start here:
 - **[Best Fast-Charging Power Stations](/best-fast-charging-power-stations/)**
 

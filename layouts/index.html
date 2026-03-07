@@ -7,7 +7,7 @@
     <div class="calv-home-hero__inner">
       <p class="calv-home-hero__kicker">Honest guides for budget van life</p>
       <h1 class="calv-home-hero__h1">Find the right van power setup — without overbuilding or overspending.</h1>
-      <p class="calv-home-hero__sub">Real-world gear guides, a free power calculator, and beginner-to-full-time advice from 7+ years of full-time van life. Every spec labeled so you can compare clearly.</p>
+      <p class="calv-home-hero__sub">Real-world gear guides, a free power calculator, and beginner-to-full-time advice from 8+ years of full-time van life. Every spec labeled so you can compare clearly.</p>
       <div class="calv-home-hero__ctas">
         <a href="{{ "/van-power-calculator/" | relLangURL }}" class="calv-home-btn calv-home-btn--primary">Size my system →</a>
         <a href="{{ "/start-here/" | relLangURL }}" class="calv-home-btn calv-home-btn--ghost">Start Here</a>
@@ -17,12 +17,36 @@
 
   {{/* ── TRUST STRIP ── */}}
   <div class="calv-home-trust-strip">
-    <span>7+ years full-time van life</span>
+    <span>8+ years full-time van life</span>
     <span class="calv-home-trust-dot" aria-hidden="true">·</span>
     <span>Every spec labeled: Spec / Reported / Measured / Estimate</span>
     <span class="calv-home-trust-dot" aria-hidden="true">·</span>
     <span>No fake urgency. Ever.</span>
   </div>
+
+  {{/* ── SCENARIO CHOOSER ── */}}
+  <section class="calv-home-chooser" aria-labelledby="chooser-heading">
+    <div class="calv-home-chooser__inner">
+      <h2 class="calv-home-chooser__heading" id="chooser-heading">What brings you here?</h2>
+      <div class="calv-home-chooser__grid">
+        <a href="{{ "/best-fast-charging-power-stations/" | relLangURL }}" class="calv-home-chooser-card">
+          <span class="calv-home-chooser-card__icon" aria-hidden="true">⚡</span>
+          <span class="calv-home-chooser-card__title">I want the fastest possible recharge</span>
+          <span class="calv-home-chooser-card__sub">Shore, alternator, or solar — find your fastest move</span>
+        </a>
+        <a href="{{ "/collections/quiet-hours-survival-kit/" | relLangURL }}" class="calv-home-chooser-card">
+          <span class="calv-home-chooser-card__icon" aria-hidden="true">🌙</span>
+          <span class="calv-home-chooser-card__title">I camp where quiet hours are enforced</span>
+          <span class="calv-home-chooser-card__sub">Campgrounds, residential areas, timing-restricted spots</span>
+        </a>
+        <a href="{{ "/collections/generator-free-workflow/" | relLangURL }}" class="calv-home-chooser-card">
+          <span class="calv-home-chooser-card__icon" aria-hidden="true">☀️</span>
+          <span class="calv-home-chooser-card__title">I don't want to run a generator</span>
+          <span class="calv-home-chooser-card__sub">Solar + alternator routines without the noise</span>
+        </a>
+      </div>
+    </div>
+  </section>
 
   {{/* ── CATEGORY GRID ── */}}
   <section class="calv-home-grid-section" id="shop-by-category">
@@ -121,24 +145,55 @@
     {{ partial "home/newsletter.html" . }}
   </section>
 
+  {{/* ── FROM THE ROAD ── */}}
+  <section class="calv-home-stories" aria-labelledby="stories-heading">
+    <div class="calv-home-stories__inner">
+      <h2 class="calv-home-section-title" id="stories-heading">From the Road</h2>
+      <p class="calv-home-section-sub">8 years of real situations. Not scenarios we imagined — things that actually happened.</p>
+      <div class="calv-home-stories__grid">
+        <a href="{{ "/blog/" | relLangURL }}" class="calv-home-story-card">
+          <span class="calv-home-story-card__kicker">Power Failure</span>
+          <h3 class="calv-home-story-card__title">The battery % crash that changed how we review gear</h3>
+          <p class="calv-home-story-card__body">In the mountains, our Goal Zero Yeti 1400 showed 60% — then died. We managed every watt in survival mode for days. Turns out both it and our Bluetti had the same bug. Almost no review site covers the fix.</p>
+          <span class="calv-home-story-card__link">Read more in the blog →</span>
+        </a>
+        <a href="{{ "/blog/" | relLangURL }}" class="calv-home-story-card">
+          <span class="calv-home-story-card__kicker">The Portability Argument</span>
+          <h3 class="calv-home-story-card__title">Three times in 8 years a portable station saved us</h3>
+          <p class="calv-home-story-card__body">Electrical fault: pulled the station out. Coffee shop charging session: carried it in. Loaner to a stranded couple: unplugged and handed over. Portability isn't a spec — it's a capability that shows up at the worst times.</p>
+          <span class="calv-home-story-card__link">Read more in the blog →</span>
+        </a>
+        <a href="{{ "/blog/" | relLangURL }}" class="calv-home-story-card">
+          <span class="calv-home-story-card__kicker">Upgrade Lesson</span>
+          <h3 class="calv-home-story-card__title">What changed when we went from Yeti 1400 to Bluetti Elite 200V2</h3>
+          <p class="calv-home-story-card__body">Six years on the Yeti, then we upgraded. The Bluetti filled in under an hour from wall — the Yeti took most of a day. The difference wasn't capacity. It was how fast bad weeks could be erased.</p>
+          <span class="calv-home-story-card__link">Read more in the blog →</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
   {{/* ── TOP PICKS ── */}}
   <section class="calv-home-picks">
     <div class="calv-home-picks__inner">
       <h2 class="calv-home-section-title" style="color:#f8f5f0;">Top Picks Right Now</h2>
       <div class="calv-home-picks__grid">
         <a href="{{ "/best-fast-charging-power-stations-under-1000/#bucket-a--bad-week-recovery-erase-drift-fast" | relLangURL }}" class="calv-home-pick-card">
-          <span class="calv-home-pick-card__label">Top Pick</span>
-          <span class="calv-home-pick-card__title">Fastest recovery bucket</span>
+          <span class="calv-home-pick-card__label">Top Pick — Fast Recovery</span>
+          <span class="calv-home-pick-card__title">EcoFlow DELTA 2</span>
+          <span class="calv-home-pick-card__sub">Erase a bad week fast — fills in under an hour from wall</span>
           <span class="calv-home-pick-card__arrow">→</span>
         </a>
         <a href="{{ "/best-fast-charging-power-stations-under-1000/#bucket-b--quiet-hours-recovery-predictable-windows" | relLangURL }}" class="calv-home-pick-card">
-          <span class="calv-home-pick-card__label">Runner-Up</span>
-          <span class="calv-home-pick-card__title">Quiet-hours bucket</span>
+          <span class="calv-home-pick-card__label">Quiet Hours Pick</span>
+          <span class="calv-home-pick-card__title">BLUETTI AC180</span>
+          <span class="calv-home-pick-card__sub">Predictable solar intake, campground-friendly footprint</span>
           <span class="calv-home-pick-card__arrow">→</span>
         </a>
         <a href="{{ "/under-1000-fast-charging-watch-list/" | relLangURL }}" class="calv-home-pick-card">
-          <span class="calv-home-pick-card__label">More Picks</span>
-          <span class="calv-home-pick-card__title">Price drift watch list</span>
+          <span class="calv-home-pick-card__label">Value Watch</span>
+          <span class="calv-home-pick-card__title">Anker SOLIX C1000</span>
+          <span class="calv-home-pick-card__sub">Best specs-per-dollar — track during Prime Day and BFCM</span>
           <span class="calv-home-pick-card__arrow">→</span>
         </a>
       </div>
