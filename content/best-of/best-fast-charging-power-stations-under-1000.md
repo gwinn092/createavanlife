@@ -143,7 +143,7 @@ We may earn a commission if you buy through links on this site—see **[Affiliat
   truth="Capacity is manufacturer spec; recharge timing should be verified with third-party tests"
   whyhref="/best-of/best-fast-charging-power-stations/"
   whytext="See full breakdown"
->}}
+>}}{{< /pickcard >}}
 {{< pickcard
   title="Anker SOLIX C1000 Gen 2 (≈1kWh)"
   details="Watch for sale"
@@ -152,7 +152,7 @@ We may earn a commission if you buy through links on this site—see **[Affiliat
   truth="Capacity is manufacturer spec; fast-charge claims should be verified independently"
   whyhref="/best-of/best-fast-charging-power-stations/"
   whytext="See full breakdown"
->}}
+>}}{{< /pickcard >}}
 {{< pickcard
   title="Jackery Explorer 1000 v2 (1070Wh)"
   details="Watch for sale"
@@ -161,7 +161,7 @@ We may earn a commission if you buy through links on this site—see **[Affiliat
   truth="Capacity is manufacturer spec; treat fast-charge claims as manufacturer until independently verified"
   whyhref="/best-of/best-fast-charging-power-stations/"
   whytext="See full breakdown"
->}}
+>}}{{< /pickcard >}}
 {{< /pickgrid >}}
 
 ---
